@@ -6,6 +6,7 @@ import subprocess
 import sys
 import json
 import urllib
+import io
 from urllib.parse import urlencode
 
 
@@ -29,7 +30,7 @@ def fuck_room(game_name, cursor=None):
         c = cmd.replace('XHINLIANG_CURSOR', '')
     c = c.replace('GAME_NAME_RAW', game_name)
     c = c.replace('GAME_NAME_URLENCODED', urllib.parse.quote(game_name))
-    with open("temp.sh", "w") as f:
+    with open("temp.sh", "w", encoding='utf-8') as f:
         f.write(c)
     try:
         output = subprocess.check_output("bash temp.sh", shell=True)
@@ -61,8 +62,8 @@ def fuck_game(name):
         page = page + 1
     if name in map:
         print("%s %d" % (name, map[name]))
-        with open("count.csv", "a") as f:
-            f.write("%s %d\n" % (name, map[name]))
+        with open("count.csv", "a", encoding='utf-8') as f:
+            f.write("%s, %d\n" % (name, map[name]))
 
 
 from os import listdir
@@ -73,11 +74,10 @@ mypath = 'games'
 json_files = [f for f in listdir(mypath) if isfile(join(mypath, f))]
 json_files.sort()
 for json_file in json_files:
-    with open('games/' + json_file, 'r') as f:
+    with open('games/' + json_file, 'r', encoding='utf-8') as f:
         data = json.load(f)
         for edge in data[0]['data']['directories']['edges']:
-            try:
-                name = edge['node']['name']
-                fuck_game(name)
-            except:
-                print("name UnicodeEncodeError")
+            name = edge['node']['name']
+            if name in map:
+                del map[name]
+            fuck_game(name)
