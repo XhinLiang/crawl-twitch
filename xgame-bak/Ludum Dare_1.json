@@ -1,0 +1,128 @@
+[
+    {
+        "data": {
+            "directory": {
+                "__typename": "Game",
+                "displayName": "Ludum Dare",
+                "id": "132490",
+                "streams": {
+                    "__typename": "StreamConnection",
+                    "edges": [
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MA==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "langotriel",
+                                    "id": "26751870",
+                                    "login": "langotriel",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Ludum%20Dare-40x56.jpg",
+                                    "id": "132490",
+                                    "name": "Ludum Dare"
+                                },
+                                "id": "28497394960",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_langotriel-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Playing Ludum Dare Games! Submit your game here: https://goo.gl/forms/L9PUHh4jVk84tPmn2",
+                                "type": "live",
+                                "viewersCount": 14
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MQ==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "lerpish",
+                                    "id": "53321698",
+                                    "login": "lerpish",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Ludum%20Dare-40x56.jpg",
+                                    "id": "132490",
+                                    "name": "Ludum Dare"
+                                },
+                                "id": "28499047600",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lerpish-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Playing Ludum Dare 41 Games",
+                                "type": "live",
+                                "viewersCount": 7
+                            }
+                        }
+                    ],
+                    "pageInfo": {
+                        "__typename": "PageInfo",
+                        "hasNextPage": false
+                    }
+                }
+            }
+        },
+        "extensions": {
+            "durationMilliseconds": 89,
+            "operationName": "GamePage_Game"
+        }
+    }
+]

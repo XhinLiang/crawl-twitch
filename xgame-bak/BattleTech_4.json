@@ -1,0 +1,804 @@
+[
+    {
+        "data": {
+            "directory": {
+                "__typename": "Game",
+                "displayName": "BattleTech",
+                "id": "490757",
+                "streams": {
+                    "__typename": "StreamConnection",
+                    "edges": [
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "OTA=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Knobbingham",
+                                    "id": "38202784",
+                                    "login": "knobbingham",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/knobbingham-profile_image-c7cdf7be951e8592-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/BattleTech-40x56.jpg",
+                                    "id": "490757",
+                                    "name": "BattleTech"
+                                },
+                                "id": "28497532896",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_knobbingham-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "SAD FACE SATURDAYS || so much for field medicine (\u261e \uff9f\u256d\u256e \uff9f)\u261e",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "OTE=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "seapancakegaming",
+                                    "id": "97249587",
+                                    "login": "seapancakegaming",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/52657d13-7598-4f9f-b6b1-daf406a1d6db-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/BattleTech-40x56.jpg",
+                                    "id": "490757",
+                                    "name": "BattleTech"
+                                },
+                                "id": "28497482448",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seapancakegaming-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Battletech! Fighting back from bankruptcy! ",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "OTI=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "cloms",
+                                    "id": "44306062",
+                                    "login": "cloms",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/cloms-profile_image-514e84c8a6e44019-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/BattleTech-40x56.jpg",
+                                    "id": "490757",
+                                    "name": "BattleTech"
+                                },
+                                "id": "28493813200",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cloms-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "BattleTech - on the hunt for heavymechs",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "OTM=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "KosmosRPG",
+                                    "id": "81350142",
+                                    "login": "kosmosrpg",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/b75f385e-ea22-4946-a383-820841e3df02-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/BattleTech-40x56.jpg",
+                                    "id": "490757",
+                                    "name": "BattleTech"
+                                },
+                                "id": "28499231536",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kosmosrpg-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[BLIND] Honor & Glory, Day 04",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "OTQ=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "\ub9d0\ud14c\uad70",
+                                    "id": "197737491",
+                                    "login": "sheok79",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/56a22785-a201-447a-b277-638cf16123f2-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/BattleTech-40x56.jpg",
+                                    "id": "490757",
+                                    "name": "BattleTech"
+                                },
+                                "id": "28499206336",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sheok79-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\ub9d0\ud14c\uac00 \ud558\ub294 \ubc30\ud2c0 \ud14c\ud06c",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "OTU=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "ThroatPunchRadio",
+                                    "id": "125099505",
+                                    "login": "throatpunchradio",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b01e5ddbb600290-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/BattleTech-40x56.jpg",
+                                    "id": "490757",
+                                    "name": "BattleTech"
+                                },
+                                "id": "28498606528",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_throatpunchradio-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Throat Punch Radio - Streaming for her pleasure......\u2714\ufe0f ",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "OTY=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Borek224",
+                                    "id": "28474617",
+                                    "login": "borek224",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/BattleTech-40x56.jpg",
+                                    "id": "490757",
+                                    "name": "BattleTech"
+                                },
+                                "id": "28498537344",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_borek224-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[PL/EN] Im running business here! BATTLETECH campain",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "OTc=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Halfinax",
+                                    "id": "43097914",
+                                    "login": "halfinax",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/halfinax-profile_image-5f98c2b967cadc17-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/BattleTech-40x56.jpg",
+                                    "id": "490757",
+                                    "name": "BattleTech"
+                                },
+                                "id": "28498509840",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_halfinax-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Being terrible at games.",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "OTg=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "thenovalaw",
+                                    "id": "104861595",
+                                    "login": "thenovalaw",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2babcf0-79d5-4a37-85e5-d374aa1ab8a5-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/BattleTech-40x56.jpg",
+                                    "id": "490757",
+                                    "name": "BattleTech"
+                                },
+                                "id": "28498486336",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thenovalaw-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "WILL YOU BE MY BATTLE BUDDY, TONIGHT?",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "OTk=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "raokster",
+                                    "id": "205143257",
+                                    "login": "raokster",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4df793d-9571-4453-855d-89b00b36a175-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/BattleTech-40x56.jpg",
+                                    "id": "490757",
+                                    "name": "BattleTech"
+                                },
+                                "id": "28497649584",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raokster-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Battletech like a Bro",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTAw",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "seige_lord",
+                                    "id": "87789032",
+                                    "login": "seige_lord",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cef05bb-9c02-423a-81b2-7a643f26095b-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/BattleTech-40x56.jpg",
+                                    "id": "490757",
+                                    "name": "BattleTech"
+                                },
+                                "id": "28497541040",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seige_lord-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Doing some more Battletech campaign. Sound fixed I think!",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTAx",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Tegual",
+                                    "id": "14818411",
+                                    "login": "tegual",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/tegual-profile_image-77fe8c554292fa00-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/BattleTech-40x56.jpg",
+                                    "id": "490757",
+                                    "name": "BattleTech"
+                                },
+                                "id": "28497489312",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tegual-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Time for BattleTech. New Campaign.",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTAy",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "danando123",
+                                    "id": "39670515",
+                                    "login": "danando123",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/BattleTech-40x56.jpg",
+                                    "id": "490757",
+                                    "name": "BattleTech"
+                                },
+                                "id": "28496520208",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_danando123-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "MECHASAURUSREXARNETHILIAC",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTAz",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "elrammstein88",
+                                    "id": "25141391",
+                                    "login": "elrammstein88",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/elrammstein88-profile_image-f6bb54631f00e7d8-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/BattleTech-40x56.jpg",
+                                    "id": "490757",
+                                    "name": "BattleTech"
+                                },
+                                "id": "28496388288",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elrammstein88-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "top200 2v2",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTA0",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Azlorn",
+                                    "id": "37141498",
+                                    "login": "azlorn",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/azlorn-profile_image-0edf45ac731c5d29-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/BattleTech-40x56.jpg",
+                                    "id": "490757",
+                                    "name": "BattleTech"
+                                },
+                                "id": "28488731344",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_azlorn-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Hi, I'm Azlorn!\nYou can Google me!\nJoin Us: https://discord.gg/ASVpq\nLIKE! SUBSCRIBE! DONATE!\nhttps://www.minds.com/Azlorn ",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        }
+                    ],
+                    "pageInfo": {
+                        "__typename": "PageInfo",
+                        "hasNextPage": false
+                    }
+                }
+            }
+        },
+        "extensions": {
+            "durationMilliseconds": 104,
+            "operationName": "GamePage_Game"
+        }
+    }
+]

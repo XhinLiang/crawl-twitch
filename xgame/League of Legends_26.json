@@ -1,0 +1,1584 @@
+[
+    {
+        "data": {
+            "directory": {
+                "__typename": "Game",
+                "displayName": "League of Legends",
+                "id": "21779",
+                "streams": {
+                    "__typename": "StreamConnection",
+                    "edges": [
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NzUw",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "KarmaCake1337",
+                                    "id": "189206782",
+                                    "login": "karmacake1337",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/2057d709-4a2c-4f07-b939-41b2e697dd4b-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-40x56.jpg",
+                                    "id": "21779",
+                                    "name": "League of Legends"
+                                },
+                                "id": "28501145232",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karmacake1337-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Lets Play ! \u270c",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NzUx",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "shadowfanglive",
+                                    "id": "75723657",
+                                    "login": "shadowfanglive",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9d3a93a-2835-4d3f-b922-9a790d10261c-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-40x56.jpg",
+                                    "id": "21779",
+                                    "name": "League of Legends"
+                                },
+                                "id": "28501142752",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shadowfanglive-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "viewer games + ranked games (NL/ENG)",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NzUy",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Seyta",
+                                    "id": "179991481",
+                                    "login": "seyta",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/32d5828947b53bc9-profile_image-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-40x56.jpg",
+                                    "id": "21779",
+                                    "name": "League of Legends"
+                                },
+                                "id": "28501120448",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seyta-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Loleando en LAS | 1er stream ",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NzUz",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Kilpwnage",
+                                    "id": "65082665",
+                                    "login": "kilpwnage",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-40x56.jpg",
+                                    "id": "21779",
+                                    "name": "League of Legends"
+                                },
+                                "id": "28501117040",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kilpwnage-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "MSUs Newest EThot",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NzU0",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "\u308f\u3093\u308f\u3093\u304a",
+                                    "id": "53446856",
+                                    "login": "japan00five",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-40x56.jpg",
+                                    "id": "21779",
+                                    "name": "League of Legends"
+                                },
+                                "id": "28501090080",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_japan00five-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u3048\u308b\u304a\u30fc\u3048\u308b",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NzU1",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "BratwurstBronko",
+                                    "id": "167187334",
+                                    "login": "bratwurstbronko",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/494d7481-4a59-43b4-8dc2-0aa289854cad-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-40x56.jpg",
+                                    "id": "21779",
+                                    "name": "League of Legends"
+                                },
+                                "id": "28501084624",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bratwurstbronko-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": "",
+                                        "summonerID": 20841310,
+                                        "summonerName": "bratwurstbronko",
+                                        "summonerRank": ""
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Alles f\u00fcr die Bratwurst, alles f\u00fcr den Club!",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NzU2",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Devilick",
+                                    "id": "141675311",
+                                    "login": "devilick",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e1447a6-5015-4504-857a-87b7c0d66306-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-40x56.jpg",
+                                    "id": "21779",
+                                    "name": "League of Legends"
+                                },
+                                "id": "28501076800",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_devilick-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 110,
+                                        "summonerDivision": "",
+                                        "summonerID": 104209973,
+                                        "summonerName": "tessalysan",
+                                        "summonerRank": "GOLD"
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "UK Gold ADC - Vayne/Kai'Sa only",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NzU3",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "pewedd_",
+                                    "id": "136863471",
+                                    "login": "pewedd_",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/pewedd_-profile_image-9acde7c73e00eaaa-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-40x56.jpg",
+                                    "id": "21779",
+                                    "name": "League of Legends"
+                                },
+                                "id": "28501075376",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pewedd_-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "giga bored ",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NzU4",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "MorettRd",
+                                    "id": "131001095",
+                                    "login": "morettrd",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/d1852ad4-e40c-44fa-8925-8305bc0eb2a3-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-40x56.jpg",
+                                    "id": "21779",
+                                    "name": "League of Legends"
+                                },
+                                "id": "28501072992",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_morettrd-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Do prata ao challanger dia 1",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NzU5",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Enayden",
+                                    "id": "111134542",
+                                    "login": "enayden",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/8bb4ee2d-622e-44fb-90a3-a2300e6a8205-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-40x56.jpg",
+                                    "id": "21779",
+                                    "name": "League of Legends"
+                                },
+                                "id": "28501067040",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_enayden-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "ESP/ENG ranked de no tan trankis :S 200 followers, loading..\n",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NzYw",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "carlosfiussen",
+                                    "id": "139525479",
+                                    "login": "carlosfiussen",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-40x56.jpg",
+                                    "id": "21779",
+                                    "name": "League of Legends"
+                                },
+                                "id": "28501062784",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_carlosfiussen-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "live fortnite\n",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NzYx",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "esasSquidWard",
+                                    "id": "158573426",
+                                    "login": "esassquidward",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/ef21b5dbf40d0111-profile_image-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-40x56.jpg",
+                                    "id": "21779",
+                                    "name": "League of Legends"
+                                },
+                                "id": "28501046832",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_esassquidward-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": "",
+                                        "summonerID": 1225138,
+                                        "summonerName": "dasmaestro",
+                                        "summonerRank": "PLATINUM"
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Road To S\u0131raat K\u00f6pr\u00fcs\u00fc",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NzYy",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "XanxChan",
+                                    "id": "48542722",
+                                    "login": "xanxchan",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-40x56.jpg",
+                                    "id": "21779",
+                                    "name": "League of Legends"
+                                },
+                                "id": "28501033728",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xanxchan-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Having some Fun",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NzYz",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "TripleTapTV",
+                                    "id": "40015006",
+                                    "login": "tripletaptv",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/b769e462-6863-44e6-b6f7-72a6f36b5617-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-40x56.jpg",
+                                    "id": "21779",
+                                    "name": "League of Legends"
+                                },
+                                "id": "28501020992",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tripletaptv-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "League With viewers , Story time, and maybe a suprise later!",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NzY0",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Codcrank",
+                                    "id": "38207452",
+                                    "login": "codcrank",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-40x56.jpg",
+                                    "id": "21779",
+                                    "name": "League of Legends"
+                                },
+                                "id": "28501017776",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_codcrank-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 202,
+                                        "summonerDivision": "",
+                                        "summonerID": 28454635,
+                                        "summonerName": "codcrank",
+                                        "summonerRank": "DIAMOND"
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Climbing to Challenger\uff01",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NzY1",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "iPukimon",
+                                    "id": "36539464",
+                                    "login": "ipukimon",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/8be18d8b-f2a2-45bc-a02a-892e532faf16-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-40x56.jpg",
+                                    "id": "21779",
+                                    "name": "League of Legends"
+                                },
+                                "id": "28501014064",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ipukimon-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": "",
+                                        "summonerID": 28125,
+                                        "summonerName": "freesoul",
+                                        "summonerRank": "PLATINUM"
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Fedeando en LAS con historias de dross",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NzY2",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Elmogoku",
+                                    "id": "189789040",
+                                    "login": "elmogoku",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7468089-5ec1-462e-8173-633fc2641d32-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-40x56.jpg",
+                                    "id": "21779",
+                                    "name": "League of Legends"
+                                },
+                                "id": "28501011664",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elmogoku-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[Ger] Enspannt und souououououououwwwwwooww",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NzY3",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Fenomedya",
+                                    "id": "206438805",
+                                    "login": "fenomedya",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/4d0f4336-7dbb-4c3d-9fc8-fb4c838eb8da-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-40x56.jpg",
+                                    "id": "21779",
+                                    "name": "League of Legends"
+                                },
+                                "id": "28501010112",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fenomedya-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Silver Game / Burak FIRAT",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NzY4",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "vlastimilcollak023",
+                                    "id": "111574065",
+                                    "login": "vlastimilcollak023",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-40x56.jpg",
+                                    "id": "21779",
+                                    "name": "League of Legends"
+                                },
+                                "id": "28500987552",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vlastimilcollak023-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "BEST STREAM EVER",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NzY5",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Rukio_lol",
+                                    "id": "193247813",
+                                    "login": "rukio_lol",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/bf0ad279-442a-4e71-a10c-cf4414e784b2-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-40x56.jpg",
+                                    "id": "21779",
+                                    "name": "League of Legends"
+                                },
+                                "id": "28500978608",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukio_lol-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u30c6\u30a4\u30cc\u3055\u3093\u3068LOL",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Nzcw",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "\u30c1\u30e3\u30cb",
+                                    "id": "151625544",
+                                    "login": "kimwoongchan2",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/05415b63-30fe-4054-a5a7-341e113ade43-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-40x56.jpg",
+                                    "id": "21779",
+                                    "name": "League of Legends"
+                                },
+                                "id": "28500970384",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kimwoongchan2-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\ub2e4\uc774\uc544 \uc9c0\ubc15\ub839 ",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Nzcx",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Rallai",
+                                    "id": "112635301",
+                                    "login": "rallai",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/d728971d2aabe7f6-profile_image-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-40x56.jpg",
+                                    "id": "21779",
+                                    "name": "League of Legends"
+                                },
+                                "id": "28500954032",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rallai-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 61,
+                                        "summonerDivision": "",
+                                        "summonerID": 32954576,
+                                        "summonerName": "rallai",
+                                        "summonerRank": "SILVER"
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[ENG] So nice outside, but here I am.... playing video games! Let's see if I can gain LP! :D",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Nzcy",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "TheTwistedKind",
+                                    "id": "91619317",
+                                    "login": "thetwistedkind",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/9cb17ba98467b57c-profile_image-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-40x56.jpg",
+                                    "id": "21779",
+                                    "name": "League of Legends"
+                                },
+                                "id": "28500951696",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thetwistedkind-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 203,
+                                        "summonerDivision": "",
+                                        "summonerID": 52349404,
+                                        "summonerName": "parkourzebra",
+                                        "summonerRank": "PLATINUM"
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "The Early Lamb Gets The Mark (Kindred Only P4) :smile:",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Nzcz",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "N3wari",
+                                    "id": "118542871",
+                                    "login": "n3wari",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/fe48df1d-901e-449e-82dc-18205eded845-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-40x56.jpg",
+                                    "id": "21779",
+                                    "name": "League of Legends"
+                                },
+                                "id": "28500948576",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_n3wari-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u2192 \u2605 Road to Bronze 5 \u2605 \u2190",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Nzc0",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "hihioooya",
+                                    "id": "43378847",
+                                    "login": "hihioooya",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-40x56.jpg",
+                                    "id": "21779",
+                                    "name": "League of Legends"
+                                },
+                                "id": "28500934656",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hihioooya-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "lulu<3",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Nzc1",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "magooo02",
+                                    "id": "199029765",
+                                    "login": "magooo02",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/70a4d092-9b07-4031-8d09-ff3a861756c3-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-40x56.jpg",
+                                    "id": "21779",
+                                    "name": "League of Legends"
+                                },
+                                "id": "28500927632",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magooo02-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "RANKED",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Nzc2",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "\ud0dd\ubc30\ucfe4",
+                                    "id": "137622430",
+                                    "login": "kllop13",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/58d14be8-31e6-4112-bfb2-10f88a8103e4-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-40x56.jpg",
+                                    "id": "21779",
+                                    "name": "League of Legends"
+                                },
+                                "id": "28500921040",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kllop13-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\uace8\ub4dc \uc62c\ub77c\uc6b4\ub354 :D \ud0d11\ud2f0\uc5b4 \uce74\ubc00 \uc5f0\uc2b5",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Nzc3",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "\uce74\ud1a0_",
+                                    "id": "174395277",
+                                    "login": "ckato036",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/f3d95f02-08a5-45ee-ae54-1bcbbffd2185-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-40x56.jpg",
+                                    "id": "21779",
+                                    "name": "League of Legends"
+                                },
+                                "id": "28500917328",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ckato036-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\ub864 \uc2dc\ucc38\ub0b4\uc804\ud558\uc790",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Nzc4",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "TheAscendedTippy",
+                                    "id": "136738753",
+                                    "login": "theascendedtippy",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/5bebd7c4-c637-4af0-906b-d30bbf5086b2-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-40x56.jpg",
+                                    "id": "21779",
+                                    "name": "League of Legends"
+                                },
+                                "id": "28500914448",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theascendedtippy-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Changing to an ADC MAIN Supports Cant carry hard enough with the type of players in this game.\n",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Nzc5",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Guiguiiz",
+                                    "id": "91947999",
+                                    "login": "guiguiiz",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/058da456-6883-49c9-90af-f760bd1cbea4-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-40x56.jpg",
+                                    "id": "21779",
+                                    "name": "League of Legends"
+                                },
+                                "id": "28500914320",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_guiguiiz-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "LoL da Discordia !songrequest on ",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        }
+                    ],
+                    "pageInfo": {
+                        "__typename": "PageInfo",
+                        "hasNextPage": true
+                    }
+                }
+            }
+        },
+        "extensions": {
+            "durationMilliseconds": 101,
+            "operationName": "GamePage_Game"
+        }
+    }
+]

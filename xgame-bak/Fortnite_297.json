@@ -1,0 +1,1584 @@
+[
+    {
+        "data": {
+            "directory": {
+                "__typename": "Game",
+                "displayName": "Fortnite",
+                "id": "33214",
+                "streams": {
+                    "__typename": "StreamConnection",
+                    "edges": [
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDIw",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "omegaLll",
+                                    "id": "213459534",
+                                    "login": "omegalll",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/95b7c112-eec8-4af2-8698-ee68f417d532-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-40x56.jpg",
+                                    "id": "33214",
+                                    "name": "Fortnite"
+                                },
+                                "id": "28498998656",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_omegalll-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "LIVE Fornite / Les r\u00e8gles du tournois",
+                                "type": "live",
+                                "viewersCount": 10
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDIx",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "TheChickenDancer",
+                                    "id": "202841053",
+                                    "login": "thechickendancer",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d57252a-d1c1-47bb-9c65-88d160e4946b-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-40x56.jpg",
+                                    "id": "33214",
+                                    "name": "Fortnite"
+                                },
+                                "id": "28498983024",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thechickendancer-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "First Chicken Dance",
+                                "type": "live",
+                                "viewersCount": 10
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDIy",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "iKyleKrunk",
+                                    "id": "54162083",
+                                    "login": "ikylekrunk",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3b5c58a8-215c-4ac6-bc1e-b31f25a1e1d0-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-40x56.jpg",
+                                    "id": "33214",
+                                    "name": "Fortnite"
+                                },
+                                "id": "28498842912",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ikylekrunk-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Clickbait \ud83e\uddd4 !beard \ud83d\udc80!twitter \ud83d\udc80!sub",
+                                "type": "live",
+                                "viewersCount": 10
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDIz",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "RharBONA",
+                                    "id": "180124763",
+                                    "login": "rharbona",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/b590cea0-1085-4266-a400-7045bef73a50-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-40x56.jpg",
+                                    "id": "33214",
+                                    "name": "Fortnite"
+                                },
+                                "id": "28498830720",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rharbona-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "FORTNITE SOLO OG SUB GAMES!\ud83d\udd25 #YouTube\u270c\ufe0f @RharBONA p\u00e5 Insta!",
+                                "type": "live",
+                                "viewersCount": 10
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDI0",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "krakensitoo",
+                                    "id": "67373277",
+                                    "login": "krakensitoo",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3835d5f0-d17b-4b76-bf0d-0d03a42a3573-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-40x56.jpg",
+                                    "id": "33214",
+                                    "name": "Fortnite"
+                                },
+                                "id": "28498828288",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_krakensitoo-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "PUTO EL QUE LEA",
+                                "type": "live",
+                                "viewersCount": 10
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDI1",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "oldfox9620",
+                                    "id": "88544008",
+                                    "login": "oldfox9620",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/f7481c4d-fe49-4d5d-aa0b-f680685717f5-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-40x56.jpg",
+                                    "id": "33214",
+                                    "name": "Fortnite"
+                                },
+                                "id": "28498817984",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_oldfox9620-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "(PS4/DK) FOLLOW GAMES MED LEGENDEN!! F\u00d8LG MIN !FACEBOOK!!!",
+                                "type": "live",
+                                "viewersCount": 10
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDI2",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "melvynbd",
+                                    "id": "106214154",
+                                    "login": "melvynbd",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/44642cfd-2dfd-4c22-8da4-67bf079dbabc-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-40x56.jpg",
+                                    "id": "33214",
+                                    "name": "Fortnite"
+                                },
+                                "id": "28498806320",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_melvynbd-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[FR/PS4] Finale tournoi Fornite",
+                                "type": "live",
+                                "viewersCount": 10
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDI3",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "reds3103",
+                                    "id": "146455878",
+                                    "login": "reds3103",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/reds3103-profile_image-d17d39dc5cf44f9b-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-40x56.jpg",
+                                    "id": "33214",
+                                    "name": "Fortnite"
+                                },
+                                "id": "28498785104",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_reds3103-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u30d5\u30a9\u30fc\u30c8\u30ca\u30a4\u30c8\u5973\u5b50\u306eweek10\u3042\u30681\u500b\uff01\u26bd Reds\u306e\u30b2\u30fc\u30e0\u307e\u3063\u305f\u308a\u5b9f\u6cc1",
+                                "type": "live",
+                                "viewersCount": 10
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDI4",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "RafiVegas",
+                                    "id": "72722438",
+                                    "login": "rafivegas",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/9f673633da062090-profile_image-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-40x56.jpg",
+                                    "id": "33214",
+                                    "name": "Fortnite"
+                                },
+                                "id": "28498784112",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rafivegas-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u05e9\u05d9\u05d3\u05d5\u05e8 \u05dc\u05e1\u05d0\u05d1\u05d9\u05dd \u05e9\u05dc\u05d9 - Shadow, Fire, Shon, Rozano1",
+                                "type": "live",
+                                "viewersCount": 10
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDI5",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Toby2B",
+                                    "id": "73048234",
+                                    "login": "toby2b",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/8bdbe52a-4e32-403e-9bb6-8a36db28802b-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-40x56.jpg",
+                                    "id": "33214",
+                                    "name": "Fortnite"
+                                },
+                                "id": "28498773136",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_toby2b-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Winning? | !wins | Viewergames later",
+                                "type": "live",
+                                "viewersCount": 10
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDMw",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "HiMzOr",
+                                    "id": "40502620",
+                                    "login": "himzor",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/88e83ca0-c88f-4baf-8757-9391924ae739-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-40x56.jpg",
+                                    "id": "33214",
+                                    "name": "Fortnite"
+                                },
+                                "id": "28498750032",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himzor-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": " \ud83c\udf7bHiMzOr  ROAD TO 150 follows 8/10 subs Giveaway Opened!!!! Only for subs! Farycry 5 KEY - 2 days left to join!",
+                                "type": "live",
+                                "viewersCount": 10
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDMx",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "aladir_",
+                                    "id": "110182858",
+                                    "login": "aladir_",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/aladir_-profile_image-18733ce8bcfb8432-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-40x56.jpg",
+                                    "id": "33214",
+                                    "name": "Fortnite"
+                                },
+                                "id": "28498739824",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aladir_-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "solo azt\u00e1n majd megl\u00e1tjuk mi",
+                                "type": "live",
+                                "viewersCount": 10
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDMy",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "thatLADdylan",
+                                    "id": "93842335",
+                                    "login": "thatladdylan",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/16bbc5a0-5cd1-4bbe-be3f-9cb7eb0e7d6a-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-40x56.jpg",
+                                    "id": "33214",
+                                    "name": "Fortnite"
+                                },
+                                "id": "28498729392",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thatladdylan-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[\u1d07\u0274\u0262/\u1d29\u1d04] The weekend is here (\u00ac\u203f\u00ac) || @ThatLadDylan || !ladpoints !discord !vbi !ld",
+                                "type": "live",
+                                "viewersCount": 10
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDMz",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Justelinis",
+                                    "id": "204264659",
+                                    "login": "justelinis",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/dc306bda-c7f0-46f1-845d-c8e8114b0c9d-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-40x56.jpg",
+                                    "id": "33214",
+                                    "name": "Fortnite"
+                                },
+                                "id": "28498684432",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_justelinis-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[LT/EN] Fortnite Tournament! (Warmuping ATM)",
+                                "type": "live",
+                                "viewersCount": 10
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDM0",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "\u30c9\u30e1\u30b9\u30c6\u30a3\u30c3\u30af",
+                                    "id": "80358309",
+                                    "login": "domesutic",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/5882a98a-5c70-48fa-9901-159c07c013c1-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-40x56.jpg",
+                                    "id": "33214",
+                                    "name": "Fortnite"
+                                },
+                                "id": "28498684064",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_domesutic-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u2605\u30b3\u30e9\u30dc\u914d\u4fe1\u2605 domesu x \u3059\u306a\u306a \u59eb\u306f\u4ffa\u304c\u5b88\u308b\uff01\uff08\u3047",
+                                "type": "live",
+                                "viewersCount": 10
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDM1",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Sulamith",
+                                    "id": "183014410",
+                                    "login": "sulamith",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/e757d8f5-e390-4ea3-8cd6-98476f4bc598-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-40x56.jpg",
+                                    "id": "33214",
+                                    "name": "Fortnite"
+                                },
+                                "id": "28498668576",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sulamith-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Samstag spontan Stream f\u00fcr ein paar Stunden <3 Vollnoob legt wieder los ;) :P",
+                                "type": "live",
+                                "viewersCount": 10
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDM2",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "ShiniCheese",
+                                    "id": "112102490",
+                                    "login": "shinicheese",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/db2a2e4cda26e5f7-profile_image-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-40x56.jpg",
+                                    "id": "33214",
+                                    "name": "Fortnite"
+                                },
+                                "id": "28498617616",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shinicheese-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Zs\u00e9mbes n\u00e9gyes t\u00far\u00f3s kr\u00e9mes l 10k megtekint\u00e9s, k\u00f6sz\u00f6n\u00f6m <3 !ostya  #NoRage #FullChill",
+                                "type": "live",
+                                "viewersCount": 10
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDM3",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "pailygames6",
+                                    "id": "87817590",
+                                    "login": "pailygames6",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bc41d31-3d10-48e0-b3cf-43b7b9a57024-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-40x56.jpg",
+                                    "id": "33214",
+                                    "name": "Fortnite"
+                                },
+                                "id": "28498616080",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pailygames6-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "FR FRANCAIS - PAILYGAMES6.COM",
+                                "type": "live",
+                                "viewersCount": 10
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDM4",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "hking",
+                                    "id": "122011249",
+                                    "login": "hking",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/f1297cafdbce815c-profile_image-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-40x56.jpg",
+                                    "id": "33214",
+                                    "name": "Fortnite"
+                                },
+                                "id": "28498572832",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hking-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "910+ wins | !dance Road to partner  #WBGUP ",
+                                "type": "live",
+                                "viewersCount": 10
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDM5",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Syvix23",
+                                    "id": "131135077",
+                                    "login": "syvix23",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/117f138d-d146-440c-b1e5-f96701f5254d-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-40x56.jpg",
+                                    "id": "33214",
+                                    "name": "Fortnite"
+                                },
+                                "id": "28498540272",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_syvix23-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[PS4] Fortnite || We Out Here Saving The World And Stuff || BR After || !youtube !playlist",
+                                "type": "live",
+                                "viewersCount": 10
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDQw",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "EvaWanderlust",
+                                    "id": "156726609",
+                                    "login": "evawanderlust",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/13f1adb4-f8d1-4d18-8ffb-6778c55e4d6f-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-40x56.jpg",
+                                    "id": "33214",
+                                    "name": "Fortnite"
+                                },
+                                "id": "28498528160",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_evawanderlust-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\ud83d\udd34 FORTNITE INTENTANDO GANAR\ud83d\udd2b/ 100 SEGUIDORES = CAM ",
+                                "type": "live",
+                                "viewersCount": 10
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDQx",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Durmaplay",
+                                    "id": "74115451",
+                                    "login": "durmaplay",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/387bf338-86e4-4ab8-9546-7d9771591b9d-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-40x56.jpg",
+                                    "id": "33214",
+                                    "name": "Fortnite"
+                                },
+                                "id": "28498504992",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_durmaplay-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "F\u0130FA 18 \u00c7ekili\u015fi !!! --- DurmaPlay---Herg\u00fcn Farkl\u0131 Bir Oyun \u00c7ekili\u015fi !!!!",
+                                "type": "live",
+                                "viewersCount": 10
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDQy",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "xhydroz_",
+                                    "id": "85541610",
+                                    "login": "xhydroz_",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/8cf01de3-f2f4-44d1-972f-1c49f5508b90-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-40x56.jpg",
+                                    "id": "33214",
+                                    "name": "Fortnite"
+                                },
+                                "id": "28498448736",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xhydroz_-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[SLO/ ENG] | Be Carefu With Special Guest l \ud83c\udf81Enter My !GIVEAWAY \ud83c\udf81 | 3000 Total Views | ",
+                                "type": "live",
+                                "viewersCount": 10
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDQz",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "\ub2e4\ub098\uca29",
+                                    "id": "152450232",
+                                    "login": "cyj982002",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/f7604c4a-bba3-47b7-8243-21d3bba42838-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-40x56.jpg",
+                                    "id": "33214",
+                                    "name": "Fortnite"
+                                },
+                                "id": "28498396128",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cyj982002-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\uc138\ucfe0\uc2dc\ud55c \ud3ec\ub9b0\uc774 ",
+                                "type": "live",
+                                "viewersCount": 10
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDQ0",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "honeyholmes",
+                                    "id": "176859235",
+                                    "login": "honeyholmes",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/c70d8969-5d24-43db-ae5a-e868f57cec43-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-40x56.jpg",
+                                    "id": "33214",
+                                    "name": "Fortnite"
+                                },
+                                "id": "28498345312",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_honeyholmes-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Playing Fortnite come say hi! Honey xx",
+                                "type": "live",
+                                "viewersCount": 10
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDQ1",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Lego2fresh",
+                                    "id": "204218626",
+                                    "login": "lego2fresh",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/b426249b-a7da-44f4-b00d-a00f5d78b91f-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-40x56.jpg",
+                                    "id": "33214",
+                                    "name": "Fortnite"
+                                },
+                                "id": "28498237184",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lego2fresh-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Fortnite ps4 | FOLLOWERS WELCOME TO JOIN THE GAMES!",
+                                "type": "live",
+                                "viewersCount": 10
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDQ2",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "r0wey",
+                                    "id": "61915747",
+                                    "login": "r0wey",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/r0wey-profile_image-7c3e0edf6fd1d646-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-40x56.jpg",
+                                    "id": "33214",
+                                    "name": "Fortnite"
+                                },
+                                "id": "28498194032",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_r0wey-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[PS4] 5 VIEWERS WOULD BE NICE HAHA!",
+                                "type": "live",
+                                "viewersCount": 10
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDQ3",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Valdyrion_",
+                                    "id": "84120177",
+                                    "login": "valdyrion_",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/f4db9d30-6df8-4a5f-8e0f-2fe99c4fd124-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-40x56.jpg",
+                                    "id": "33214",
+                                    "name": "Fortnite"
+                                },
+                                "id": "28498184176",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_valdyrion_-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Carte 10\u20ac \u00e0 gagner pendant le live !!!",
+                                "type": "live",
+                                "viewersCount": 10
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDQ4",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "TheDiddyY",
+                                    "id": "91055184",
+                                    "login": "thediddyy",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f8d2912-9f84-4a58-abfe-939b7ef018b9-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-40x56.jpg",
+                                    "id": "33214",
+                                    "name": "Fortnite"
+                                },
+                                "id": "28498072560",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thediddyy-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "TOURNOIS FORTNITE FRANCE PS4 - 15H30",
+                                "type": "live",
+                                "viewersCount": 10
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDQ5",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "boutfiddyboys",
+                                    "id": "211464022",
+                                    "login": "boutfiddyboys",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8d46f24-094f-4cc2-9ccd-7394dbb3c660-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-40x56.jpg",
+                                    "id": "33214",
+                                    "name": "Fortnite"
+                                },
+                                "id": "28498011888",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boutfiddyboys-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Fortnite 50 gang WINS TODAY: 1",
+                                "type": "live",
+                                "viewersCount": 10
+                            }
+                        }
+                    ],
+                    "pageInfo": {
+                        "__typename": "PageInfo",
+                        "hasNextPage": true
+                    }
+                }
+            }
+        },
+        "extensions": {
+            "durationMilliseconds": 111,
+            "operationName": "GamePage_Game"
+        }
+    }
+]

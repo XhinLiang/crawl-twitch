@@ -1,0 +1,1584 @@
+[
+    {
+        "data": {
+            "directory": {
+                "__typename": "Game",
+                "displayName": "Overwatch",
+                "id": "488552",
+                "streams": {
+                    "__typename": "StreamConnection",
+                    "edges": [
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MA==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "OverwatchLeague",
+                                    "id": "137512364",
+                                    "login": "overwatchleague",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/bbecd8c4-141c-422b-8285-e3f8cae79dbb-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Overwatch-40x56.jpg",
+                                    "id": "488552",
+                                    "name": "Overwatch"
+                                },
+                                "id": "28495715232",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_overwatchleague-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": ""
+                                    }
+                                },
+                                "title": "Inaugural Season | Stage 3 Week 4 Day 3 | Rerun 2",
+                                "type": "rerun",
+                                "viewersCount": 11645
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MQ==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "\u516d\u5606",
+                                    "id": "7995300",
+                                    "login": "sixwong",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/sixwong-profile_image-98d998baede56640-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Overwatch-40x56.jpg",
+                                    "id": "488552",
+                                    "name": "Overwatch"
+                                },
+                                "id": "28499181408",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sixwong-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": "Widowmaker"
+                                    }
+                                },
+                                "title": "\u30106tan\u3011\u4e0d\u958b\u53f0\u6703\u4e0d\u5c0f\u5fc3\u7761\u8457",
+                                "type": "live",
+                                "viewersCount": 4187
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Mg==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Emongg",
+                                    "id": "23220337",
+                                    "login": "emongg",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/10c36ad0a4756df8-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Overwatch-40x56.jpg",
+                                    "id": "488552",
+                                    "name": "Overwatch"
+                                },
+                                "id": "28499812960",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_emongg-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": "Ana"
+                                    }
+                                },
+                                "title": "Offseason Shenanigans!",
+                                "type": "live",
+                                "viewersCount": 1659
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Mw==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Jayne",
+                                    "id": "101068316",
+                                    "login": "jayne",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/12f19019-c3dd-4355-b7cb-c022e2c34c59-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Overwatch-40x56.jpg",
+                                    "id": "488552",
+                                    "name": "Overwatch"
+                                },
+                                "id": "28498865344",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jayne-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": ""
+                                    }
+                                },
+                                "title": "\ud83d\udd34Educational Stream - VOD Reviews !discord !vod !schedule",
+                                "type": "live",
+                                "viewersCount": 1392
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NA==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "overwatchleague_kr",
+                                    "id": "188864445",
+                                    "login": "overwatchleague_kr",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/f8299778-3e86-4c03-ba11-6670ba01f842-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Overwatch-40x56.jpg",
+                                    "id": "488552",
+                                    "name": "Overwatch"
+                                },
+                                "id": "28497953008",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_overwatchleague_kr-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": ""
+                                    }
+                                },
+                                "title": "\uc624\ubc84\uc6cc\uce58 \ub9ac\uadf8  | \uc2a4\ud14c\uc774\uc9c03 4\uc8fc\ucc28 3\uc77c \uacbd\uae30 | \uc7ac\ubc29\uc1a1 2",
+                                "type": "rerun",
+                                "viewersCount": 506
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NQ==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "overwatchleague_fr",
+                                    "id": "188863650",
+                                    "login": "overwatchleague_fr",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/e073b223-91f3-4232-87fe-0641a15b7c41-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Overwatch-40x56.jpg",
+                                    "id": "488552",
+                                    "name": "Overwatch"
+                                },
+                                "id": "28497777632",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_overwatchleague_fr-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": ""
+                                    }
+                                },
+                                "title": "Saison Inaugurale | Etape 3 Semaine 4 Jour 3 | Rediffusion 2",
+                                "type": "rerun",
+                                "viewersCount": 457
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Ng==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "ESL_DeGuN",
+                                    "id": "100837532",
+                                    "login": "esl_degun",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/esl_degun-profile_image-9d01eb93cf248db6-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Overwatch-40x56.jpg",
+                                    "id": "488552",
+                                    "name": "Overwatch"
+                                },
+                                "id": "28499911824",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_esl_degun-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": "D. VA"
+                                    }
+                                },
+                                "title": "PICKUP FR @DeGuN_OW",
+                                "type": "live",
+                                "viewersCount": 247
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Nw==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Merrlinda",
+                                    "id": "48047382",
+                                    "login": "merrlinda",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/merrlinda-profile_image-593231d128f68556-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Overwatch-40x56.jpg",
+                                    "id": "488552",
+                                    "name": "Overwatch"
+                                },
+                                "id": "28493814144",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_merrlinda-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": ""
+                                    }
+                                },
+                                "title": "24 HR STREAM - Giving away Steam/Amazon gift cards!",
+                                "type": "live",
+                                "viewersCount": 245
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "OA==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "eskayplays",
+                                    "id": "145686333",
+                                    "login": "eskayplays",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/34172d1a-1da1-4705-9f65-3e900bda629d-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Overwatch-40x56.jpg",
+                                    "id": "488552",
+                                    "name": "Overwatch"
+                                },
+                                "id": "28499399168",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eskayplays-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": ""
+                                    }
+                                },
+                                "title": "gm/t500 pugs (4520 lucio)",
+                                "type": "live",
+                                "viewersCount": 209
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "OQ==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "O_Luminous_O",
+                                    "id": "189247405",
+                                    "login": "o_luminous_o",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/dcec28f5-d881-49a7-a8de-8b67530affc3-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Overwatch-40x56.jpg",
+                                    "id": "488552",
+                                    "name": "Overwatch"
+                                },
+                                "id": "28501047136",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_o_luminous_o-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": ""
+                                    }
+                                },
+                                "title": "POGGERS ONLY - PRACTICE TILL OD GAMES - ESSKITTIT",
+                                "type": "live",
+                                "viewersCount": 193
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTA=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "J3sus_TV",
+                                    "id": "133220545",
+                                    "login": "j3sus_tv",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/84f3586c-0a16-41fa-8373-6c947a1db282-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Overwatch-40x56.jpg",
+                                    "id": "488552",
+                                    "name": "Overwatch"
+                                },
+                                "id": "28499746688",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_j3sus_tv-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": ""
+                                    }
+                                },
+                                "title": "Off-season ResidentSleeper (!discord)",
+                                "type": "live",
+                                "viewersCount": 176
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTE=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "\u305b\u3093\u3068\u3059",
+                                    "id": "118922943",
+                                    "login": "sentosu",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/sentosu-profile_image-64bff0e6af1facbb-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Overwatch-40x56.jpg",
+                                    "id": "488552",
+                                    "name": "Overwatch"
+                                },
+                                "id": "28498413984",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sentosu-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": "Ana"
+                                    }
+                                },
+                                "title": "\u5bdd\u308b\u524d\u306a\u306b\u304b\u67a0",
+                                "type": "live",
+                                "viewersCount": 150
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTI=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Anakq",
+                                    "id": "127040829",
+                                    "login": "anakq",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/anakq-profile_image-ca536aa92de1a975-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Overwatch-40x56.jpg",
+                                    "id": "488552",
+                                    "name": "Overwatch"
+                                },
+                                "id": "28501087664",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anakq-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": ""
+                                    }
+                                },
+                                "title": "\u0412\u044b\u0436\u0438\u0432\u0430\u043d\u0438\u0435 \u0432 \u043c\u0435\u0436\u0441\u0435\u0437\u043e\u043d\u044c\u0435.",
+                                "type": "live",
+                                "viewersCount": 148
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTM=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "siorin_fps",
+                                    "id": "112863382",
+                                    "login": "siorin_fps",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/siorin_fps-profile_image-dbc4f70dce21962c-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Overwatch-40x56.jpg",
+                                    "id": "488552",
+                                    "name": "Overwatch"
+                                },
+                                "id": "28499948976",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_siorin_fps-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": ""
+                                    }
+                                },
+                                "title": "\u3010DTN\u3011\u5e30\u5b85 \u30a2\u30fc\u30b1\u30fc\u30c9\u3068\u304b\u3067\u904a\u3076\u3088\u30fc",
+                                "type": "live",
+                                "viewersCount": 136
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTQ=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "JimWats",
+                                    "id": "143533488",
+                                    "login": "jimwats",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/348bd1f5-6eef-4a02-84f1-d1e3d68f9c01-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Overwatch-40x56.jpg",
+                                    "id": "488552",
+                                    "name": "Overwatch"
+                                },
+                                "id": "28490299584",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimwats-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": ""
+                                    }
+                                },
+                                "title": "24 Hour Charity Stream for St. Jude Play Live. !stjude",
+                                "type": "live",
+                                "viewersCount": 125
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTU=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "\u840a\u65af",
+                                    "id": "7720868",
+                                    "login": "lice0424",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/lice0424-profile_image-6ca460616fe39eb3-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Overwatch-40x56.jpg",
+                                    "id": "488552",
+                                    "name": "Overwatch"
+                                },
+                                "id": "28500136656",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lice0424-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": "Mei"
+                                    }
+                                },
+                                "title": "\u3010\u840a\u65af\u3011\u73a9\u4e00\u4e0b\u5c31\u53bb\u5de5\u4f5c",
+                                "type": "live",
+                                "viewersCount": 124
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTY=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Beeftipsy",
+                                    "id": "86313365",
+                                    "login": "beeftipsy",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b20b74b7abad8aa-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Overwatch-40x56.jpg",
+                                    "id": "488552",
+                                    "name": "Overwatch"
+                                },
+                                "id": "28498680320",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beeftipsy-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": "Widowmaker"
+                                    }
+                                },
+                                "title": "learning new sens lets add another 5k shield btw // !oldsens !sens",
+                                "type": "live",
+                                "viewersCount": 110
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTc=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "BroadcastGG",
+                                    "id": "171289123",
+                                    "login": "broadcastgg",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/fa57b583dc614ba9-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Overwatch-40x56.jpg",
+                                    "id": "488552",
+                                    "name": "Overwatch"
+                                },
+                                "id": "28498109952",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_broadcastgg-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": ""
+                                    }
+                                },
+                                "title": "EU Open Division S2 Match of the Week: C8H11NO2 vs One.PoinT !casters",
+                                "type": "live",
+                                "viewersCount": 106
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTg=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Kolorblind",
+                                    "id": "139818124",
+                                    "login": "kolorblind",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/03fc1c73-3872-4da4-afac-94c3f9a4b374-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Overwatch-40x56.jpg",
+                                    "id": "488552",
+                                    "name": "Overwatch"
+                                },
+                                "id": "28500320592",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kolorblind-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": ""
+                                    }
+                                },
+                                "title": "Off season w/ subs !subgames",
+                                "type": "live",
+                                "viewersCount": 105
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTk=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "\u3053\u308d\u306d",
+                                    "id": "104911052",
+                                    "login": "corone",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/9d7025c3-9aab-4f7e-9543-d66ed74ab39c-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Overwatch-40x56.jpg",
+                                    "id": "488552",
+                                    "name": "Overwatch"
+                                },
+                                "id": "28499466064",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_corone-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": ""
+                                    }
+                                },
+                                "title": "OW\u7d05\u767d",
+                                "type": "live",
+                                "viewersCount": 92
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MjA=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "EvilToaster",
+                                    "id": "59927869",
+                                    "login": "eviltoaster",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/eviltoaster-profile_image-3072a16e0f708f0b-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Overwatch-40x56.jpg",
+                                    "id": "488552",
+                                    "name": "Overwatch"
+                                },
+                                "id": "28501025200",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eviltoaster-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": "Hanzo"
+                                    }
+                                },
+                                "title": "OW Practice stream. CSGO shields, shell shields, and more. Bloodborne after a while.",
+                                "type": "live",
+                                "viewersCount": 85
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MjE=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Ashi",
+                                    "id": "57606996",
+                                    "login": "ashi",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/c1de86633e3a3445-profile_image-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Overwatch-40x56.jpg",
+                                    "id": "488552",
+                                    "name": "Overwatch"
+                                },
+                                "id": "28498548624",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashi-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": "Widowmaker"
+                                    }
+                                },
+                                "title": "[PTR] I have Overwatch emotes! <3 | !news | !giveaway !glyph",
+                                "type": "live",
+                                "viewersCount": 82
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MjI=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Misskywalker",
+                                    "id": "31735640",
+                                    "login": "misskywalker",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/misskywalker-profile_image-c7573afc49221433-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Overwatch-40x56.jpg",
+                                    "id": "488552",
+                                    "name": "Overwatch"
+                                },
+                                "id": "28497606496",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_misskywalker-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": ""
+                                    }
+                                },
+                                "title": "Viewergames & Fortnite?!",
+                                "type": "live",
+                                "viewersCount": 78
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MjM=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "\u6613\u5148\u751f\u8aaa\u54c8\u56c9",
+                                    "id": "119441476",
+                                    "login": "zax82410",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/zax82410-profile_image-44dfacee819fa876-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Overwatch-40x56.jpg",
+                                    "id": "488552",
+                                    "name": "Overwatch"
+                                },
+                                "id": "28500607408",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zax82410-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": "Lucio"
+                                    }
+                                },
+                                "title": "\u300a\u6613\u5148\u751f\u300b\u4eca\u5929\u4f86\u5404\u7a2e\u4e92\u76f8\u50b7\u5bb3?!",
+                                "type": "live",
+                                "viewersCount": 73
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MjQ=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Metro",
+                                    "id": "20502899",
+                                    "login": "metro",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9fb307f-dfa2-48af-80a9-a95666e8847d-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Overwatch-40x56.jpg",
+                                    "id": "488552",
+                                    "name": "Overwatch"
+                                },
+                                "id": "28496897968",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_metro-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": ""
+                                    }
+                                },
+                                "title": "GM Pugs and Viewer pugs",
+                                "type": "live",
+                                "viewersCount": 73
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MjU=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Cuppcaake",
+                                    "id": "41657539",
+                                    "login": "cuppcaake",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/aa477fb1-81d0-47ce-b8f1-4271e120fbef-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Overwatch-40x56.jpg",
+                                    "id": "488552",
+                                    "name": "Overwatch"
+                                },
+                                "id": "28500989488",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cuppcaake-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": ""
+                                    }
+                                },
+                                "title": "short sub saturday!! 12 HOUR STREAM TOMORROW!-->[RAZER giveaways! - !giveaway ]<--",
+                                "type": "live",
+                                "viewersCount": 65
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MjY=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "DimitriV2",
+                                    "id": "73696152",
+                                    "login": "dimitriv2",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/ffe6278ddb1a0d34-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Overwatch-40x56.jpg",
+                                    "id": "488552",
+                                    "name": "Overwatch"
+                                },
+                                "id": "28498581168",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dimitriv2-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": ""
+                                    }
+                                },
+                                "title": "Chill Saturday Evening Strim, hanging out w/ some Overwatch",
+                                "type": "live",
+                                "viewersCount": 62
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Mjc=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "omegamario",
+                                    "id": "13154312",
+                                    "login": "omegamario",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/12e55dd5-844d-4faa-8a19-5e8307dac6e9-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Overwatch-40x56.jpg",
+                                    "id": "488552",
+                                    "name": "Overwatch"
+                                },
+                                "id": "28501102752",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_omegamario-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": ""
+                                    }
+                                },
+                                "title": "(PS4 !id) 1k Follower Celebration 10 Hour Stream* (Dependent)",
+                                "type": "live",
+                                "viewersCount": 61
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Mjg=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "DrRiku",
+                                    "id": "48316153",
+                                    "login": "drriku",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/99364ee3-5c5a-42b8-adfa-c99a308d0f6f-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Overwatch-40x56.jpg",
+                                    "id": "488552",
+                                    "name": "Overwatch"
+                                },
+                                "id": "28500652624",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_drriku-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": "Moira"
+                                    }
+                                },
+                                "title": "\u0295\u0e07\u2022\u1d25\u2022\u0294\u0e07 fight the bear - sub games today! ",
+                                "type": "live",
+                                "viewersCount": 44
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Mjk=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "NanaKtv",
+                                    "id": "120957306",
+                                    "login": "nanaktv",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/9a03a367-0f46-4019-abed-60a964488989-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Overwatch-40x56.jpg",
+                                    "id": "488552",
+                                    "name": "Overwatch"
+                                },
+                                "id": "28500864768",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanaktv-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": ""
+                                    }
+                                },
+                                "title": "Chill/Fun !cheers",
+                                "type": "live",
+                                "viewersCount": 42
+                            }
+                        }
+                    ],
+                    "pageInfo": {
+                        "__typename": "PageInfo",
+                        "hasNextPage": true
+                    }
+                }
+            }
+        },
+        "extensions": {
+            "durationMilliseconds": 100,
+            "operationName": "GamePage_Game"
+        }
+    }
+]

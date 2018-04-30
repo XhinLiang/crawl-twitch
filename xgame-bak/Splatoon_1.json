@@ -1,0 +1,76 @@
+[
+    {
+        "data": {
+            "directory": {
+                "__typename": "Game",
+                "displayName": "Splatoon",
+                "id": "460649",
+                "streams": {
+                    "__typename": "StreamConnection",
+                    "edges": [
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MA==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "PeekingBoo",
+                                    "id": "59868342",
+                                    "login": "peekingboo",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/peekingboo-profile_image-61f8588c2fac2396-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Splatoon-40x56.jpg",
+                                    "id": "460649",
+                                    "name": "Splatoon"
+                                },
+                                "id": "28497323328",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_peekingboo-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "SpeedStomp | DDR Pad Speedruns! - All Scrolls - PB = 10:02:20 | !bitblock !merch !schedule  [srl]",
+                                "type": "live",
+                                "viewersCount": 107
+                            }
+                        }
+                    ],
+                    "pageInfo": {
+                        "__typename": "PageInfo",
+                        "hasNextPage": false
+                    }
+                }
+            }
+        },
+        "extensions": {
+            "durationMilliseconds": 63,
+            "operationName": "GamePage_Game"
+        }
+    }
+]

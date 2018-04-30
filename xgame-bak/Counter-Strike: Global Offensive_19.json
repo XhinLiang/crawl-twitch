@@ -1,0 +1,1584 @@
+[
+    {
+        "data": {
+            "directory": {
+                "__typename": "Game",
+                "displayName": "Counter-Strike: Global Offensive",
+                "id": "32399",
+                "streams": {
+                    "__typename": "StreamConnection",
+                    "edges": [
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTQw",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "dairoku_waka",
+                                    "id": "108765354",
+                                    "login": "dairoku_waka",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/9bed4a6b-2924-4d50-94d1-cd731335b7b2-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Counter-Strike:%20Global%20Offensive-40x56.jpg",
+                                    "id": "32399",
+                                    "name": "Counter-Strike: Global Offensive"
+                                },
+                                "id": "28499229296",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dairoku_waka-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u30b9\u30ad\u30f3\u6eb6\u304b\u3057\u3066\u6625",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTQx",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "phoenixx94",
+                                    "id": "132433182",
+                                    "login": "phoenixx94",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/phoenixx94-profile_image-2b11c68ae6b7dacb-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Counter-Strike:%20Global%20Offensive-40x56.jpg",
+                                    "id": "32399",
+                                    "name": "Counter-Strike: Global Offensive"
+                                },
+                                "id": "28499226416",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_phoenixx94-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 3
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[Fr/PC] Le retour on va rigoler",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTQy",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "nawon_",
+                                    "id": "24650848",
+                                    "login": "nawon_",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/nawon_-profile_image-7f71510721959d54-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Counter-Strike:%20Global%20Offensive-40x56.jpg",
+                                    "id": "32399",
+                                    "name": "Counter-Strike: Global Offensive"
+                                },
+                                "id": "28499226096",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nawon_-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 17
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[Swe] test some things deal with it m'kaay? ",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTQz",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Corte26",
+                                    "id": "89840006",
+                                    "login": "corte26",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Counter-Strike:%20Global%20Offensive-40x56.jpg",
+                                    "id": "32399",
+                                    "name": "Counter-Strike: Global Offensive"
+                                },
+                                "id": "28499225152",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_corte26-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "y nos fuimos al cs\n",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTQ0",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "with_pistols",
+                                    "id": "76931710",
+                                    "login": "with_pistols",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Counter-Strike:%20Global%20Offensive-40x56.jpg",
+                                    "id": "32399",
+                                    "name": "Counter-Strike: Global Offensive"
+                                },
+                                "id": "28499224160",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_with_pistols-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": null,
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTQ1",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "yurkeloff228",
+                                    "id": "200430089",
+                                    "login": "yurkeloff228",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Counter-Strike:%20Global%20Offensive-40x56.jpg",
+                                    "id": "32399",
+                                    "name": "Counter-Strike: Global Offensive"
+                                },
+                                "id": "28499222224",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yurkeloff228-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 18
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u041f\u043e\u043a\u0430\u0442\u0443\u0448\u043a\u0438!",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTQ2",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "deadkillerzch",
+                                    "id": "143281139",
+                                    "login": "deadkillerzch",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/4c6eb8c0-2159-4113-ad9f-4727737d0fa1-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Counter-Strike:%20Global%20Offensive-40x56.jpg",
+                                    "id": "32399",
+                                    "name": "Counter-Strike: Global Offensive"
+                                },
+                                "id": "28499207536",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deadkillerzch-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 9
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[LIVE] CS:GO \u0e41\u0e23\u0e07\u0e04\u0e4c\u0e08\u0e30\u0e15\u0e01\u0e2b\u0e23\u0e37\u0e2d\u0e44\u0e21\u0e48\u0e21\u0e32\u0e40\u0e2a\u0e35\u0e48\u0e22\u0e07\u0e01\u0e31\u0e19",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTQ3",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Lucky_Dancer",
+                                    "id": "185248871",
+                                    "login": "lucky_dancer",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/0c33d011-879e-408a-a310-2b94a444c23c-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Counter-Strike:%20Global%20Offensive-40x56.jpg",
+                                    "id": "32399",
+                                    "name": "Counter-Strike: Global Offensive"
+                                },
+                                "id": "28499206128",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lucky_dancer-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 13
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Ranked :D",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTQ4",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "CGT_",
+                                    "id": "88934063",
+                                    "login": "cgt_",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/cgt_-profile_image-91c609abbb4d337a-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Counter-Strike:%20Global%20Offensive-40x56.jpg",
+                                    "id": "32399",
+                                    "name": "Counter-Strike: Global Offensive"
+                                },
+                                "id": "28499204384",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cgt_-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 9
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[Nor/Eng] Something, right?",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTQ5",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "keor94",
+                                    "id": "49472438",
+                                    "login": "keor94",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/821f5a3b-9728-4b52-8552-d01fb9f7c91f-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Counter-Strike:%20Global%20Offensive-40x56.jpg",
+                                    "id": "32399",
+                                    "name": "Counter-Strike: Global Offensive"
+                                },
+                                "id": "28499201920",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_keor94-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 9
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[ESP] UN POQUITO DE DUOS MM | AK",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTUw",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "lowaayzera",
+                                    "id": "217252924",
+                                    "login": "lowaayzera",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Counter-Strike:%20Global%20Offensive-40x56.jpg",
+                                    "id": "32399",
+                                    "name": "Counter-Strike: Global Offensive"
+                                },
+                                "id": "28499201824",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lowaayzera-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 1
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "HVH ",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTUx",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Shondaime11",
+                                    "id": "43884390",
+                                    "login": "shondaime11",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/5f01212b8ad31c56-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Counter-Strike:%20Global%20Offensive-40x56.jpg",
+                                    "id": "32399",
+                                    "name": "Counter-Strike: Global Offensive"
+                                },
+                                "id": "28499197232",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shondaime11-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 14
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "12 HORAS DE STREAMM",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTUy",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "fooby0",
+                                    "id": "114215196",
+                                    "login": "fooby0",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Counter-Strike:%20Global%20Offensive-40x56.jpg",
+                                    "id": "32399",
+                                    "name": "Counter-Strike: Global Offensive"
+                                },
+                                "id": "28499196592",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fooby0-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 17
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "fooby CS:GO :>",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTUz",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "samppakoo",
+                                    "id": "158267842",
+                                    "login": "samppakoo",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Counter-Strike:%20Global%20Offensive-40x56.jpg",
+                                    "id": "32399",
+                                    "name": "Counter-Strike: Global Offensive"
+                                },
+                                "id": "28499195232",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samppakoo-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 16
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "GO FULLSCREENMODE",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTU0",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "scrapyaimer",
+                                    "id": "159603999",
+                                    "login": "scrapyaimer",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/13dd8fa8-6213-4a90-bc61-4a8e286136ff-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Counter-Strike:%20Global%20Offensive-40x56.jpg",
+                                    "id": "32399",
+                                    "name": "Counter-Strike: Global Offensive"
+                                },
+                                "id": "28499190800",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_scrapyaimer-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "OG shooba hvhin'",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTU1",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "David_stroom",
+                                    "id": "183357924",
+                                    "login": "david_stroom",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Counter-Strike:%20Global%20Offensive-40x56.jpg",
+                                    "id": "32399",
+                                    "name": "Counter-Strike: Global Offensive"
+                                },
+                                "id": "28499190304",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_david_stroom-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 14
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "CSgo",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTU2",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "mr_mojitko",
+                                    "id": "138900775",
+                                    "login": "mr_mojitko",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3e1675d-8add-4fee-8463-5b6e91b123fe-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Counter-Strike:%20Global%20Offensive-40x56.jpg",
+                                    "id": "32399",
+                                    "name": "Counter-Strike: Global Offensive"
+                                },
+                                "id": "28499189344",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mr_mojitko-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 17
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "CZ/SK CS:GO a Nove Meno!!!! !command",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTU3",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "rrcr497",
+                                    "id": "129807634",
+                                    "login": "rrcr497",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Counter-Strike:%20Global%20Offensive-40x56.jpg",
+                                    "id": "32399",
+                                    "name": "Counter-Strike: Global Offensive"
+                                },
+                                "id": "28499186656",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rrcr497-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 16
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "lul haha",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTU4",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "nubixTV",
+                                    "id": "154809627",
+                                    "login": "nubixtv",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/2e8dccc8-26e1-4b53-80d1-159a2882af89-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Counter-Strike:%20Global%20Offensive-40x56.jpg",
+                                    "id": "32399",
+                                    "name": "Counter-Strike: Global Offensive"
+                                },
+                                "id": "28499186448",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nubixtv-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Kreedz....",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTU5",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "husker144",
+                                    "id": "44236524",
+                                    "login": "husker144",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/451b23e8-d6ca-4368-bd3e-1008a00a1a15-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Counter-Strike:%20Global%20Offensive-40x56.jpg",
+                                    "id": "32399",
+                                    "name": "Counter-Strike: Global Offensive"
+                                },
+                                "id": "28499182112",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_husker144-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 3
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "YEETING ON SOME TERRORISTS",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTYw",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Mrleaf69",
+                                    "id": "99587695",
+                                    "login": "mrleaf69",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/mrleaf69-profile_image-e2c8705dd9f5e104-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Counter-Strike:%20Global%20Offensive-40x56.jpg",
+                                    "id": "32399",
+                                    "name": "Counter-Strike: Global Offensive"
+                                },
+                                "id": "28499181504",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrleaf69-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 16
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "qual ",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTYx",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "shiftberz",
+                                    "id": "198814625",
+                                    "login": "shiftberz",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/75bbc58a-c998-49a7-893c-65d744c3deca-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Counter-Strike:%20Global%20Offensive-40x56.jpg",
+                                    "id": "32399",
+                                    "name": "Counter-Strike: Global Offensive"
+                                },
+                                "id": "28499181072",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shiftberz-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 17
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "!follow wowwww",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTYy",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Factlad",
+                                    "id": "81167793",
+                                    "login": "factlad",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/factlad-profile_image-716cf9988571b782-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Counter-Strike:%20Global%20Offensive-40x56.jpg",
+                                    "id": "32399",
+                                    "name": "Counter-Strike: Global Offensive"
+                                },
+                                "id": "28499179360",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_factlad-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 13
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "CSGO",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTYz",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "mrmariooooo",
+                                    "id": "120612069",
+                                    "login": "mrmariooooo",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/794bd094-2e4b-4478-8791-716037fd0470-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Counter-Strike:%20Global%20Offensive-40x56.jpg",
+                                    "id": "32399",
+                                    "name": "Counter-Strike: Global Offensive"
+                                },
+                                "id": "28499174960",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrmariooooo-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 11
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u041f\u0410\u0411\u0413 \u041d\u0423\u0411\u0410\n",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTY0",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "KiCHAAA_",
+                                    "id": "143470285",
+                                    "login": "kichaaa_",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/bfa05b0b-c5b0-4f56-8253-42cfae2fd65d-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Counter-Strike:%20Global%20Offensive-40x56.jpg",
+                                    "id": "32399",
+                                    "name": "Counter-Strike: Global Offensive"
+                                },
+                                "id": "28499167200",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kichaaa_-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 14
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "ADRENALINE CYBER LEAGUE #3",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTY1",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "radski",
+                                    "id": "128806597",
+                                    "login": "radski",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/66a0b2de-7763-4450-80c2-1e0e2f20ecba-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Counter-Strike:%20Global%20Offensive-40x56.jpg",
+                                    "id": "32399",
+                                    "name": "Counter-Strike: Global Offensive"
+                                },
+                                "id": "28499160928",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_radski-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 17
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "ADRENALINE CYBER LEAGUE #3 Qual\n",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTY2",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Ezal_TV",
+                                    "id": "191998391",
+                                    "login": "ezal_tv",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3af40cc9-17b2-40ff-b196-5fc68b5039d3-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Counter-Strike:%20Global%20Offensive-40x56.jpg",
+                                    "id": "32399",
+                                    "name": "Counter-Strike: Global Offensive"
+                                },
+                                "id": "28499158784",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ezal_tv-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 16
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "playing on faceit server",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTY3",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "BadSeeing",
+                                    "id": "191521379",
+                                    "login": "badseeing",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/07ef2604-b822-46e7-afe4-16a36346097a-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Counter-Strike:%20Global%20Offensive-40x56.jpg",
+                                    "id": "32399",
+                                    "name": "Counter-Strike: Global Offensive"
+                                },
+                                "id": "28499158512",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_badseeing-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 18
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u043f\u0430\u043c\u0430\u0433\u0438\u0442\u0435... | SEX ?!?!? |  #47sq",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTY4",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "MunCh133",
+                                    "id": "142760305",
+                                    "login": "munch133",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/munch133-profile_image-45ff5c5d6415320c-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Counter-Strike:%20Global%20Offensive-40x56.jpg",
+                                    "id": "32399",
+                                    "name": "Counter-Strike: Global Offensive"
+                                },
+                                "id": "28499157504",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_munch133-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 17
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "FACEIT 10LVL, VSE DELA TRALALA",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTY5",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "near_cs",
+                                    "id": "46914107",
+                                    "login": "near_cs",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/aacd0416-7695-4872-887e-51e645e2bf63-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Counter-Strike:%20Global%20Offensive-40x56.jpg",
+                                    "id": "32399",
+                                    "name": "Counter-Strike: Global Offensive"
+                                },
+                                "id": "28499156752",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_near_cs-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 16
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "chillin' killin'",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        }
+                    ],
+                    "pageInfo": {
+                        "__typename": "PageInfo",
+                        "hasNextPage": true
+                    }
+                }
+            }
+        },
+        "extensions": {
+            "durationMilliseconds": 102,
+            "operationName": "GamePage_Game"
+        }
+    }
+]

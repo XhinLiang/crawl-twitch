@@ -1,0 +1,1584 @@
+[
+    {
+        "data": {
+            "directory": {
+                "__typename": "Game",
+                "displayName": "Dota 2",
+                "id": "29595",
+                "streams": {
+                    "__typename": "StreamConnection",
+                    "edges": [
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjMw",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "1lightcore",
+                                    "id": "209126213",
+                                    "login": "1lightcore",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb70225f-4665-498a-8c51-bd9a420b4a70-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dota%202-40x56.jpg",
+                                    "id": "29595",
+                                    "name": "Dota 2"
+                                },
+                                "id": "28500689520",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_1lightcore-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u043d\u0443 \u0447\u0442\u043e? \u0440\u0430\u0437\u0432\u0430\u043b\u0438\u043c? ",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjMx",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "caca_prost",
+                                    "id": "92571983",
+                                    "login": "caca_prost",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dota%202-40x56.jpg",
+                                    "id": "29595",
+                                    "name": "Dota 2"
+                                },
+                                "id": "28500684144",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_caca_prost-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "gold dark willow",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjMy",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "mr_2bi",
+                                    "id": "216530960",
+                                    "login": "mr_2bi",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dota%202-40x56.jpg",
+                                    "id": "29595",
+                                    "name": "Dota 2"
+                                },
+                                "id": "28500679664",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mr_2bi-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u043d\u0430 \u0436\u0435\u043b\u0435\u0437\u043d\u044b\u0439 \u0441\u0442\u0443\u043b \u0434\u043b\u044f \u043f\u0440\u0438\u0433\u043e\u0440\u0430\u044e\u0449\u0435\u0439 \u0437\u0430\u0434\u043d\u0438\u0446\u044b",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjMz",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "ragingkamote001",
+                                    "id": "217214971",
+                                    "login": "ragingkamote001",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/e68e720d-4a80-43b6-af7f-81c3385a35ce-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dota%202-40x56.jpg",
+                                    "id": "29595",
+                                    "name": "Dota 2"
+                                },
+                                "id": "28500679264",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ragingkamote001-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Team Raging at Dota 2",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjM0",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "SmaaashTV",
+                                    "id": "179373136",
+                                    "login": "smaaashtv",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e348841-a50a-42da-a67c-54425394baac-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dota%202-40x56.jpg",
+                                    "id": "29595",
+                                    "name": "Dota 2"
+                                },
+                                "id": "28500678144",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_smaaashtv-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Dota",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjM1",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "lucifer_danno",
+                                    "id": "198677213",
+                                    "login": "lucifer_danno",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dota%202-40x56.jpg",
+                                    "id": "29595",
+                                    "name": "Dota 2"
+                                },
+                                "id": "28500675968",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lucifer_danno-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u0414\u0440\u0443\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u041f\u0430\u0422\u0438",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjM2",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "GaryWong",
+                                    "id": "35903737",
+                                    "login": "garywong",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed7e118b-ad6f-4cf2-ad86-9866cd631bad-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dota%202-40x56.jpg",
+                                    "id": "29595",
+                                    "name": "Dota 2"
+                                },
+                                "id": "28500641872",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_garywong-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Leveling to 5k.",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjM3",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "kasPGuo",
+                                    "id": "196301372",
+                                    "login": "kaspguo",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1dcc75b-d6a1-425a-8cc7-b420f5137acf-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dota%202-40x56.jpg",
+                                    "id": "29595",
+                                    "name": "Dota 2"
+                                },
+                                "id": "28500635776",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaspguo-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "ROAD TO TOP 100 BOYS !!",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjM4",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "lcfr522",
+                                    "id": "173642283",
+                                    "login": "lcfr522",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/92fcabd5-2b64-4a78-9206-8ca24d14cc05-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dota%202-40x56.jpg",
+                                    "id": "29595",
+                                    "name": "Dota 2"
+                                },
+                                "id": "28500628624",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lcfr522-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": ""
+                                    }
+                                },
+                                "title": "SilverName lul",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjM5",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "uzzzyzzzu",
+                                    "id": "65043892",
+                                    "login": "uzzzyzzzu",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/9a305a71-2993-4c13-82e9-33042a6e4bc4-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dota%202-40x56.jpg",
+                                    "id": "29595",
+                                    "name": "Dota 2"
+                                },
+                                "id": "28500620704",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uzzzyzzzu-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Playing DOTO  | No Voice, Only Music",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjQw",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "excloud2010",
+                                    "id": "52709556",
+                                    "login": "excloud2010",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/excloud2010-profile_image-e05bbff11139b672-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dota%202-40x56.jpg",
+                                    "id": "29595",
+                                    "name": "Dota 2"
+                                },
+                                "id": "28500617568",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_excloud2010-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "cuz im bad",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjQx",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Redrumjl217",
+                                    "id": "100887614",
+                                    "login": "redrumjl217",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/91e9823c-9be9-4eef-935b-df7bbf940295-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dota%202-40x56.jpg",
+                                    "id": "29595",
+                                    "name": "Dota 2"
+                                },
+                                "id": "28500607824",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redrumjl217-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Mid o Gank",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjQy",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "cloud89oph",
+                                    "id": "212221290",
+                                    "login": "cloud89oph",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dota%202-40x56.jpg",
+                                    "id": "29595",
+                                    "name": "Dota 2"
+                                },
+                                "id": "28500599536",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cloud89oph-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Road to 10 all-heroes challenge (Turbo)",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjQz",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "themrshadow_sfcreloaded",
+                                    "id": "105665103",
+                                    "login": "themrshadow_sfcreloaded",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/a884a8162b97d1a7-profile_image-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dota%202-40x56.jpg",
+                                    "id": "29595",
+                                    "name": "Dota 2"
+                                },
+                                "id": "28500590976",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_themrshadow_sfcreloaded-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u0413\u041e\u041d\u0429\u0418\u041a \u041d\u0415\u041b\u0415\u0413\u0410\u041b\u042c\u041d\u042b\u0419",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjQ0",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "BlackDesertEagle",
+                                    "id": "119569189",
+                                    "login": "blackdeserteagle",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/65283eb0-2a0c-438a-aad1-3eee17742ee0-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dota%202-40x56.jpg",
+                                    "id": "29595",
+                                    "name": "Dota 2"
+                                },
+                                "id": "28500586208",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_blackdeserteagle-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u041f\u043e\u0434\u043d\u0438\u043c\u0430\u044e MMR \u0441 700 \u0434\u043e \u0432\u043b\u0430\u0441\u0442\u0435\u043b\u0438\u043d\u0430 (4000)  \u0443\u0436\u0435 2300",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjQ1",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "mirukling",
+                                    "id": "215624120",
+                                    "login": "mirukling",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dota%202-40x56.jpg",
+                                    "id": "29595",
+                                    "name": "Dota 2"
+                                },
+                                "id": "28500581040",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mirukling-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u041d\u0430 \u0434\u043d\u0435 \u0414\u043e\u0442\u044b",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjQ2",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "ShinigamiGamingInc",
+                                    "id": "102310767",
+                                    "login": "shinigamigaminginc",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/shinigamigaminginc-profile_image-cf0a83531c799227-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dota%202-40x56.jpg",
+                                    "id": "29595",
+                                    "name": "Dota 2"
+                                },
+                                "id": "28500579360",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shinigamigaminginc-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Dota 2",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjQ3",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "eko7_kz",
+                                    "id": "215597128",
+                                    "login": "eko7_kz",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/2911fe01-ebdd-429d-9a47-3d2a049b7276-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dota%202-40x56.jpg",
+                                    "id": "29595",
+                                    "name": "Dota 2"
+                                },
+                                "id": "28500573568",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eko7_kz-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Dota 2 \u0441\u0442\u0440\u0438\u043c White Wind",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjQ4",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "lotofq",
+                                    "id": "43661394",
+                                    "login": "lotofq",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dota%202-40x56.jpg",
+                                    "id": "29595",
+                                    "name": "Dota 2"
+                                },
+                                "id": "28500565392",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lotofq-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "dota with russians DansGame(Battlecup today)",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjQ5",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Chotamchotam",
+                                    "id": "97142429",
+                                    "login": "chotamchotam",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dota%202-40x56.jpg",
+                                    "id": "29595",
+                                    "name": "Dota 2"
+                                },
+                                "id": "28500557616",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chotamchotam-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u041f\u043e\u0434\u0433\u043e\u0442\u043e\u0432\u043a\u0430 \u043a \u0411\u041a",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjUw",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "StillSerenity",
+                                    "id": "69341767",
+                                    "login": "stillserenity",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/4fb62a67-bd0f-4fce-b6ee-bef7ae607301-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dota%202-40x56.jpg",
+                                    "id": "29595",
+                                    "name": "Dota 2"
+                                },
+                                "id": "28500553648",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stillserenity-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[LT/ENG] loser stream FeelsBadMan",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjUx",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Settraxi",
+                                    "id": "133724402",
+                                    "login": "settraxi",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dota%202-40x56.jpg",
+                                    "id": "29595",
+                                    "name": "Dota 2"
+                                },
+                                "id": "28500536896",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_settraxi-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "3k comp games",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjUy",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "fRoD111k000",
+                                    "id": "167105855",
+                                    "login": "frod111k000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/14927212-0803-4598-980c-bd7ed4185f1d-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dota%202-40x56.jpg",
+                                    "id": "29595",
+                                    "name": "Dota 2"
+                                },
+                                "id": "28500503568",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frod111k000-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "|\u0420\u041e\u0417\u042b\u0413\u0420\u042b\u0428\u0418||\u0417\u0410\u0425\u041e\u0414\u0418 \u0423\u0427\u0410\u0421\u0422\u0412\u0423\u0419|    https://vk.com/frodaw0wtv",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjUz",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "elPasc",
+                                    "id": "89254696",
+                                    "login": "elpasc",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/elpasc-profile_image-d61f0b299823b44b-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dota%202-40x56.jpg",
+                                    "id": "29595",
+                                    "name": "Dota 2"
+                                },
+                                "id": "28500502944",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elpasc-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Na'Vi vs Team Invincible DAC CHEEKI ENGLISH CAST Casting some DAC",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjU0",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "SgSgSG7",
+                                    "id": "58363034",
+                                    "login": "sgsgsg7",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/633856b5-1b65-4aa5-af0e-8d14adf00452-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dota%202-40x56.jpg",
+                                    "id": "29595",
+                                    "name": "Dota 2"
+                                },
+                                "id": "28500501264",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sgsgsg7-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u0411\u0430\u043b\u043b\u0430\u0441\u0442 \u0438 \u0440\u0430\u043a\u043e\u0432\u044b\u0435 \u043f\u0430\u043b\u043e\u0447\u043a\u0438",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjU1",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "jhoelkoyot",
+                                    "id": "144549759",
+                                    "login": "jhoelkoyot",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/9eb13fa8-1468-4dad-bd8b-afae4b11c8fe-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dota%202-40x56.jpg",
+                                    "id": "29595",
+                                    "name": "Dota 2"
+                                },
+                                "id": "28500497728",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jhoelkoyot-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "juegos clasicos",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjU2",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "nep4uk_ptz",
+                                    "id": "47397996",
+                                    "login": "nep4uk_ptz",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dota%202-40x56.jpg",
+                                    "id": "29595",
+                                    "name": "Dota 2"
+                                },
+                                "id": "28500487888",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nep4uk_ptz-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Drow Ranger Gold 14 lvl dota +",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjU3",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "vladnodrink",
+                                    "id": "56483678",
+                                    "login": "vladnodrink",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/304d628b-16fe-4c58-8734-2add723ce76b-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dota%202-40x56.jpg",
+                                    "id": "29595",
+                                    "name": "Dota 2"
+                                },
+                                "id": "28500486144",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vladnodrink-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u041b\u0423\u0427\u0428\u042b\u0419 ",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjU4",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "oOrangeTV",
+                                    "id": "99624753",
+                                    "login": "oorangetv",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/f375898d-4a32-46eb-baf6-6c142d1e15ce-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dota%202-40x56.jpg",
+                                    "id": "29595",
+                                    "name": "Dota 2"
+                                },
+                                "id": "28500475664",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_oorangetv-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "3k \u043a\u0430\u0447\u0435\u043b\u0438",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjU5",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "player3241",
+                                    "id": "215966372",
+                                    "login": "player3241",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d0dda39-2354-40ec-9de6-7dd7e5d1281b-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dota%202-40x56.jpg",
+                                    "id": "29595",
+                                    "name": "Dota 2"
+                                },
+                                "id": "28500410160",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_player3241-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u0442\u043e\u043b\u044c\u043a\u043e \u043f\u043e\u0442",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        }
+                    ],
+                    "pageInfo": {
+                        "__typename": "PageInfo",
+                        "hasNextPage": true
+                    }
+                }
+            }
+        },
+        "extensions": {
+            "durationMilliseconds": 104,
+            "operationName": "GamePage_Game"
+        }
+    }
+]

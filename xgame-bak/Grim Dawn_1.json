@@ -1,0 +1,492 @@
+[
+    {
+        "data": {
+            "directory": {
+                "__typename": "Game",
+                "displayName": "Grim Dawn",
+                "id": "26881",
+                "streams": {
+                    "__typename": "StreamConnection",
+                    "edges": [
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MA==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "PewSquare",
+                                    "id": "39700852",
+                                    "login": "pewsquare",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/pewsquare-profile_image-adb0e5a570b6278a-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Grim%20Dawn-40x56.jpg",
+                                    "id": "26881",
+                                    "name": "Grim Dawn"
+                                },
+                                "id": "28497921600",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pewsquare-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "HC Mods and sunshine  \u0295\u0e07\u2022\u1d25\u2022\u0294\u0e07 ",
+                                "type": "live",
+                                "viewersCount": 46
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MQ==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "PerpetualMM",
+                                    "id": "64194073",
+                                    "login": "perpetualmm",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/perpetualmm-profile_image-537cd018325fe177-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Grim%20Dawn-40x56.jpg",
+                                    "id": "26881",
+                                    "name": "Grim Dawn"
+                                },
+                                "id": "28498661136",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perpetualmm-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Grimee Dees Farming/Charactering",
+                                "type": "live",
+                                "viewersCount": 14
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Mg==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Omar_Vasilich",
+                                    "id": "63984711",
+                                    "login": "omar_vasilich",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/omar_vasilich-profile_image-ef7612d9e9d59970-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Grim%20Dawn-40x56.jpg",
+                                    "id": "26881",
+                                    "name": "Grim Dawn"
+                                },
+                                "id": "28498064496",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_omar_vasilich-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Grim Dawn.MOD D2 Classes. [soundrequest: off]",
+                                "type": "live",
+                                "viewersCount": 7
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Mw==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Goom47",
+                                    "id": "152966565",
+                                    "login": "goom47",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b07b8da-f576-4cdf-a3da-e5235766d76d-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Grim%20Dawn-40x56.jpg",
+                                    "id": "26881",
+                                    "name": "Grim Dawn"
+                                },
+                                "id": "28498914464",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_goom47-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Im playing with my own builds for loot and exp (slow and chilled out ) ask if any questions on chat pls",
+                                "type": "live",
+                                "viewersCount": 4
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NA==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "vins0mer",
+                                    "id": "86293804",
+                                    "login": "vins0mer",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Grim%20Dawn-40x56.jpg",
+                                    "id": "26881",
+                                    "name": "Grim Dawn"
+                                },
+                                "id": "28496711136",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vins0mer-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[HCU] ABB spellbreaker",
+                                "type": "live",
+                                "viewersCount": 2
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NQ==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "MasterRayce",
+                                    "id": "88386459",
+                                    "login": "masterrayce",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/7a2e4ad8-03f4-4f93-be3b-ace2ca3b95d7-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Grim%20Dawn-40x56.jpg",
+                                    "id": "26881",
+                                    "name": "Grim Dawn"
+                                },
+                                "id": "28499167232",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_masterrayce-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Hardcore Elite SoT farming, 2H Forcewave Commando",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Ng==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "IaTeStar",
+                                    "id": "148259739",
+                                    "login": "iatestar",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/108908e4f9ab67cc-profile_image-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Grim%20Dawn-40x56.jpg",
+                                    "id": "26881",
+                                    "name": "Grim Dawn"
+                                },
+                                "id": "28496620192",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_iatestar-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[HardCore]  \u041d\u043e\u0432\u044b\u0439 \u043a\u043b\u0430\u0441\u0441 \u0432 \u041c\u0430\u043b\u044c\u043c\u0443\u0442\u0435 - \u041f\u0430\u043b\u0430\u0434\u0438\u043d!",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Nw==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "\ud734\uac00\uac00\uac8c",
+                                    "id": "161437736",
+                                    "login": "hugagage",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Grim%20Dawn-40x56.jpg",
+                                    "id": "26881",
+                                    "name": "Grim Dawn"
+                                },
+                                "id": "28499022704",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hugagage-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\ud734\uac00\uac00\uac8c  / \ub0b4\uc77c\ubaa8\ub808\ub9c8\ud754",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "OA==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "\uc190\ub9c8\ub8e8",
+                                    "id": "148294125",
+                                    "login": "ssj0696",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/ssj0696-profile_image-06249dd45b9b47dc-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Grim%20Dawn-40x56.jpg",
+                                    "id": "26881",
+                                    "name": "Grim Dawn"
+                                },
+                                "id": "28498701216",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ssj0696-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[\uc190\ub9c8\ub8e8]\uc2a4\ud300\uac8c\uc784 \"\uadf8\ub9bc\ub358\" \ud575\uc564\uc2ac\ub798\uc26c \uba85\uc791!!",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        }
+                    ],
+                    "pageInfo": {
+                        "__typename": "PageInfo",
+                        "hasNextPage": false
+                    }
+                }
+            }
+        },
+        "extensions": {
+            "durationMilliseconds": 131,
+            "operationName": "GamePage_Game"
+        }
+    }
+]

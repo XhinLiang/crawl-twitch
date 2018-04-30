@@ -1,0 +1,76 @@
+[
+    {
+        "data": {
+            "directory": {
+                "__typename": "Game",
+                "displayName": "Fallout",
+                "id": "10767",
+                "streams": {
+                    "__typename": "StreamConnection",
+                    "edges": [
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MA==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "konri420",
+                                    "id": "93426574",
+                                    "login": "konri420",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/8f3bfbc6-3612-4904-ae48-f4c0bb353b4e-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fallout-40x56.jpg",
+                                    "id": "10767",
+                                    "name": "Fallout"
+                                },
+                                "id": "28498588304",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_konri420-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Stazry ludzie na pustyni pt. 2 pancernik.info/twitch/konri420",
+                                "type": "live",
+                                "viewersCount": 56
+                            }
+                        }
+                    ],
+                    "pageInfo": {
+                        "__typename": "PageInfo",
+                        "hasNextPage": false
+                    }
+                }
+            }
+        },
+        "extensions": {
+            "durationMilliseconds": 70,
+            "operationName": "GamePage_Game"
+        }
+    }
+]

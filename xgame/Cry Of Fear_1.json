@@ -1,0 +1,76 @@
+[
+    {
+        "data": {
+            "directory": {
+                "__typename": "Game",
+                "displayName": "Cry Of Fear",
+                "id": "115546",
+                "streams": {
+                    "__typename": "StreamConnection",
+                    "edges": [
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MA==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "BatmanGo",
+                                    "id": "127543012",
+                                    "login": "batmango",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/94db5c97-8145-47e9-b852-63bdc886784c-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Cry%20Of%20Fear-40x56.jpg",
+                                    "id": "115546",
+                                    "name": "Cry Of Fear"
+                                },
+                                "id": "28500932560",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_batmango-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[+2 \u041c\u0421\u041a/RU] \u0438\u0433\u0440\u0430\u0435\u043c \u0438\u0433\u043e\u0440\u044b \u2665 ",
+                                "type": "live",
+                                "viewersCount": 20
+                            }
+                        }
+                    ],
+                    "pageInfo": {
+                        "__typename": "PageInfo",
+                        "hasNextPage": false
+                    }
+                }
+            }
+        },
+        "extensions": {
+            "durationMilliseconds": 99,
+            "operationName": "GamePage_Game"
+        }
+    }
+]

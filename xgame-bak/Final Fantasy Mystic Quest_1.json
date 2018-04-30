@@ -1,0 +1,128 @@
+[
+    {
+        "data": {
+            "directory": {
+                "__typename": "Game",
+                "displayName": "Final Fantasy Mystic Quest",
+                "id": "3331",
+                "streams": {
+                    "__typename": "StreamConnection",
+                    "edges": [
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MA==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Vultus",
+                                    "id": "27054821",
+                                    "login": "vultus",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/vultus-profile_image-9455d0f558526eef-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Final%20Fantasy%20Mystic%20Quest-40x56.jpg",
+                                    "id": "3331",
+                                    "name": "Final Fantasy Mystic Quest"
+                                },
+                                "id": "28498074288",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vultus-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Final Fantasy Mystic Quest 100% Speedrun",
+                                "type": "live",
+                                "viewersCount": 65
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MQ==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "HonkeyKong73",
+                                    "id": "87230687",
+                                    "login": "honkeykong73",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Final%20Fantasy%20Mystic%20Quest-40x56.jpg",
+                                    "id": "3331",
+                                    "name": "Final Fantasy Mystic Quest"
+                                },
+                                "id": "28498715008",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_honkeykong73-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Final Fantasy Mystic Quest Randomizer w/ Spetz Playz",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        }
+                    ],
+                    "pageInfo": {
+                        "__typename": "PageInfo",
+                        "hasNextPage": false
+                    }
+                }
+            }
+        },
+        "extensions": {
+            "durationMilliseconds": 104,
+            "operationName": "GamePage_Game"
+        }
+    }
+]

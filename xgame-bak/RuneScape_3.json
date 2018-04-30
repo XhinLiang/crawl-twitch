@@ -1,0 +1,1584 @@
+[
+    {
+        "data": {
+            "directory": {
+                "__typename": "Game",
+                "displayName": "RuneScape",
+                "id": "2083",
+                "streams": {
+                    "__typename": "StreamConnection",
+                    "edges": [
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjA=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "rsnmi",
+                                    "id": "134218208",
+                                    "login": "rsnmi",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/RuneScape-40x56.jpg",
+                                    "id": "2083",
+                                    "name": "RuneScape"
+                                },
+                                "id": "28499215376",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rsnmi-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Trio telos",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjE=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "RSshadowtje",
+                                    "id": "161636912",
+                                    "login": "rsshadowtje",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/RuneScape-40x56.jpg",
+                                    "id": "2083",
+                                    "name": "RuneScape"
+                                },
+                                "id": "28498881920",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rsshadowtje-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjI=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "NewYorksCx4",
+                                    "id": "67476358",
+                                    "login": "newyorkscx4",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/newyorkscx4-profile_image-e718e73e19d69c7e-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/RuneScape-40x56.jpg",
+                                    "id": "2083",
+                                    "name": "RuneScape"
+                                },
+                                "id": "28498867024",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_newyorkscx4-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "cleaned |  rebuild |   repeat",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjM=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "xQuaheezlex",
+                                    "id": "156615878",
+                                    "login": "xquaheezlex",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/RuneScape-40x56.jpg",
+                                    "id": "2083",
+                                    "name": "RuneScape"
+                                },
+                                "id": "28498768880",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xquaheezlex-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "NSFW Olm gets pounded by dh ;)",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjQ=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "kellblog",
+                                    "id": "54416540",
+                                    "login": "kellblog",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/kellblog-profile_image-8db33d26658f1263-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/RuneScape-40x56.jpg",
+                                    "id": "2083",
+                                    "name": "RuneScape"
+                                },
+                                "id": "28498625296",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kellblog-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[Ironman] 24 Hour GWD and Raid stream!!  [!hilt]",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjU=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Punches_osrs",
+                                    "id": "148014789",
+                                    "login": "punches_osrs",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/403045b01f794971-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/RuneScape-40x56.jpg",
+                                    "id": "2083",
+                                    "name": "RuneScape"
+                                },
+                                "id": "28498620528",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_punches_osrs-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Wildy PK (short stream)",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NjY=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "SuoMMela",
+                                    "id": "19962705",
+                                    "login": "suommela",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b72ae395fbd28c0-profile_image-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/RuneScape-40x56.jpg",
+                                    "id": "2083",
+                                    "name": "RuneScape"
+                                },
+                                "id": "28498354848",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_suommela-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "10 Subs 10m gw !sub 96-97 grinding ",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Njc=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Rhikcx",
+                                    "id": "156342259",
+                                    "login": "rhikcx",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/aa245428-eac1-4681-bfde-3d44dccae91a-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/RuneScape-40x56.jpg",
+                                    "id": "2083",
+                                    "name": "RuneScape"
+                                },
+                                "id": "28497986688",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rhikcx-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "P\u00e4iv\u00e4n slayerit",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Njg=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Narzynth",
+                                    "id": "30858492",
+                                    "login": "narzynth",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/narzynth-profile_image-af10846b4564c050-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/RuneScape-40x56.jpg",
+                                    "id": "2083",
+                                    "name": "RuneScape"
+                                },
+                                "id": "28497830592",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_narzynth-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Prepping for morytania hard diaries then barrows ",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Njk=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Keigs",
+                                    "id": "32554853",
+                                    "login": "keigs",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/05a7b32e273c22af-profile_image-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/RuneScape-40x56.jpg",
+                                    "id": "2083",
+                                    "name": "RuneScape"
+                                },
+                                "id": "28497774624",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_keigs-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Aus Ironman BTW || Skotizo n Clues",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NzA=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Yakolo",
+                                    "id": "153192938",
+                                    "login": "yakolo",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/17c78039-d08b-454b-98d8-37e575c24a9b-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/RuneScape-40x56.jpg",
+                                    "id": "2083",
+                                    "name": "RuneScape"
+                                },
+                                "id": "28492020432",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yakolo-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 18
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "HCIM Buying GF (One Year Anniversary Stream)!",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NzE=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "danskii77",
+                                    "id": "51776705",
+                                    "login": "danskii77",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/danskii77-profile_image-2b9296a8cb571856-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/RuneScape-40x56.jpg",
+                                    "id": "2083",
+                                    "name": "RuneScape"
+                                },
+                                "id": "28499124000",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_danskii77-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Duo rev pking",
+                                "type": "live",
+                                "viewersCount": 2
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NzI=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "JaydenSoFlyVids",
+                                    "id": "130599975",
+                                    "login": "jaydensoflyvids",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/jaydensoflyvids-profile_image-42295ee090939964-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/RuneScape-40x56.jpg",
+                                    "id": "2083",
+                                    "name": "RuneScape"
+                                },
+                                "id": "28499114672",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaydensoflyvids-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "IronPogChamp #ironmanmode",
+                                "type": "live",
+                                "viewersCount": 2
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NzM=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "DIAHxo",
+                                    "id": "212660517",
+                                    "login": "diahxo",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/d63e5fb6-8a94-4b18-99a3-587bae07643f-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/RuneScape-40x56.jpg",
+                                    "id": "2083",
+                                    "name": "RuneScape"
+                                },
+                                "id": "28499073968",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_diahxo-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[20/100] CHILLIN AND BOOLIN COME CHAT YE PAL xo",
+                                "type": "live",
+                                "viewersCount": 2
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NzQ=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Ruleofnine",
+                                    "id": "95123063",
+                                    "login": "ruleofnine",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/80097329-ff7f-401b-9c45-a6ad5e76f3bf-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/RuneScape-40x56.jpg",
+                                    "id": "2083",
+                                    "name": "RuneScape"
+                                },
+                                "id": "28499048368",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ruleofnine-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Ironmain Zulrah DESTRUCTION",
+                                "type": "live",
+                                "viewersCount": 2
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NzU=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "isoldier619",
+                                    "id": "65188313",
+                                    "login": "isoldier619",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb1b5939-c7dd-4aaf-b184-f4c2ea716584-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/RuneScape-40x56.jpg",
+                                    "id": "2083",
+                                    "name": "RuneScape"
+                                },
+                                "id": "28499033872",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_isoldier619-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "OSRS Sara Boss with Tbow!",
+                                "type": "live",
+                                "viewersCount": 2
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NzY=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "mindy_there",
+                                    "id": "199786596",
+                                    "login": "mindy_there",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/e78298e1-8cb1-4fff-9475-51613dc08e27-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/RuneScape-40x56.jpg",
+                                    "id": "2083",
+                                    "name": "RuneScape"
+                                },
+                                "id": "28498989904",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mindy_there-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "|Day 37| 1 Follow = 92/99 !newvid",
+                                "type": "live",
+                                "viewersCount": 2
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Nzc=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "TillykkeRS",
+                                    "id": "26201009",
+                                    "login": "tillykkers",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/aa414422-87d6-494a-9bf6-de0ccbdb10fa-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/RuneScape-40x56.jpg",
+                                    "id": "2083",
+                                    "name": "RuneScape"
+                                },
+                                "id": "28498960736",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tillykkers-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Wtf am I doing. (!Coll)",
+                                "type": "live",
+                                "viewersCount": 2
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Nzg=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "S3R3N_Official",
+                                    "id": "214526631",
+                                    "login": "s3r3n_official",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/44cb57f1-5386-4530-a034-d241691637a1-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/RuneScape-40x56.jpg",
+                                    "id": "2083",
+                                    "name": "RuneScape"
+                                },
+                                "id": "28498870720",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_s3r3n_official-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Questing with S3R3N! Carnillean Rising",
+                                "type": "live",
+                                "viewersCount": 2
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Nzk=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "DyezRS",
+                                    "id": "131536113",
+                                    "login": "dyezrs",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/dyezrs-profile_image-efeaec3c94d609a9-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/RuneScape-40x56.jpg",
+                                    "id": "2083",
+                                    "name": "RuneScape"
+                                },
+                                "id": "28498783760",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dyezrs-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "RS3 | Araxxor collection\n",
+                                "type": "live",
+                                "viewersCount": 2
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "ODA=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Andy_",
+                                    "id": "41115292",
+                                    "login": "andy_",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/c78f2f555c89642f-profile_image-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/RuneScape-40x56.jpg",
+                                    "id": "2083",
+                                    "name": "RuneScape"
+                                },
+                                "id": "28498763952",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_andy_-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "PK n stuff",
+                                "type": "live",
+                                "viewersCount": 2
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "ODE=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "jeebzz",
+                                    "id": "46921800",
+                                    "login": "jeebzz",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/RuneScape-40x56.jpg",
+                                    "id": "2083",
+                                    "name": "RuneScape"
+                                },
+                                "id": "28498612672",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jeebzz-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[UIM] rank 65 slayer @@@",
+                                "type": "live",
+                                "viewersCount": 2
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "ODI=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "br0k3nguns",
+                                    "id": "57500813",
+                                    "login": "br0k3nguns",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/br0k3nguns-profile_image-3967058599af745a-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/RuneScape-40x56.jpg",
+                                    "id": "2083",
+                                    "name": "RuneScape"
+                                },
+                                "id": "28498528912",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_br0k3nguns-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Onyx hunt 0/5 ",
+                                "type": "live",
+                                "viewersCount": 2
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "ODM=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Hakudaa",
+                                    "id": "95298168",
+                                    "login": "hakudaa",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/9bf83364d3f4eceb-profile_image-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/RuneScape-40x56.jpg",
+                                    "id": "2083",
+                                    "name": "RuneScape"
+                                },
+                                "id": "28498512688",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakudaa-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[RS3] [HD] [GER/ENG] New Account, Lets get it Setteld!",
+                                "type": "live",
+                                "viewersCount": 2
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "ODQ=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "edimmus",
+                                    "id": "208737700",
+                                    "login": "edimmus",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ad3e5b4-1f61-4e78-a576-059968fc9c55-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/RuneScape-40x56.jpg",
+                                    "id": "2083",
+                                    "name": "RuneScape"
+                                },
+                                "id": "28498489136",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_edimmus-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[RUNESCAPE 3] Dungeons and Angel of Death, Doing Dung till AOD team forms | Chillin', come by for a chat",
+                                "type": "live",
+                                "viewersCount": 2
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "ODU=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Qedrin",
+                                    "id": "201507542",
+                                    "login": "qedrin",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/d09886ab-fd3e-4a3c-89ce-f61582012a78-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/RuneScape-40x56.jpg",
+                                    "id": "2083",
+                                    "name": "RuneScape"
+                                },
+                                "id": "28498362608",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_qedrin-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "OSRS 60 att BH",
+                                "type": "live",
+                                "viewersCount": 2
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "ODY=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "VAClol",
+                                    "id": "92678928",
+                                    "login": "vaclol",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/690cbd57-b644-4f87-8c01-46589e89f7d4-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/RuneScape-40x56.jpg",
+                                    "id": "2083",
+                                    "name": "RuneScape"
+                                },
+                                "id": "28498321840",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaclol-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "98/99 atk : I am VAC : UK 60fps stream",
+                                "type": "live",
+                                "viewersCount": 2
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "ODc=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Invoke_Mercy",
+                                    "id": "31044745",
+                                    "login": "invoke_mercy",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/26b53310-0710-4764-afee-a124e575ba45-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/RuneScape-40x56.jpg",
+                                    "id": "2083",
+                                    "name": "RuneScape"
+                                },
+                                "id": "28497745104",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_invoke_mercy-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "GWD2!",
+                                "type": "live",
+                                "viewersCount": 2
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "ODg=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "nlreturns",
+                                    "id": "28198115",
+                                    "login": "nlreturns",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/nlreturns-profile_image-f0de2b7bed1f494c-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/RuneScape-40x56.jpg",
+                                    "id": "2083",
+                                    "name": "RuneScape"
+                                },
+                                "id": "28497510128",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nlreturns-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Ironman void after trident (:",
+                                "type": "live",
+                                "viewersCount": 2
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "ODk=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "deaginrs",
+                                    "id": "133265885",
+                                    "login": "deaginrs",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/e379fac6-59cb-42c2-a18f-651ae3f8fe39-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/RuneScape-40x56.jpg",
+                                    "id": "2083",
+                                    "name": "RuneScape"
+                                },
+                                "id": "28496289040",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deaginrs-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "what it do",
+                                "type": "live",
+                                "viewersCount": 2
+                            }
+                        }
+                    ],
+                    "pageInfo": {
+                        "__typename": "PageInfo",
+                        "hasNextPage": true
+                    }
+                }
+            }
+        },
+        "extensions": {
+            "durationMilliseconds": 100,
+            "operationName": "GamePage_Game"
+        }
+    }
+]

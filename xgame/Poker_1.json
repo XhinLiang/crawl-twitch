@@ -1,0 +1,1584 @@
+[
+    {
+        "data": {
+            "directory": {
+                "__typename": "Game",
+                "displayName": "Poker",
+                "id": "488190",
+                "streams": {
+                    "__typename": "StreamConnection",
+                    "edges": [
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MA==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "PokerStars",
+                                    "id": "127800",
+                                    "login": "pokerstars",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/c59fc3ca-f4d0-4fc4-92db-6fa69f42ec16-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Poker-40x56.jpg",
+                                    "id": "488190",
+                                    "name": "Poker"
+                                },
+                                "id": "28497351680",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pokerstars-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "EPT Monte-Carlo \u20ac100k Super High Roller FINAL TABLE!!",
+                                "type": "live",
+                                "viewersCount": 4713
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MQ==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "PokerStarsFrance",
+                                    "id": "93077562",
+                                    "login": "pokerstarsfrance",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/2475009649a7aabc-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Poker-40x56.jpg",
+                                    "id": "488190",
+                                    "name": "Poker"
+                                },
+                                "id": "28497361456",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pokerstarsfrance-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\ud83d\udd34Super High Roller POKERSTARS & MONTE-CARLO\u00a9CASINO EPT \u00c0 100K\u20ac, table finale (cartes visibles)\n",
+                                "type": "live",
+                                "viewersCount": 1082
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Mg==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "PokerStarsRU",
+                                    "id": "132007330",
+                                    "login": "pokerstarsru",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/pokerstarsru-profile_image-dae1e9d0fc70d7cf-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Poker-40x56.jpg",
+                                    "id": "488190",
+                                    "name": "Poker"
+                                },
+                                "id": "28497362192",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pokerstarsru-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u0422\u0440\u0430\u043d\u0441\u043b\u044f\u0446\u0438\u044f \u0441\u0443\u043f\u0435\u0440\u0442\u0443\u0440\u043d\u0438\u0440\u0430 \u0445\u0430\u0439-\u0440\u043e\u043b\u043b\u0435\u0440\u043e\u0432 EPT \u0432 \u041c\u043e\u043d\u0442\u0435-\u041a\u0430\u0440\u043b\u043e \u043d\u0430 \u20ac100000",
+                                "type": "live",
+                                "viewersCount": 607
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Mw==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "MattStaples",
+                                    "id": "78965512",
+                                    "login": "mattstaples",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/mattstaples-profile_image-c2f6c1befaac874b-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Poker-40x56.jpg",
+                                    "id": "488190",
+                                    "name": "Poker"
+                                },
+                                "id": "28499116720",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mattstaples-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "ITM PLOL WEEKEND TOURNAMENT GRIND",
+                                "type": "live",
+                                "viewersCount": 576
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NA==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "CashGameFestival",
+                                    "id": "104735335",
+                                    "login": "cashgamefestival",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/cashgamefestival-profile_image-a816121e426695d6-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Poker-40x56.jpg",
+                                    "id": "488190",
+                                    "name": "Poker"
+                                },
+                                "id": "28499487408",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cashgamefestival-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "LIVE @ Cash Game Festival Tallinn 2018",
+                                "type": "live",
+                                "viewersCount": 212
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NQ==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "minthon19",
+                                    "id": "108528853",
+                                    "login": "minthon19",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/minthon19-profile_image-fef3b452fe014604-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Poker-40x56.jpg",
+                                    "id": "488190",
+                                    "name": "Poker"
+                                },
+                                "id": "28500747600",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_minthon19-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u0414\u0436\u0438\u043d\u0441\u044b \u043f\u043e\u0440\u0435\u0437\u0430\u043d\u044b, \u043b\u0435\u0442\u043e, \u0442\u0440\u0438 \u043f\u043e\u043b\u043e\u0441\u043a\u0438 \u043d\u0430 \u043a\u0435\u0434\u0430\u0445",
+                                "type": "live",
+                                "viewersCount": 106
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Ng==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "\u5c0f\u9298",
+                                    "id": "50202832",
+                                    "login": "hcm1008",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/hcm1008-profile_image-99d1cd93a5af792a-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Poker-40x56.jpg",
+                                    "id": "488190",
+                                    "name": "Poker"
+                                },
+                                "id": "28500388720",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hcm1008-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[\u5c0f\u9298]  Natural8 Poker, \u5c0f\u6253\u4e00\u4e0b ~",
+                                "type": "live",
+                                "viewersCount": 84
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Nw==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "ClaedeusFR",
+                                    "id": "108305715",
+                                    "login": "claedeusfr",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/90cb5d22-4de9-4a6e-825b-677883355371-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Poker-40x56.jpg",
+                                    "id": "488190",
+                                    "name": "Poker"
+                                },
+                                "id": "28500094464",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_claedeusfr-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u2611\ufe0f\ud83d\udc51\u3008 ClaeTV \u3009\u27a3 18h -> Claedeus",
+                                "type": "live",
+                                "viewersCount": 81
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "OA==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "magnusbetner",
+                                    "id": "156239920",
+                                    "login": "magnusbetner",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/magnusbetner-profile_image-04ad85a66bb4d2fe-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Poker-40x56.jpg",
+                                    "id": "488190",
+                                    "name": "Poker"
+                                },
+                                "id": "28501076048",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_magnusbetner-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "L\u00f6rdagspoker! Spelar diverse turneringar fr\u00e5n V\u00e4llingby",
+                                "type": "live",
+                                "viewersCount": 68
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "OQ==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "PokerAcademie",
+                                    "id": "29509222",
+                                    "login": "pokeracademie",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/da4ee98c869ec891-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Poker-40x56.jpg",
+                                    "id": "488190",
+                                    "name": "Poker"
+                                },
+                                "id": "28492592160",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pokeracademie-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Poker Academie, rediff 24/7.",
+                                "type": "rerun",
+                                "viewersCount": 56
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTA=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "POLORIS54",
+                                    "id": "36984281",
+                                    "login": "poloris54",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/poloris54-profile_image-832569520573255d-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Poker-40x56.jpg",
+                                    "id": "488190",
+                                    "name": "Poker"
+                                },
+                                "id": "28497721888",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_poloris54-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Samedi fait pas beau allons voir les copains sur le net :)",
+                                "type": "live",
+                                "viewersCount": 53
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTE=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Kylix42",
+                                    "id": "99466568",
+                                    "login": "kylix42",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/75f3bac2-e189-4341-aa08-c92222d7b81c-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Poker-40x56.jpg",
+                                    "id": "488190",
+                                    "name": "Poker"
+                                },
+                                "id": "28499956400",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kylix42-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "SABAD\u00c3O DA FORRA !!!!!! VAMOSSS!!!!",
+                                "type": "live",
+                                "viewersCount": 44
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTI=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "LuckyEgorka",
+                                    "id": "48866045",
+                                    "login": "luckyegorka",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/luckyegorka-profile_image-da4a7d09cec830df-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Poker-40x56.jpg",
+                                    "id": "488190",
+                                    "name": "Poker"
+                                },
+                                "id": "28495973776",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_luckyegorka-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "no tilt",
+                                "type": "live",
+                                "viewersCount": 43
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTM=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "turbokings",
+                                    "id": "102892865",
+                                    "login": "turbokings",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/9b76e854-1cee-427e-b0c1-137e0d3a5f07-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Poker-40x56.jpg",
+                                    "id": "488190",
+                                    "name": "Poker"
+                                },
+                                "id": "28500864432",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_turbokings-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Grinding Pokerstars MTTs and SNGs allllllll day !team ",
+                                "type": "live",
+                                "viewersCount": 40
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTQ=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "WinWinPoker",
+                                    "id": "181909749",
+                                    "login": "winwinpoker",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/23a40420bf43b923-profile_image-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Poker-40x56.jpg",
+                                    "id": "488190",
+                                    "name": "Poker"
+                                },
+                                "id": "28499678608",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_winwinpoker-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Spin&Go \u043f\u043e $15 - \u0412\u0434\u0443\u043c\u0447\u0438\u0432\u043e \u0438 \u0443\u0432\u0435\u0440\u0435\u043d\u043d\u043e \u0441 \u0442\u0440\u0435\u043d\u0435\u0440\u043e\u043c Win-Win \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u043c yourpro 28/04/2018",
+                                "type": "live",
+                                "viewersCount": 34
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTU=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "thinpoker",
+                                    "id": "54820118",
+                                    "login": "thinpoker",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/79918c4f-1216-4955-a1db-370ff2d3a64b-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Poker-40x56.jpg",
+                                    "id": "488190",
+                                    "name": "Poker"
+                                },
+                                "id": "28500778528",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thinpoker-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "S\u00c1BADO DE BOUNTIES! ",
+                                "type": "live",
+                                "viewersCount": 29
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTY=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "pokerisivut",
+                                    "id": "115497096",
+                                    "login": "pokerisivut",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/pokerisivut-profile_image-0bfbc9bf323fab3c-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Poker-40x56.jpg",
+                                    "id": "488190",
+                                    "name": "Poker"
+                                },
+                                "id": "28500657792",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pokerisivut-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Lauantain livet",
+                                "type": "live",
+                                "viewersCount": 29
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTc=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "ITCFond",
+                                    "id": "159915493",
+                                    "login": "itcfond",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ec3c230d6073cc0-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Poker-40x56.jpg",
+                                    "id": "488190",
+                                    "name": "Poker"
+                                },
+                                "id": "28499940336",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itcfond-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "MTT ABI70 @Sledyyshii (\u043d\u0438\u0442\u043e\u0432\u043e\u0435 \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u0435)\n\n",
+                                "type": "live",
+                                "viewersCount": 29
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTg=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "DzenHoll",
+                                    "id": "217226837",
+                                    "login": "dzenholl",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/38044a85-324f-4f4a-ab23-ac8358a06189-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Poker-40x56.jpg",
+                                    "id": "488190",
+                                    "name": "Poker"
+                                },
+                                "id": "28500868896",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dzenholl-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Poker! \u0421\u0442\u0430\u0440\u0442\u0443\u0435\u043c! + \u0444\u0443\u0442\u0431\u043e\u043b Real Madrid - \u0441\u043c\u043e\u0442\u0440\u0438\u043c!",
+                                "type": "live",
+                                "viewersCount": 28
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTk=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "CRAIPoker",
+                                    "id": "59744152",
+                                    "login": "craipoker",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/a0c35fd4-709a-4c98-a282-3ce1ed2617ce-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Poker-40x56.jpg",
+                                    "id": "488190",
+                                    "name": "Poker"
+                                },
+                                "id": "28501036288",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_craipoker-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[Teststream] let's fk some cnts @500NLz!",
+                                "type": "live",
+                                "viewersCount": 27
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MjA=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Babelpoker",
+                                    "id": "102391411",
+                                    "login": "babelpoker",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/babelpoker-profile_image-e9ba6772bd835eb9-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Poker-40x56.jpg",
+                                    "id": "488190",
+                                    "name": "Poker"
+                                },
+                                "id": "28500311232",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_babelpoker-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Darmowy trening dla graczy z kodem BABEL92",
+                                "type": "live",
+                                "viewersCount": 20
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MjE=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "demonfaer",
+                                    "id": "116559811",
+                                    "login": "demonfaer",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/23dbecb87b1f7a5f-profile_image-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Poker-40x56.jpg",
+                                    "id": "488190",
+                                    "name": "Poker"
+                                },
+                                "id": "28499609216",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_demonfaer-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u041f\u043e\u0438\u0433\u0440\u0430\u0435\u043c???",
+                                "type": "live",
+                                "viewersCount": 20
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MjI=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "fullpower160",
+                                    "id": "85562837",
+                                    "login": "fullpower160",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/4e11508b-5b69-4b1e-b9d0-bcddd89a7882-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Poker-40x56.jpg",
+                                    "id": "488190",
+                                    "name": "Poker"
+                                },
+                                "id": "28499753600",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fullpower160-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "spins, mtts \u265b added partypoker \u265b !roadto100001 !br $1762",
+                                "type": "live",
+                                "viewersCount": 19
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MjM=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Skz_twitch",
+                                    "id": "67228760",
+                                    "login": "skz_twitch",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ee57fee-1e17-4d65-be94-0a0c38291358-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Poker-40x56.jpg",
+                                    "id": "488190",
+                                    "name": "Poker"
+                                },
+                                "id": "28500196880",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skz_twitch-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\ud83d\udc95\u0441\u0443\u0431\u0431\u043e\u0442\u043d\u0438\u0439 \u043f\u043e\u043a\u0435\u0440)",
+                                "type": "live",
+                                "viewersCount": 18
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MjQ=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "helixpoker87",
+                                    "id": "118948572",
+                                    "login": "helixpoker87",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/7deb9e6b-6ca1-4c3b-bc81-87a9588c15d3-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Poker-40x56.jpg",
+                                    "id": "488190",
+                                    "name": "Poker"
+                                },
+                                "id": "28501058624",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_helixpoker87-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "50NL - short stream + music",
+                                "type": "live",
+                                "viewersCount": 17
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MjU=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "pamelabalzano",
+                                    "id": "134001473",
+                                    "login": "pamelabalzano",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/42ee225766b83844-profile_image-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Poker-40x56.jpg",
+                                    "id": "488190",
+                                    "name": "Poker"
+                                },
+                                "id": "28501094144",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pamelabalzano-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "#SaturdayGrind wuoooooooo!!",
+                                "type": "live",
+                                "viewersCount": 15
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MjY=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "boubouchetv",
+                                    "id": "145254305",
+                                    "login": "boubouchetv",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/7a862fe9-b135-4f45-ae90-931a4d25c2fd-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Poker-40x56.jpg",
+                                    "id": "488190",
+                                    "name": "Poker"
+                                },
+                                "id": "28498933280",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boubouchetv-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Poker STARS",
+                                "type": "live",
+                                "viewersCount": 14
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Mjc=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "spud989",
+                                    "id": "63301188",
+                                    "login": "spud989",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/spud989-profile_image-d2b30cbebec7a643-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Poker-40x56.jpg",
+                                    "id": "488190",
+                                    "name": "Poker"
+                                },
+                                "id": "28498810304",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_spud989-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "shipped 27psko for 1600 today. MOREMORE",
+                                "type": "live",
+                                "viewersCount": 13
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Mjg=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "MrEsprectro",
+                                    "id": "100744524",
+                                    "login": "mresprectro",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/dbd42a85-8f47-4172-b1dd-a492084c1d05-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Poker-40x56.jpg",
+                                    "id": "488190",
+                                    "name": "Poker"
+                                },
+                                "id": "28499046704",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mresprectro-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "SATURDAY BOUUTYHUNT HAS BEGUN! !discord !youtube",
+                                "type": "live",
+                                "viewersCount": 12
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Mjk=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Hensiepensie",
+                                    "id": "71209379",
+                                    "login": "hensiepensie",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/hensiepensie-profile_image-8a51fd0b299f2b9b-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Poker-40x56.jpg",
+                                    "id": "488190",
+                                    "name": "Poker"
+                                },
+                                "id": "28497740720",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hensiepensie-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Messy Morning Session",
+                                "type": "live",
+                                "viewersCount": 10
+                            }
+                        }
+                    ],
+                    "pageInfo": {
+                        "__typename": "PageInfo",
+                        "hasNextPage": true
+                    }
+                }
+            }
+        },
+        "extensions": {
+            "durationMilliseconds": 98,
+            "operationName": "GamePage_Game"
+        }
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "data": {
+            "directory": {
+                "__typename": "Game",
+                "displayName": "Uncharted 2: Among Thieves",
+                "id": "20357",
+                "streams": {
+                    "__typename": "StreamConnection",
+                    "edges": [
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MA==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "RoyalPuck",
+                                    "id": "109521406",
+                                    "login": "royalpuck",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/royalpuck-profile_image-fa49af7922bc3130-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Uncharted%202:%20Among%20Thieves-40x56.jpg",
+                                    "id": "20357",
+                                    "name": "Uncharted 2: Among Thieves"
+                                },
+                                "id": "28497511168",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_royalpuck-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Uncharted Marathon! ",
+                                "type": "live",
+                                "viewersCount": 88
+                            }
+                        }
+                    ],
+                    "pageInfo": {
+                        "__typename": "PageInfo",
+                        "hasNextPage": false
+                    }
+                }
+            }
+        },
+        "extensions": {
+            "durationMilliseconds": 92,
+            "operationName": "GamePage_Game"
+        }
+    }
+]

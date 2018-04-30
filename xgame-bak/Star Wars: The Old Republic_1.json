@@ -1,0 +1,908 @@
+[
+    {
+        "data": {
+            "directory": {
+                "__typename": "Game",
+                "displayName": "Star Wars: The Old Republic",
+                "id": "21934",
+                "streams": {
+                    "__typename": "StreamConnection",
+                    "edges": [
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MA==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Flom1982",
+                                    "id": "42270642",
+                                    "login": "flom1982",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4ddca6288911a6c-profile_image-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Wars:%20The%20Old%20Republic-40x56.jpg",
+                                    "id": "21934",
+                                    "name": "Star Wars: The Old Republic"
+                                },
+                                "id": "28496800160",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_flom1982-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[GER/ENG] New World Order | !fitness !credits !design !gamble",
+                                "type": "live",
+                                "viewersCount": 26
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MQ==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Vretipt",
+                                    "id": "122563061",
+                                    "login": "vretipt",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/vretipt-profile_image-3a095616e390c361-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Wars:%20The%20Old%20Republic-40x56.jpg",
+                                    "id": "21934",
+                                    "name": "Star Wars: The Old Republic"
+                                },
+                                "id": "28490104144",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vretipt-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[GER] Operatiiiiion",
+                                "type": "live",
+                                "viewersCount": 13
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Mg==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "buff_99",
+                                    "id": "181535848",
+                                    "login": "buff_99",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/9f4d1817-30e0-4984-a67d-c94c2b50de6b-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Wars:%20The%20Old%20Republic-40x56.jpg",
+                                    "id": "21934",
+                                    "name": "Star Wars: The Old Republic"
+                                },
+                                "id": "28499064192",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_buff_99-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Regs with Post Malone ",
+                                "type": "live",
+                                "viewersCount": 9
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Mw==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Mou__",
+                                    "id": "167575780",
+                                    "login": "mou__",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ef7bd7c-b457-4ef0-a6f1-9afd48dc40e9-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Wars:%20The%20Old%20Republic-40x56.jpg",
+                                    "id": "21934",
+                                    "name": "Star Wars: The Old Republic"
+                                },
+                                "id": "28497906576",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mou__-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Most boring peeveepee on DM",
+                                "type": "live",
+                                "viewersCount": 9
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NA==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "itsjace87",
+                                    "id": "150880266",
+                                    "login": "itsjace87",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/658d9eaa-761a-4fb9-8efb-d99b13de2962-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Wars:%20The%20Old%20Republic-40x56.jpg",
+                                    "id": "21934",
+                                    "name": "Star Wars: The Old Republic"
+                                },
+                                "id": "28496686080",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsjace87-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Storylines! Road to 200 followers! (!discord)",
+                                "type": "live",
+                                "viewersCount": 5
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NQ==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Aleriaa",
+                                    "id": "76072563",
+                                    "login": "aleriaa",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/f8f985ec-42c8-4953-a951-18d9b67a323b-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Wars:%20The%20Old%20Republic-40x56.jpg",
+                                    "id": "21934",
+                                    "name": "Star Wars: The Old Republic"
+                                },
+                                "id": "28498674880",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aleriaa-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Winkyfaceee - New Sub Emote Approved o/o/",
+                                "type": "live",
+                                "viewersCount": 4
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Ng==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "876StreamGod",
+                                    "id": "160653822",
+                                    "login": "876streamgod",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/fcc906c8c2ca2896-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Wars:%20The%20Old%20Republic-40x56.jpg",
+                                    "id": "21934",
+                                    "name": "Star Wars: The Old Republic"
+                                },
+                                "id": "28497376768",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_876streamgod-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Come Teach Me Im Noob. Join My Discord\n",
+                                "type": "live",
+                                "viewersCount": 4
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Nw==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "FibroJedi",
+                                    "id": "108495219",
+                                    "login": "fibrojedi",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/fibrojedi-profile_image-beea7c6f7061bcea-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Wars:%20The%20Old%20Republic-40x56.jpg",
+                                    "id": "21934",
+                                    "name": "Star Wars: The Old Republic"
+                                },
+                                "id": "28498578592",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fibrojedi-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "SWTOR Shadow of Revan - Smuggler Saturday Stream",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "OA==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "DeathByChocolateCake",
+                                    "id": "52278106",
+                                    "login": "deathbychocolatecake",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/e02c5827-d5d4-479d-94fd-9a0d6035e310-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Wars:%20The%20Old%20Republic-40x56.jpg",
+                                    "id": "21934",
+                                    "name": "Star Wars: The Old Republic"
+                                },
+                                "id": "28498392000",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deathbychocolatecake-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "FeelsReallyBadMan",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "OQ==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "yogga35",
+                                    "id": "115089573",
+                                    "login": "yogga35",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/4340aa32-c7dc-4295-9fad-0c0269c119b1-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Wars:%20The%20Old%20Republic-40x56.jpg",
+                                    "id": "21934",
+                                    "name": "Star Wars: The Old Republic"
+                                },
+                                "id": "28497751472",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yogga35-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Swtor pvp on Darth Malgus",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTA=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "RJ_VZ",
+                                    "id": "39331103",
+                                    "login": "rj_vz",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fabf57b-6ddd-443b-abde-5f9231841dce-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Wars:%20The%20Old%20Republic-40x56.jpg",
+                                    "id": "21934",
+                                    "name": "Star Wars: The Old Republic"
+                                },
+                                "id": "28498799136",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rj_vz-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Quick Morning Stream :) || Twitter @_okidok1",
+                                "type": "live",
+                                "viewersCount": 2
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTE=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "BP_Qbik",
+                                    "id": "116699780",
+                                    "login": "bp_qbik",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/bp_qbik-profile_image-44e079e2ebbde0ea-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Wars:%20The%20Old%20Republic-40x56.jpg",
+                                    "id": "21934",
+                                    "name": "Star Wars: The Old Republic"
+                                },
+                                "id": "28499154752",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bp_qbik-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Star Wars - The Old Republic",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTI=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "CommanderMina",
+                                    "id": "93779022",
+                                    "login": "commandermina",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/82d086cb83fb15a2-profile_image-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Wars:%20The%20Old%20Republic-40x56.jpg",
+                                    "id": "21934",
+                                    "name": "Star Wars: The Old Republic"
+                                },
+                                "id": "28499142640",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_commandermina-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "may the force be with me @.@ | mostly k-pop music playlist [STREAM STREAK DAY #6]",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTM=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "PapyMunjots",
+                                    "id": "96549813",
+                                    "login": "papymunjots",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/papymunjots-profile_image-fefdbf052ae73302-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Wars:%20The%20Old%20Republic-40x56.jpg",
+                                    "id": "21934",
+                                    "name": "Star Wars: The Old Republic"
+                                },
+                                "id": "28498243040",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_papymunjots-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[ FR ] On continue l' aventure",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTQ=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Jodsderechte",
+                                    "id": "48328835",
+                                    "login": "jodsderechte",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/jodsderechte-profile_image-5aab7da35bc6b33d-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Wars:%20The%20Old%20Republic-40x56.jpg",
+                                    "id": "21934",
+                                    "name": "Star Wars: The Old Republic"
+                                },
+                                "id": "28497862912",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jodsderechte-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[GER]  Just WIN LOL 4Head! Ist das Live? RERUN BTW !gg !genjihate !hanzohate",
+                                "type": "rerun",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTU=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "bonzooitje",
+                                    "id": "71454522",
+                                    "login": "bonzooitje",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ba573b2-3d2b-4b47-8918-3f7a6c2de695-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Wars:%20The%20Old%20Republic-40x56.jpg",
+                                    "id": "21934",
+                                    "name": "Star Wars: The Old Republic"
+                                },
+                                "id": "28499267088",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bonzooitje-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "swtor",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTY=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "LuhazS2",
+                                    "id": "97278775",
+                                    "login": "luhazs2",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/36a61b280b7f6bfa-profile_image-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Wars:%20The%20Old%20Republic-40x56.jpg",
+                                    "id": "21934",
+                                    "name": "Star Wars: The Old Republic"
+                                },
+                                "id": "28497737232",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_luhazs2-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Playing some #SWTOR \u2665 // #JediSentinel > Spec > ??? // Satele Shan ~",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        }
+                    ],
+                    "pageInfo": {
+                        "__typename": "PageInfo",
+                        "hasNextPage": false
+                    }
+                }
+            }
+        },
+        "extensions": {
+            "durationMilliseconds": 90,
+            "operationName": "GamePage_Game"
+        }
+    }
+]

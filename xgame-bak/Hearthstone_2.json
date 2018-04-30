@@ -1,0 +1,1584 @@
+[
+    {
+        "data": {
+            "directory": {
+                "__typename": "Game",
+                "displayName": "Hearthstone",
+                "id": "138585",
+                "streams": {
+                    "__typename": "StreamConnection",
+                    "edges": [
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MzA=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "\u92fc\u7434\u6bba\u624b",
+                                    "id": "66086067",
+                                    "login": "khsjohnny",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/khsjohnny-profile_image-873b7f9cfd19bd24-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hearthstone-40x56.jpg",
+                                    "id": "138585",
+                                    "name": "Hearthstone"
+                                },
+                                "id": "28498912768",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_khsjohnny-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": ""
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u92fc\u7434\u6bba\u624b \u4eca\u5929\u62da\u526f\u672c\u5168\u901a\u95dc\uff0c\u6b61\u8fce\u9ede\u6b4c\u804a\u4eba\u751f",
+                                "type": "live",
+                                "viewersCount": 152
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MzE=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Noobuser95",
+                                    "id": "47160186",
+                                    "login": "noobuser95",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/noobuser95-profile_image-5a7a325d3e9d494e-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hearthstone-40x56.jpg",
+                                    "id": "138585",
+                                    "name": "Hearthstone"
+                                },
+                                "id": "28497081856",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_noobuser95-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": "Rogue"
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Duo z (top5eu) mikolopem - walka o top200 - startowa pozycja 384\n",
+                                "type": "live",
+                                "viewersCount": 149
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MzI=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "SmokinFalcons",
+                                    "id": "119128155",
+                                    "login": "smokinfalcons",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/smokinfalcons-profile_image-b0692f15eb1ee8e7-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hearthstone-40x56.jpg",
+                                    "id": "138585",
+                                    "name": "Hearthstone"
+                                },
+                                "id": "28498671152",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_smokinfalcons-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": "Rogue"
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "going to #1",
+                                "type": "live",
+                                "viewersCount": 115
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MzM=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "anothersy",
+                                    "id": "74125284",
+                                    "login": "anothersy",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/485dbf1c-e1e3-4a51-8fe7-e52f09ebae0e-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hearthstone-40x56.jpg",
+                                    "id": "138585",
+                                    "name": "Hearthstone"
+                                },
+                                "id": "28498132416",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anothersy-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": ""
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Monster Hunt \u0e01\u0e31\u0e1a arena \u0e21\u0e31\u0e49\u0e07",
+                                "type": "live",
+                                "viewersCount": 109
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MzQ=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "powercze",
+                                    "id": "35960574",
+                                    "login": "powercze",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/70a01c258f46201d-profile_image-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hearthstone-40x56.jpg",
+                                    "id": "138585",
+                                    "name": "Hearthstone"
+                                },
+                                "id": "28498131792",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_powercze-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": ""
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Top ladder s Martimem",
+                                "type": "live",
+                                "viewersCount": 95
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MzU=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "HeisenHS",
+                                    "id": "138381074",
+                                    "login": "heisenhs",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/521accc5e9b295c7-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hearthstone-40x56.jpg",
+                                    "id": "138585",
+                                    "name": "Hearthstone"
+                                },
+                                "id": "28498022784",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_heisenhs-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": "Priest"
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "S49E28 - VOLTANDO PRO TOP 100 | NOVOS EMOTES: heisChamp heisGasm heisHA  !loots",
+                                "type": "live",
+                                "viewersCount": 90
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MzY=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "konamikann",
+                                    "id": "125782254",
+                                    "login": "konamikann",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ca79d3c-21b1-4a19-a235-9bea3ac29bde-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hearthstone-40x56.jpg",
+                                    "id": "138585",
+                                    "name": "Hearthstone"
+                                },
+                                "id": "28497682528",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_konamikann-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": ""
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u3042\u308a\u3042\u308aArena",
+                                "type": "live",
+                                "viewersCount": 87
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Mzc=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Pityownerzzz",
+                                    "id": "157136243",
+                                    "login": "pityownerzzz",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/8bb569ef4128d89b-profile_image-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hearthstone-40x56.jpg",
+                                    "id": "138585",
+                                    "name": "Hearthstone"
+                                },
+                                "id": "28498144752",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pityownerzzz-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": "Warlock"
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u041f\u0441, \u043d\u0435 \u0445\u043e\u0447\u0435\u0448\u044c \u043d\u0435\u043c\u043d\u043e\u0433\u043e \u0432\u0430\u0438\u043b\u0434\u0430?  (\u0442\u0435\u0441\u0442\u0438\u043c \u0434\u0435\u043a\u0438)\n",
+                                "type": "live",
+                                "viewersCount": 85
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Mzg=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "\uc544\ubc29",
+                                    "id": "123599439",
+                                    "login": "aabaang",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/aabaang-profile_image-47619542052c1db8-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hearthstone-40x56.jpg",
+                                    "id": "138585",
+                                    "name": "Hearthstone"
+                                },
+                                "id": "28496687616",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aabaang-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": ""
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\ud558\uc2a4\uc2a4\ud1a4\uc624\uc639",
+                                "type": "live",
+                                "viewersCount": 81
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Mzk=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "\u5c71\u7e46\u66f9",
+                                    "id": "111458197",
+                                    "login": "samuel860522",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/samuel860522-profile_image-18e5c38b48d610de-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hearthstone-40x56.jpg",
+                                    "id": "138585",
+                                    "name": "Hearthstone"
+                                },
+                                "id": "28497678112",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_samuel860522-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": "Mage"
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "AFR.SamuelTsao   \u4e9e\u670d#40 \u7f8e\u670d\u885d\u50b3\u8aaa",
+                                "type": "live",
+                                "viewersCount": 79
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDA=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Opex",
+                                    "id": "115247892",
+                                    "login": "opex",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/opex-profile_image-f52ef310ee97dbc1-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hearthstone-40x56.jpg",
+                                    "id": "138585",
+                                    "name": "Hearthstone"
+                                },
+                                "id": "28497983248",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opex-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": ""
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u0421\u0430\u043c\u044b\u0439 \u043c\u0438\u043b\u044b\u0439 \u0441\u0442\u0440\u0438\u043c\u0435\u0440 ",
+                                "type": "live",
+                                "viewersCount": 74
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDE=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "PhenomenGames",
+                                    "id": "81411208",
+                                    "login": "phenomengames",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/ffe96d1416a380f5-profile_image-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hearthstone-40x56.jpg",
+                                    "id": "138585",
+                                    "name": "Hearthstone"
+                                },
+                                "id": "28498895952",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_phenomengames-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": "Hunter"
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u0412\u0415\u0414\u042c\u041c\u0418\u041d \u041b\u041e\u0421\u042c",
+                                "type": "live",
+                                "viewersCount": 73
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDI=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "m989876525",
+                                    "id": "42596387",
+                                    "login": "m989876525",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/m989876525-profile_image-9d123c68cd6456f8-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hearthstone-40x56.jpg",
+                                    "id": "138585",
+                                    "name": "Hearthstone"
+                                },
+                                "id": "28499200032",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_m989876525-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": ""
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u6211\u662fEason \u64ad\u6bd4\u8cfd\u64ad\u5230\u88ab\u76dc\u5237==",
+                                "type": "live",
+                                "viewersCount": 68
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDM=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "RamXD",
+                                    "id": "58220468",
+                                    "login": "ramxd",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/8c84694a-8783-4ccf-8eeb-7517a6a2a4e6-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hearthstone-40x56.jpg",
+                                    "id": "138585",
+                                    "name": "Hearthstone"
+                                },
+                                "id": "28499053664",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramxd-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": "Paladin"
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Ay sonunu getirmece. Frostpunk bitti :'(",
+                                "type": "live",
+                                "viewersCount": 68
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDQ=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "FinRoarr",
+                                    "id": "65440988",
+                                    "login": "finroarr",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/finroarr-profile_image-71ee0635ca6e9d57-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hearthstone-40x56.jpg",
+                                    "id": "138585",
+                                    "name": "Hearthstone"
+                                },
+                                "id": "28498950704",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_finroarr-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": "Warlock"
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u2605 Roarr \u2605 Day 2 of roarrWappu - FEL & Going For Top 100   \u2605 !donategoal",
+                                "type": "live",
+                                "viewersCount": 65
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDU=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "\u5929\u6bcd\u99ae\u63d0\u83ab",
+                                    "id": "86081281",
+                                    "login": "showjay",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/d128db734731b42b-profile_image-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hearthstone-40x56.jpg",
+                                    "id": "138585",
+                                    "name": "Hearthstone"
+                                },
+                                "id": "28498707296",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_showjay-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": ""
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u3010\u5929\u6bcd\u5433\u6dd1\u8c9e\u3011[\ud55c\uad6d\uc5b4/\u4e2d\u6587/EN]  \u83dc\u96de\u7d42\u65bc\u5728\u5bb6\u5ee2\u4e86",
+                                "type": "live",
+                                "viewersCount": 62
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDY=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "RikuRikuRiku",
+                                    "id": "48674376",
+                                    "login": "rikurikuriku",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d9e310f-5656-4e6a-86eb-09a6d174857c-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hearthstone-40x56.jpg",
+                                    "id": "138585",
+                                    "name": "Hearthstone"
+                                },
+                                "id": "28497676512",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rikurikuriku-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": "Priest"
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Monster Hunt Invitational | Pack Giveaway | !Discord !Uptime | POGGERS",
+                                "type": "live",
+                                "viewersCount": 61
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDc=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "fritterus",
+                                    "id": "25058522",
+                                    "login": "fritterus",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/fritterus-profile_image-a500d4399a4a8448-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hearthstone-40x56.jpg",
+                                    "id": "138585",
+                                    "name": "Hearthstone"
+                                },
+                                "id": "28498137296",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fritterus-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": "Paladin"
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u041f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u043a\u0430\u0440\u0442\u0435\u0436\u043d\u0438\u043a (\u041f\u043e\u0447\u0435\u043c\u0443 \u043d\u0435 WoW !ban)",
+                                "type": "live",
+                                "viewersCount": 56
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDg=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "\ub9c9\uc7a5\ub77c\uc774\uce04",
+                                    "id": "52017748",
+                                    "login": "twilightuuuu",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/45e6573f-cceb-4194-a6f9-fe37f0239ceb-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hearthstone-40x56.jpg",
+                                    "id": "138585",
+                                    "name": "Hearthstone"
+                                },
+                                "id": "28497876816",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_twilightuuuu-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": "Priest"
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "2\uc8fc\uc9f8 \uba54\ud0c0\ud30c\uc545 \uc911 \u314b - \ub9c9\uce04\uc758 \uc9c1\uc5c5 \uace8\uace0\ub8e8 \ud558\ub294 \ud22c\uae30\uc7a5\ubc29\uc1a1",
+                                "type": "live",
+                                "viewersCount": 55
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NDk=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Leozaurable",
+                                    "id": "71290568",
+                                    "login": "leozaurable",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a94ec09-c9e2-498e-9200-4fcec89721de-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hearthstone-40x56.jpg",
+                                    "id": "138585",
+                                    "name": "Hearthstone"
+                                },
+                                "id": "28498625408",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_leozaurable-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": "Mage"
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "it's noobstone monster hunt time! \u0ca0\u2323\u0ca0 | [!commands !f !discord]",
+                                "type": "live",
+                                "viewersCount": 50
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTA=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "hs_bankai",
+                                    "id": "85546785",
+                                    "login": "hs_bankai",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/hs_bankai-profile_image-3d9179ec6f32396c-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hearthstone-40x56.jpg",
+                                    "id": "138585",
+                                    "name": "Hearthstone"
+                                },
+                                "id": "28497728240",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hs_bankai-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": "Druid"
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "CZ/SK Bankai chill time wild a MR",
+                                "type": "live",
+                                "viewersCount": 50
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTE=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "FraelsarN",
+                                    "id": "31503014",
+                                    "login": "fraelsarn",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/fraelsarn-profile_image-1ea9429e9ba16691-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hearthstone-40x56.jpg",
+                                    "id": "138585",
+                                    "name": "Hearthstone"
+                                },
+                                "id": "28498180592",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fraelsarn-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": ""
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "IDAG \u00c4R DET FINAL!! [ !m\u00e5nadsfestivalen ] | !f\u00e4rgask\u00e4gg",
+                                "type": "live",
+                                "viewersCount": 47
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTI=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "\uc608\uc9c0",
+                                    "id": "137472640",
+                                    "login": "yeji429",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/252c400e-a7ea-4cc4-87ce-bb6e9aeb6c83-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hearthstone-40x56.jpg",
+                                    "id": "138585",
+                                    "name": "Hearthstone"
+                                },
+                                "id": "28496709984",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yeji429-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": "Warlock"
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\ub098\ub450 \uc804\uc124\ud55c\ubc88 \ucc0d\uc5b4\ubcf4\uc790",
+                                "type": "live",
+                                "viewersCount": 44
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTM=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "umehara_otouto",
+                                    "id": "100294779",
+                                    "login": "umehara_otouto",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/umehara_otouto-profile_image-48a35c1a5a22dc74-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hearthstone-40x56.jpg",
+                                    "id": "138585",
+                                    "name": "Hearthstone"
+                                },
+                                "id": "28498175376",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_umehara_otouto-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": "Priest"
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": "",
+                                        "summonerID": 9130344,
+                                        "summonerName": "\uff55\uff4d\uff45\uff48\uff41\uff52\uff41\u5f1f",
+                                        "summonerRank": ""
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Umehara\u5f1f \u306f\u30fc\u3059\u3059\u3068\u30fc\u3093",
+                                "type": "live",
+                                "viewersCount": 43
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTQ=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Gera89",
+                                    "id": "43562094",
+                                    "login": "gera89",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/gera89-profile_image-77d0a75d7fc92b79-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hearthstone-40x56.jpg",
+                                    "id": "138585",
+                                    "name": "Hearthstone"
+                                },
+                                "id": "28497760928",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gera89-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": ""
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Vodcast- il gera89 quest war opop  !yt  | Top 7 Blizzcon EU 2015 | Legend x 53",
+                                "type": "rerun",
+                                "viewersCount": 39
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTU=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "spectrored",
+                                    "id": "94122924",
+                                    "login": "spectrored",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/59911c3b1f92e8ac-profile_image-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hearthstone-40x56.jpg",
+                                    "id": "138585",
+                                    "name": "Hearthstone"
+                                },
+                                "id": "28498575248",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_spectrored-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": ""
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "TUDO T\u00c1 COMO O DIABO GOSTA",
+                                "type": "live",
+                                "viewersCount": 37
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTY=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "ZeddyHS",
+                                    "id": "44811367",
+                                    "login": "zeddyhs",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/2c3316be-361a-4638-b92d-40cee106b408-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hearthstone-40x56.jpg",
+                                    "id": "138585",
+                                    "name": "Hearthstone"
+                                },
+                                "id": "28496639584",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zeddyhs-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": "Warlock"
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Top 200 NA Legend - Climbing EU",
+                                "type": "live",
+                                "viewersCount": 36
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTc=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "blackharry01",
+                                    "id": "43895046",
+                                    "login": "blackharry01",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/78f7e92a-00c8-42c0-93a4-13d9e522a29d-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hearthstone-40x56.jpg",
+                                    "id": "138585",
+                                    "name": "Hearthstone"
+                                },
+                                "id": "28497733136",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_blackharry01-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": ""
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u300a\u7210\u77f3\u6230\u8a18\u300b\u958b\u653e\u6a21\u5f0f\u53f0\uff0c\u602a\u7269\u7375\u6bba\uff0c\u4eca\u665a\u4e00\u8d77\u4f86\u7375\u6bba\u602a\u7269\u5427!(\u665a\u9ede\u53ef\u80fd\u5c0f\u904a\u6232)",
+                                "type": "live",
+                                "viewersCount": 32
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTg=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "AwakenBeauty",
+                                    "id": "161855606",
+                                    "login": "awakenbeauty",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/dc6eb508-8535-48f1-8c74-2f438f3c5901-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hearthstone-40x56.jpg",
+                                    "id": "138585",
+                                    "name": "Hearthstone"
+                                },
+                                "id": "28498601072",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_awakenbeauty-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": ""
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Kati kanw...NOT!",
+                                "type": "live",
+                                "viewersCount": 31
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NTk=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Punxsu",
+                                    "id": "39850472",
+                                    "login": "punxsu",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/a77dd785-c64c-44fc-93ea-10966b20327a-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hearthstone-40x56.jpg",
+                                    "id": "138585",
+                                    "name": "Hearthstone"
+                                },
+                                "id": "28497838880",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_punxsu-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": "Paladin"
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[DE] Fame Drop | Rangliste entspannt und easy",
+                                "type": "live",
+                                "viewersCount": 31
+                            }
+                        }
+                    ],
+                    "pageInfo": {
+                        "__typename": "PageInfo",
+                        "hasNextPage": true
+                    }
+                }
+            }
+        },
+        "extensions": {
+            "durationMilliseconds": 107,
+            "operationName": "GamePage_Game"
+        }
+    }
+]

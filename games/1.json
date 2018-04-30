@@ -1,0 +1,498 @@
+[
+    {
+        "data": {
+            "directories": {
+                "__typename": "DirectoryConnection",
+                "edges": [
+                    {
+                        "__typename": "DirectoryEdge",
+                        "cursor": "MQ==",
+                        "node": {
+                            "__typename": "Game",
+                            "activeDropCampaigns": [],
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dota%202-285x380.jpg",
+                            "directoryType": "GAME",
+                            "displayName": "Dota 2",
+                            "id": "29595",
+                            "name": "Dota 2",
+                            "viewersCount": 137356
+                        }
+                    },
+                    {
+                        "__typename": "DirectoryEdge",
+                        "cursor": "Mg==",
+                        "node": {
+                            "__typename": "Game",
+                            "activeDropCampaigns": [],
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-285x380.jpg",
+                            "directoryType": "GAME",
+                            "displayName": "Fortnite",
+                            "id": "33214",
+                            "name": "Fortnite",
+                            "viewersCount": 118528
+                        }
+                    },
+                    {
+                        "__typename": "DirectoryEdge",
+                        "cursor": "Mw==",
+                        "node": {
+                            "__typename": "Game",
+                            "activeDropCampaigns": [],
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-285x380.jpg",
+                            "directoryType": "GAME",
+                            "displayName": "League of Legends",
+                            "id": "21779",
+                            "name": "League of Legends",
+                            "viewersCount": 90607
+                        }
+                    },
+                    {
+                        "__typename": "DirectoryEdge",
+                        "cursor": "NA==",
+                        "node": {
+                            "__typename": "Game",
+                            "activeDropCampaigns": [],
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/PLAYERUNKNOWN%27S%20BATTLEGROUNDS-285x380.jpg",
+                            "directoryType": "GAME",
+                            "displayName": "PLAYERUNKNOWN'S BATTLEGROUNDS",
+                            "id": "493057",
+                            "name": "PLAYERUNKNOWN'S BATTLEGROUNDS",
+                            "viewersCount": 55287
+                        }
+                    },
+                    {
+                        "__typename": "DirectoryEdge",
+                        "cursor": "NQ==",
+                        "node": {
+                            "__typename": "Game",
+                            "activeDropCampaigns": [],
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hearthstone-285x380.jpg",
+                            "directoryType": "GAME",
+                            "displayName": "Hearthstone",
+                            "id": "138585",
+                            "name": "Hearthstone",
+                            "viewersCount": 55101
+                        }
+                    },
+                    {
+                        "__typename": "DirectoryEdge",
+                        "cursor": "Ng==",
+                        "node": {
+                            "__typename": "Game",
+                            "activeDropCampaigns": [],
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/IRL-285x380.jpg",
+                            "directoryType": "GAME",
+                            "displayName": "IRL",
+                            "id": "494717",
+                            "name": "IRL",
+                            "viewersCount": 50985
+                        }
+                    },
+                    {
+                        "__typename": "DirectoryEdge",
+                        "cursor": "Nw==",
+                        "node": {
+                            "__typename": "Game",
+                            "activeDropCampaigns": [],
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/World%20of%20Warcraft-285x380.jpg",
+                            "directoryType": "GAME",
+                            "displayName": "World of Warcraft",
+                            "id": "18122",
+                            "name": "World of Warcraft",
+                            "viewersCount": 40868
+                        }
+                    },
+                    {
+                        "__typename": "DirectoryEdge",
+                        "cursor": "OA==",
+                        "node": {
+                            "__typename": "Game",
+                            "activeDropCampaigns": [
+                                {
+                                    "__typename": "DropCampaign",
+                                    "applicableChannels": [
+                                        {
+                                            "__typename": "User",
+                                            "id": "137512364"
+                                        },
+                                        {
+                                            "__typename": "User",
+                                            "id": "181845998"
+                                        },
+                                        {
+                                            "__typename": "User",
+                                            "id": "188864445"
+                                        },
+                                        {
+                                            "__typename": "User",
+                                            "id": "188863650"
+                                        },
+                                        {
+                                            "__typename": "User",
+                                            "id": "190160460"
+                                        },
+                                        {
+                                            "__typename": "User",
+                                            "id": "192718746"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "__typename": "DropCampaign",
+                                    "applicableChannels": [
+                                        {
+                                            "__typename": "User",
+                                            "id": "137512364"
+                                        },
+                                        {
+                                            "__typename": "User",
+                                            "id": "181845998"
+                                        },
+                                        {
+                                            "__typename": "User",
+                                            "id": "188864445"
+                                        },
+                                        {
+                                            "__typename": "User",
+                                            "id": "188863650"
+                                        },
+                                        {
+                                            "__typename": "User",
+                                            "id": "190160460"
+                                        },
+                                        {
+                                            "__typename": "User",
+                                            "id": "192718746"
+                                        },
+                                        {
+                                            "__typename": "User",
+                                            "id": "192718746"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Overwatch-285x380.jpg",
+                            "directoryType": "GAME",
+                            "displayName": "Overwatch",
+                            "id": "488552",
+                            "name": "Overwatch",
+                            "viewersCount": 29330
+                        }
+                    },
+                    {
+                        "__typename": "DirectoryEdge",
+                        "cursor": "OQ==",
+                        "node": {
+                            "__typename": "Game",
+                            "activeDropCampaigns": [],
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/God%20of%20War-285x380.jpg",
+                            "directoryType": "GAME",
+                            "displayName": "God of War",
+                            "id": "6369",
+                            "name": "God of War",
+                            "viewersCount": 22353
+                        }
+                    },
+                    {
+                        "__typename": "DirectoryEdge",
+                        "cursor": "MTA=",
+                        "node": {
+                            "__typename": "Game",
+                            "activeDropCampaigns": [],
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Counter-Strike:%20Global%20Offensive-285x380.jpg",
+                            "directoryType": "GAME",
+                            "displayName": "Counter-Strike: Global Offensive",
+                            "id": "32399",
+                            "name": "Counter-Strike: Global Offensive",
+                            "viewersCount": 14556
+                        }
+                    },
+                    {
+                        "__typename": "DirectoryEdge",
+                        "cursor": "MTE=",
+                        "node": {
+                            "__typename": "Game",
+                            "activeDropCampaigns": [],
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Heroes%20of%20the%20Storm-285x380.jpg",
+                            "directoryType": "GAME",
+                            "displayName": "Heroes of the Storm",
+                            "id": "32959",
+                            "name": "Heroes of the Storm",
+                            "viewersCount": 13758
+                        }
+                    },
+                    {
+                        "__typename": "DirectoryEdge",
+                        "cursor": "MTI=",
+                        "node": {
+                            "__typename": "Game",
+                            "activeDropCampaigns": [],
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Tom%20Clancy%27s%20Rainbow%20Six:%20Siege-285x380.jpg",
+                            "directoryType": "GAME",
+                            "displayName": "Tom Clancy's Rainbow Six: Siege",
+                            "id": "460630",
+                            "name": "Tom Clancy's Rainbow Six: Siege",
+                            "viewersCount": 10251
+                        }
+                    },
+                    {
+                        "__typename": "DirectoryEdge",
+                        "cursor": "MTM=",
+                        "node": {
+                            "__typename": "Game",
+                            "activeDropCampaigns": [],
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/We%20Need%20to%20Go%20Deeper-285x380.jpg",
+                            "directoryType": "GAME",
+                            "displayName": "We Need to Go Deeper",
+                            "id": "494020",
+                            "name": "We Need to Go Deeper",
+                            "viewersCount": 9496
+                        }
+                    },
+                    {
+                        "__typename": "DirectoryEdge",
+                        "cursor": "MTQ=",
+                        "node": {
+                            "__typename": "Game",
+                            "activeDropCampaigns": [],
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Creative-285x380.jpg",
+                            "directoryType": "GAME",
+                            "displayName": "Creative",
+                            "id": "488191",
+                            "name": "Creative",
+                            "viewersCount": 8827
+                        }
+                    },
+                    {
+                        "__typename": "DirectoryEdge",
+                        "cursor": "MTU=",
+                        "node": {
+                            "__typename": "Game",
+                            "activeDropCampaigns": [],
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Murderous%20Pursuits-285x380.jpg",
+                            "directoryType": "GAME",
+                            "displayName": "Murderous Pursuits",
+                            "id": "503983",
+                            "name": "Murderous Pursuits",
+                            "viewersCount": 7608
+                        }
+                    },
+                    {
+                        "__typename": "DirectoryEdge",
+                        "cursor": "MTY=",
+                        "node": {
+                            "__typename": "Game",
+                            "activeDropCampaigns": [],
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/FIFA%2018-285x380.jpg",
+                            "directoryType": "GAME",
+                            "displayName": "FIFA 18",
+                            "id": "495589",
+                            "name": "FIFA 18",
+                            "viewersCount": 7154
+                        }
+                    },
+                    {
+                        "__typename": "DirectoryEdge",
+                        "cursor": "MTc=",
+                        "node": {
+                            "__typename": "Game",
+                            "activeDropCampaigns": [],
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Casino-285x380.jpg",
+                            "directoryType": "GAME",
+                            "displayName": "Casino",
+                            "id": "9234",
+                            "name": "Casino",
+                            "viewersCount": 7141
+                        }
+                    },
+                    {
+                        "__typename": "DirectoryEdge",
+                        "cursor": "MTg=",
+                        "node": {
+                            "__typename": "Game",
+                            "activeDropCampaigns": [],
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Theft%20Auto%20V-285x380.jpg",
+                            "directoryType": "GAME",
+                            "displayName": "Grand Theft Auto V",
+                            "id": "32982",
+                            "name": "Grand Theft Auto V",
+                            "viewersCount": 7019
+                        }
+                    },
+                    {
+                        "__typename": "DirectoryEdge",
+                        "cursor": "MTk=",
+                        "node": {
+                            "__typename": "Game",
+                            "activeDropCampaigns": [],
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Black%20Desert%20Online-285x380.jpg",
+                            "directoryType": "GAME",
+                            "displayName": "Black Desert Online",
+                            "id": "386821",
+                            "name": "Black Desert Online",
+                            "viewersCount": 6533
+                        }
+                    },
+                    {
+                        "__typename": "DirectoryEdge",
+                        "cursor": "MjA=",
+                        "node": {
+                            "__typename": "Game",
+                            "activeDropCampaigns": [],
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/BattleTech-285x380.jpg",
+                            "directoryType": "GAME",
+                            "displayName": "BattleTech",
+                            "id": "490757",
+                            "name": "BattleTech",
+                            "viewersCount": 6249
+                        }
+                    },
+                    {
+                        "__typename": "DirectoryEdge",
+                        "cursor": "MjI=",
+                        "node": {
+                            "__typename": "Game",
+                            "activeDropCampaigns": [],
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Talk%20Shows-285x380.jpg",
+                            "directoryType": "GAME",
+                            "displayName": "Talk Shows",
+                            "id": "417752",
+                            "name": "Talk Shows",
+                            "viewersCount": 6142
+                        }
+                    },
+                    {
+                        "__typename": "DirectoryEdge",
+                        "cursor": "MjM=",
+                        "node": {
+                            "__typename": "Game",
+                            "activeDropCampaigns": [],
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Poker-285x380.jpg",
+                            "directoryType": "GAME",
+                            "displayName": "Poker",
+                            "id": "488190",
+                            "name": "Poker",
+                            "viewersCount": 5951
+                        }
+                    },
+                    {
+                        "__typename": "DirectoryEdge",
+                        "cursor": "MjQ=",
+                        "node": {
+                            "__typename": "Game",
+                            "activeDropCampaigns": [],
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dead%20by%20Daylight-285x380.jpg",
+                            "directoryType": "GAME",
+                            "displayName": "Dead by Daylight",
+                            "id": "491487",
+                            "name": "Dead by Daylight",
+                            "viewersCount": 5913
+                        }
+                    },
+                    {
+                        "__typename": "DirectoryEdge",
+                        "cursor": "MjU=",
+                        "node": {
+                            "__typename": "Game",
+                            "activeDropCampaigns": [
+                                {
+                                    "__typename": "DropCampaign",
+                                    "applicableChannels": [
+                                        {
+                                            "__typename": "User",
+                                            "id": "131070"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/RuneScape-285x380.jpg",
+                            "directoryType": "GAME",
+                            "displayName": "RuneScape",
+                            "id": "2083",
+                            "name": "RuneScape",
+                            "viewersCount": 5780
+                        }
+                    },
+                    {
+                        "__typename": "DirectoryEdge",
+                        "cursor": "MjY=",
+                        "node": {
+                            "__typename": "Game",
+                            "activeDropCampaigns": [],
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Music-285x380.jpg",
+                            "directoryType": "GAME",
+                            "displayName": "Music",
+                            "id": "26936",
+                            "name": "Music",
+                            "viewersCount": 4804
+                        }
+                    },
+                    {
+                        "__typename": "DirectoryEdge",
+                        "cursor": "Mjc=",
+                        "node": {
+                            "__typename": "Game",
+                            "activeDropCampaigns": [],
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/ARK-285x380.jpg",
+                            "directoryType": "GAME",
+                            "displayName": "ARK",
+                            "id": "489635",
+                            "name": "ARK",
+                            "viewersCount": 4649
+                        }
+                    },
+                    {
+                        "__typename": "DirectoryEdge",
+                        "cursor": "Mjg=",
+                        "node": {
+                            "__typename": "Game",
+                            "activeDropCampaigns": [],
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/World%20of%20Tanks-285x380.jpg",
+                            "directoryType": "GAME",
+                            "displayName": "World of Tanks",
+                            "id": "27546",
+                            "name": "World of Tanks",
+                            "viewersCount": 4318
+                        }
+                    },
+                    {
+                        "__typename": "DirectoryEdge",
+                        "cursor": "Mjk=",
+                        "node": {
+                            "__typename": "Game",
+                            "activeDropCampaigns": [],
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Escape%20From%20Tarkov-285x380.jpg",
+                            "directoryType": "GAME",
+                            "displayName": "Escape From Tarkov",
+                            "id": "491931",
+                            "name": "Escape From Tarkov",
+                            "viewersCount": 4196
+                        }
+                    },
+                    {
+                        "__typename": "DirectoryEdge",
+                        "cursor": "MzA=",
+                        "node": {
+                            "__typename": "Game",
+                            "activeDropCampaigns": [],
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Frostpunk-285x380.jpg",
+                            "directoryType": "GAME",
+                            "displayName": "Frostpunk",
+                            "id": "493549",
+                            "name": "Frostpunk",
+                            "viewersCount": 4155
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "__typename": "PageInfo",
+                    "hasNextPage": true
+                }
+            }
+        },
+        "extensions": {
+            "durationMilliseconds": 82,
+            "operationName": "BrowsePage_AllDirectories"
+        }
+    }
+]

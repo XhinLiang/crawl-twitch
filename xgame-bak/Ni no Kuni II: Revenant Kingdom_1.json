@@ -1,0 +1,752 @@
+[
+    {
+        "data": {
+            "directory": {
+                "__typename": "Game",
+                "displayName": "Ni no Kuni II: Revenant Kingdom",
+                "id": "494556",
+                "streams": {
+                    "__typename": "StreamConnection",
+                    "edges": [
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MA==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "E942",
+                                    "id": "63800014",
+                                    "login": "e942",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/e942-profile_image-d921767ee4db2db1-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Ni%20no%20Kuni%20II:%20Revenant%20Kingdom-40x56.jpg",
+                                    "id": "494556",
+                                    "name": "Ni no Kuni II: Revenant Kingdom"
+                                },
+                                "id": "28498919568",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_e942-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[GER/ENG] Let's get these 100%. (PC)",
+                                "type": "live",
+                                "viewersCount": 12
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MQ==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "SudjiX",
+                                    "id": "72328598",
+                                    "login": "sudjix",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/01e126f0-a561-4928-840b-f4a0bf472b5a-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Ni%20no%20Kuni%20II:%20Revenant%20Kingdom-40x56.jpg",
+                                    "id": "494556",
+                                    "name": "Ni no Kuni II: Revenant Kingdom"
+                                },
+                                "id": "28499233440",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sudjix-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\ud83d\udca1\u041f\u0440\u0438\u044f\u0442\u043d\u044b\u0435 \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u044b (\u222a \u25e1 \u222a)",
+                                "type": "live",
+                                "viewersCount": 5
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Mg==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "TheNinedFox",
+                                    "id": "47684436",
+                                    "login": "theninedfox",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/theninedfox-profile_image-4cb247245f46b75a-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Ni%20no%20Kuni%20II:%20Revenant%20Kingdom-40x56.jpg",
+                                    "id": "494556",
+                                    "name": "Ni no Kuni II: Revenant Kingdom"
+                                },
+                                "id": "28498797104",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theninedfox-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "BIRTHDAY MARATHON STREAM SHINDIG HULLABALOO HOOTENANNY (EN) #Road to 1200 Followers",
+                                "type": "live",
+                                "viewersCount": 5
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Mw==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "HeZNa",
+                                    "id": "96522714",
+                                    "login": "hezna",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/hezna-profile_image-9d3b4bf335980ffe-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Ni%20no%20Kuni%20II:%20Revenant%20Kingdom-40x56.jpg",
+                                    "id": "494556",
+                                    "name": "Ni no Kuni II: Revenant Kingdom"
+                                },
+                                "id": "28496889008",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hezna-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Ni no Kuni [JPN/ENG]",
+                                "type": "live",
+                                "viewersCount": 5
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NA==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Koito",
+                                    "id": "39391630",
+                                    "login": "koito",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/c68f7d36-2e48-4298-b067-03d473acf71e-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Ni%20no%20Kuni%20II:%20Revenant%20Kingdom-40x56.jpg",
+                                    "id": "494556",
+                                    "name": "Ni no Kuni II: Revenant Kingdom"
+                                },
+                                "id": "28499257616",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koito-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Time to create a Kitty Kingdom! | !discord ",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NQ==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Feeliner",
+                                    "id": "41180669",
+                                    "login": "feeliner",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/d2d01452d27cba41-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Ni%20no%20Kuni%20II:%20Revenant%20Kingdom-40x56.jpg",
+                                    "id": "494556",
+                                    "name": "Ni no Kuni II: Revenant Kingdom"
+                                },
+                                "id": "28498523824",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_feeliner-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "GOTTA EXPLORE EVERYTHING!!",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Ng==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Piroshi303",
+                                    "id": "86652843",
+                                    "login": "piroshi303",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/piroshi303-profile_image-1b16260c7e759e42-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Ni%20no%20Kuni%20II:%20Revenant%20Kingdom-40x56.jpg",
+                                    "id": "494556",
+                                    "name": "Ni no Kuni II: Revenant Kingdom"
+                                },
+                                "id": "28498442848",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_piroshi303-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Piroshi\u306e\u4e8c\u30ce\u56fd\u2161 \u30ec\u30f4\u30a7\u30ca\u30f3\u30c8\u30ad\u30f3\u30b0\u30c0\u30e0 | Ni no Kuni II: Revenant Kingdom - Day 7",
+                                "type": "live",
+                                "viewersCount": 3
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Nw==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Triddy26",
+                                    "id": "43714325",
+                                    "login": "triddy26",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/640bd9a1-25dc-4114-a442-94e802c4ec4e-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Ni%20no%20Kuni%20II:%20Revenant%20Kingdom-40x56.jpg",
+                                    "id": "494556",
+                                    "name": "Ni no Kuni II: Revenant Kingdom"
+                                },
+                                "id": "28497836672",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triddy26-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Fresh Blind Playthrough 100% here i come!!",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "OA==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "TitusManlius03",
+                                    "id": "80900508",
+                                    "login": "titusmanlius03",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/titusmanlius03-profile_image-b811b951c3292f05-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Ni%20no%20Kuni%20II:%20Revenant%20Kingdom-40x56.jpg",
+                                    "id": "494556",
+                                    "name": "Ni no Kuni II: Revenant Kingdom"
+                                },
+                                "id": "28497627520",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_titusmanlius03-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[FR] (PS4) Plus grand chose \u00e0 faire pour le 100%.",
+                                "type": "live",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "OQ==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "BalthezarX",
+                                    "id": "36308582",
+                                    "login": "balthezarx",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec571e9d-dec4-4d41-b985-99b402c3f0f2-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Ni%20no%20Kuni%20II:%20Revenant%20Kingdom-40x56.jpg",
+                                    "id": "494556",
+                                    "name": "Ni no Kuni II: Revenant Kingdom"
+                                },
+                                "id": "28493634624",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balthezarx-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Ni no Kuni II and Hollow Knight Reruns!",
+                                "type": "rerun",
+                                "viewersCount": 1
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTA=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Darckdaemon",
+                                    "id": "83464354",
+                                    "login": "darckdaemon",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Ni%20no%20Kuni%20II:%20Revenant%20Kingdom-40x56.jpg",
+                                    "id": "494556",
+                                    "name": "Ni no Kuni II: Revenant Kingdom"
+                                },
+                                "id": "28499196128",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_darckdaemon-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "D\u00e9couverte",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTE=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "ludogamersclub",
+                                    "id": "109248897",
+                                    "login": "ludogamersclub",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/ludogamersclub-profile_image-95f562349bc21fdc-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Ni%20no%20Kuni%20II:%20Revenant%20Kingdom-40x56.jpg",
+                                    "id": "494556",
+                                    "name": "Ni no Kuni II: Revenant Kingdom"
+                                },
+                                "id": "28498792592",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ludogamersclub-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[FR / PS4 / 720p]   chapitre 3 la ville du hazard 2eme  partie",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTI=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "TremaEU",
+                                    "id": "26800128",
+                                    "login": "tremaeu",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/e6ca98ee5f07a4b6-profile_image-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Ni%20no%20Kuni%20II:%20Revenant%20Kingdom-40x56.jpg",
+                                    "id": "494556",
+                                    "name": "Ni no Kuni II: Revenant Kingdom"
+                                },
+                                "id": "28498432384",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tremaeu-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Ni no Kuni II Playthrough",
+                                "type": "live",
+                                "viewersCount": 0
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTM=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "timleftwich",
+                                    "id": "25268105",
+                                    "login": "timleftwich",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/timleftwich-profile_image-f09e93060f64e4cd-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Ni%20no%20Kuni%20II:%20Revenant%20Kingdom-40x56.jpg",
+                                    "id": "494556",
+                                    "name": "Ni no Kuni II: Revenant Kingdom"
+                                },
+                                "id": "28496128544",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_timleftwich-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Ni No Kuni II: Revenant Kingdom - Tim's Twitch!!",
+                                "type": "rerun",
+                                "viewersCount": 0
+                            }
+                        }
+                    ],
+                    "pageInfo": {
+                        "__typename": "PageInfo",
+                        "hasNextPage": false
+                    }
+                }
+            }
+        },
+        "extensions": {
+            "durationMilliseconds": 92,
+            "operationName": "GamePage_Game"
+        }
+    }
+]

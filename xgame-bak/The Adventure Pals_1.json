@@ -1,0 +1,76 @@
+[
+    {
+        "data": {
+            "directory": {
+                "__typename": "Game",
+                "displayName": "The Adventure Pals",
+                "id": "498404",
+                "streams": {
+                    "__typename": "StreamConnection",
+                    "edges": [
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MA==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "TofuTofuPanic",
+                                    "id": "133995047",
+                                    "login": "tofutofupanic",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/585b084f-93da-4806-9d2b-288fd4792fb2-profile_image-50x50.jpg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Adventure%20Pals-40x56.jpg",
+                                    "id": "498404",
+                                    "name": "The Adventure Pals"
+                                },
+                                "id": "28497692000",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tofutofupanic-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "St. Jude PLAY LIVE | !giveaway !charity | all da pals. all da adventures. all da cute.",
+                                "type": "live",
+                                "viewersCount": 48
+                            }
+                        }
+                    ],
+                    "pageInfo": {
+                        "__typename": "PageInfo",
+                        "hasNextPage": false
+                    }
+                }
+            }
+        },
+        "extensions": {
+            "durationMilliseconds": 87,
+            "operationName": "GamePage_Game"
+        }
+    }
+]

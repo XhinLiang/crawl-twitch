@@ -1,0 +1,1584 @@
+[
+    {
+        "data": {
+            "directory": {
+                "__typename": "Game",
+                "displayName": "Frostpunk",
+                "id": "493549",
+                "streams": {
+                    "__typename": "StreamConnection",
+                    "edges": [
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MA==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "\uc250\ub9ac",
+                                    "id": "81441754",
+                                    "login": "kss7749",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/kss7749-profile_image-a09a9471b637c10a-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Frostpunk-40x56.jpg",
+                                    "id": "493549",
+                                    "name": "Frostpunk"
+                                },
+                                "id": "28499076112",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kss7749-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\uc250\ub9ac\uc758 \uac8c\uc784\ubc29\uc1a1(\uc2e0\uc791 \ud504\ub85c\uc2a4\ud2b8\ud391\ud06c)",
+                                "type": "live",
+                                "viewersCount": 4746
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MQ==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "AdmiralBahroo",
+                                    "id": "40972890",
+                                    "login": "admiralbahroo",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/admiralbahroo-profile_image-9631b9c9dd19cdad-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Frostpunk-40x56.jpg",
+                                    "id": "493549",
+                                    "name": "Frostpunk"
+                                },
+                                "id": "28501042848",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_admiralbahroo-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "DOWN WITH THE TYRANT PANDA LORD!",
+                                "type": "live",
+                                "viewersCount": 2073
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Mg==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "RockAlone",
+                                    "id": "29151663",
+                                    "login": "rockalone",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/c26cd693ed0dafa6-profile_image-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Frostpunk-40x56.jpg",
+                                    "id": "493549",
+                                    "name": "Frostpunk"
+                                },
+                                "id": "28498549104",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rockalone-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": ""
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "2018-04-28 Dzisiaj subscribers mode ze wzgl\u0119du na spoilery Avengers. Gramy w Hearthstone, R6, Gears of War 4 i  mo\u017ce co\u015b jeszcze.",
+                                "type": "live",
+                                "viewersCount": 1255
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Mw==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "MenosTrece",
+                                    "id": "85652487",
+                                    "login": "menostrece",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/6669923876a6aeb1-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Frostpunk-40x56.jpg",
+                                    "id": "493549",
+                                    "name": "Frostpunk"
+                                },
+                                "id": "28499178304",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_menostrece-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[ES] PRIMER CONTACTO!!",
+                                "type": "live",
+                                "viewersCount": 1077
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NA==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "ChristopherOdd",
+                                    "id": "35781477",
+                                    "login": "christopherodd",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/abad30378d2c38a3-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Frostpunk-40x56.jpg",
+                                    "id": "493549",
+                                    "name": "Frostpunk"
+                                },
+                                "id": "28499536800",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_christopherodd-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "THE ARKS !save10frost !bitsonsale !freesub",
+                                "type": "live",
+                                "viewersCount": 756
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "NQ==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "TianKami",
+                                    "id": "95645837",
+                                    "login": "tiankami",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/41bdcb04-53c8-4beb-866b-59e84ca8d924-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Frostpunk-40x56.jpg",
+                                    "id": "493549",
+                                    "name": "Frostpunk"
+                                },
+                                "id": "28496894576",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiankami-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u0412\u044b\u0436\u0438\u0432\u0430\u043d\u0438\u0435 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0431\u0435\u0437 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442\u0430! \u041f\u043e\u043b\u043d\u043e\u0435 \u043f\u0440\u043e\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u0435. \u0424\u0438\u043c\u0431\u0443\u043b\u044c\u0432\u0438\u043d\u0442\u0435\u0440!",
+                                "type": "live",
+                                "viewersCount": 550
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Ng==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "chistor_",
+                                    "id": "31050237",
+                                    "login": "chistor_",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/chistor_-profile_image-96bc1f3d6ad11c81-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Frostpunk-40x56.jpg",
+                                    "id": "493549",
+                                    "name": "Frostpunk"
+                                },
+                                "id": "28499434800",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chistor_-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Frostpunk \u041f\u0440\u043e\u0445\u043e\u0434\u0438\u043c \u041a\u043e\u0432\u0447\u0435\u0433\u0438 \u1555( \u0361\u00b0 \u035c\u0296 \u0361\u00b0)\u1557 \u0417\u0430\u0442\u0435\u043c PoE",
+                                "type": "live",
+                                "viewersCount": 478
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Nw==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Flambass",
+                                    "id": "63197750",
+                                    "login": "flambass",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/7715d695-d926-4a5f-83d2-e8bdadadb3bf-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Frostpunk-40x56.jpg",
+                                    "id": "493549",
+                                    "name": "Frostpunk"
+                                },
+                                "id": "28498576256",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_flambass-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "FROSTPUNK !!!",
+                                "type": "live",
+                                "viewersCount": 379
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "OA==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Azriette",
+                                    "id": "88867884",
+                                    "login": "azriette",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/9ae57e22b29f4b8e-profile_image-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Frostpunk-40x56.jpg",
+                                    "id": "493549",
+                                    "name": "Frostpunk"
+                                },
+                                "id": "28500384928",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_azriette-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[FR] FROSTPUNK !! Sc\u00e9nario 2",
+                                "type": "live",
+                                "viewersCount": 271
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "OQ==",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "UrQueeen",
+                                    "id": "85375288",
+                                    "login": "urqueeen",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/urqueeen-profile_image-3bd0794fd0eab47f-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Frostpunk-40x56.jpg",
+                                    "id": "493549",
+                                    "name": "Frostpunk"
+                                },
+                                "id": "28496902352",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_urqueeen-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 18
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\ud83d\udc51ZIMNO JAK U KOLCA W KARTONIE\ud83d\udc51",
+                                "type": "live",
+                                "viewersCount": 224
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTA=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "\uc561\uc2dc\uc2a4\ub9c8\uc774\ucf5c",
+                                    "id": "25247111",
+                                    "login": "sn400ja",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/df7725bb-bf72-4aba-8e48-442bd86c8814-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Frostpunk-40x56.jpg",
+                                    "id": "493549",
+                                    "name": "Frostpunk"
+                                },
+                                "id": "28496714512",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sn400ja-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\uc138\uacc4\uba78\ub9dd\ud574\uc11c \uc560\ub4e4 \ub85c\ub3d9\uc2dc\ud0a4\ub294 \uac8c\uc784 Frostpunk",
+                                "type": "live",
+                                "viewersCount": 215
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTE=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "\ud14c\uc774\ud5042",
+                                    "id": "138009512",
+                                    "login": "tape22222",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/8c69671e-2629-43b8-9139-02d8ca530b23-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Frostpunk-40x56.jpg",
+                                    "id": "493549",
+                                    "name": "Frostpunk"
+                                },
+                                "id": "28498648912",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tape22222-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "tape2",
+                                "type": "live",
+                                "viewersCount": 190
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTI=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Khaddy42",
+                                    "id": "61787361",
+                                    "login": "khaddy42",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/khaddy42-profile_image-5cc9061ea645e5a6-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Frostpunk-40x56.jpg",
+                                    "id": "493549",
+                                    "name": "Frostpunk"
+                                },
+                                "id": "28497992240",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_khaddy42-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Tag 1 - Winter is comming",
+                                "type": "live",
+                                "viewersCount": 133
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTM=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Crafak",
+                                    "id": "29078073",
+                                    "login": "crafak",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/a83224149b42ce42-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Frostpunk-40x56.jpg",
+                                    "id": "493549",
+                                    "name": "Frostpunk"
+                                },
+                                "id": "28500309504",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_crafak-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Mus\u00edme zachr\u00e1nit semeno! [Sponzor streamu: spartak0021]",
+                                "type": "live",
+                                "viewersCount": 126
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTQ=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "NotEmerse",
+                                    "id": "50178466",
+                                    "login": "notemerse",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/notemerse-profile_image-f92b4f6328824625-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Frostpunk-40x56.jpg",
+                                    "id": "493549",
+                                    "name": "Frostpunk"
+                                },
+                                "id": "28498501024",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notemerse-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Sea Ice Kappa",
+                                "type": "live",
+                                "viewersCount": 99
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTU=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "PanthaaJV",
+                                    "id": "80867445",
+                                    "login": "panthaajv",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/d42e37c7-ec32-403c-8795-a1859647b594-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Frostpunk-40x56.jpg",
+                                    "id": "493549",
+                                    "name": "Frostpunk"
+                                },
+                                "id": "28498925536",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_panthaajv-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Venez on s'ennuie ensemble",
+                                "type": "live",
+                                "viewersCount": 95
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTY=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "OPKROTTE",
+                                    "id": "133034596",
+                                    "login": "opkrotte",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/c3f4b9bd-dfdd-4f02-b2df-f4ea6204772f-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Frostpunk-40x56.jpg",
+                                    "id": "493549",
+                                    "name": "Frostpunk"
+                                },
+                                "id": "28498189504",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opkrotte-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\ud83d\udd34\ud83d\udca9\u2551Je vais avoir besoin de toi... \u2551\ud83d\udce2 !EYEBLUE \ud83d\udce2 !LDLC \u2551 \ud83d\udc99 Twitter : @Opkrotte \u2551",
+                                "type": "live",
+                                "viewersCount": 85
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTc=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "PLAYER1c",
+                                    "id": "82048413",
+                                    "login": "player1c",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/player1c-profile_image-0cafd6026fec84c1-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Frostpunk-40x56.jpg",
+                                    "id": "493549",
+                                    "name": "Frostpunk"
+                                },
+                                "id": "28498678272",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_player1c-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u0e2a\u0e27\u0e31\u0e2a\u0e14\u0e35\u0e40\u0e0a\u0e49\u0e32\u0e27\u0e31\u0e19\u0e40\u0e2a\u0e32\u0e23\u0e4c.",
+                                "type": "live",
+                                "viewersCount": 79
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTg=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Phoenie",
+                                    "id": "100346794",
+                                    "login": "phoenie",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/be784c4f-f110-4f77-ab3e-eecf834cf645-profile_image-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Frostpunk-40x56.jpg",
+                                    "id": "493549",
+                                    "name": "Frostpunk"
+                                },
+                                "id": "28498930528",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_phoenie-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Le retour de la vengeance sur Frostpunk",
+                                "type": "live",
+                                "viewersCount": 75
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MTk=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "uhavetoplay",
+                                    "id": "39357171",
+                                    "login": "uhavetoplay",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/uhavetoplay-profile_image-e41258406bb98d6d-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Frostpunk-40x56.jpg",
+                                    "id": "493549",
+                                    "name": "Frostpunk"
+                                },
+                                "id": "28497328352",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uhavetoplay-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u0410 \u0412\u041e\u0422 \u0429\u0410\u0421 \u0425\u041e\u041b\u041e\u0414\u041d\u041e \u0411\u042b\u041b\u041e",
+                                "type": "live",
+                                "viewersCount": 71
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MjA=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Fongott",
+                                    "id": "96410707",
+                                    "login": "fongott",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/fongott-profile_image-c1b52a917cc068dc-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Frostpunk-40x56.jpg",
+                                    "id": "493549",
+                                    "name": "Frostpunk"
+                                },
+                                "id": "28498708832",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fongott-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": ""
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u0411\u0440\u0440\u0440\u0440, \u0445\u043e\u043b\u043e\u0434\u043d\u043e!",
+                                "type": "live",
+                                "viewersCount": 70
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MjE=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "TheKonqq",
+                                    "id": "148190598",
+                                    "login": "thekonqq",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/thekonqq-profile_image-60c994e1099613af-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Frostpunk-40x56.jpg",
+                                    "id": "493549",
+                                    "name": "Frostpunk"
+                                },
+                                "id": "28499131888",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thekonqq-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u2744\ufe0f \u00dc\u015f\u00fcyoruz Be Reis \ud83d\udd90   - instagram/thekonqq \ud83e\udd4a \ud83c\uddf9\ud83c\uddf7\ud83d\udc48\ud83c\udfff",
+                                "type": "live",
+                                "viewersCount": 69
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MjI=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "HadoVebeap",
+                                    "id": "21648735",
+                                    "login": "hadovebeap",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/hadovebeap-profile_image-930af0d1d189ea7f-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Frostpunk-40x56.jpg",
+                                    "id": "493549",
+                                    "name": "Frostpunk"
+                                },
+                                "id": "28498977408",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hadovebeap-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[DE] [EN] Map 3, ohwei!",
+                                "type": "live",
+                                "viewersCount": 66
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MjM=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Eviltrick",
+                                    "id": "27696547",
+                                    "login": "eviltrick",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/eviltrick-profile_image-76a3a452319d8fb5-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Frostpunk-40x56.jpg",
+                                    "id": "493549",
+                                    "name": "Frostpunk"
+                                },
+                                "id": "28497164560",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eviltrick-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "2nd Scenario: The Arks | HARD ONLY since Survival is NOT easy",
+                                "type": "live",
+                                "viewersCount": 55
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MjQ=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "moblue",
+                                    "id": "79203575",
+                                    "login": "moblue",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/be4d970e300cbdfe-profile_image-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Frostpunk-40x56.jpg",
+                                    "id": "493549",
+                                    "name": "Frostpunk"
+                                },
+                                "id": "28500592352",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_moblue-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "winter is here",
+                                "type": "live",
+                                "viewersCount": 51
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MjU=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "golaya_",
+                                    "id": "77803520",
+                                    "login": "golaya_",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/golaya_-profile_image-808277d3e94e9f72-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Frostpunk-40x56.jpg",
+                                    "id": "493549",
+                                    "name": "Frostpunk"
+                                },
+                                "id": "28499683072",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_golaya_-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "\u041d\u043e\u0432\u0430\u044f \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u044f-\u0432\u044b\u0436\u0438\u0432\u0430\u043b\u043a\u0430 Frostpunk: \u041d\u0435 \u0434\u0430\u0439 \u0441\u0435\u0431\u0435 \u0437\u0430\u043c\u0435\u0440\u0437\u043d\u0443\u0442\u044c!",
+                                "type": "live",
+                                "viewersCount": 50
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "MjY=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "\uc544\ub370\ub4dc",
+                                    "id": "138602846",
+                                    "login": "ideadead",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/ideadead-profile_image-6c24a0e68c220b33-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Frostpunk-40x56.jpg",
+                                    "id": "493549",
+                                    "name": "Frostpunk"
+                                },
+                                "id": "28497702960",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ideadead-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[\uc544\ub370\ub4dc.\ub315\ub315\uc218\uba74\uc2e4] \ud504\ub85c\uc2a4\ud2b8 \ud391\ud06c \ucd5c\uace0\ub09c\uc774\ub3c4 \ub3c4\uc804. Frostpunk",
+                                "type": "live",
+                                "viewersCount": 49
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Mjc=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "MadDuckRanger",
+                                    "id": "134273475",
+                                    "login": "madduckranger",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/madduckranger-profile_image-7e3aef189f0b405d-50x50.jpeg",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": false
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Frostpunk-40x56.jpg",
+                                    "id": "493549",
+                                    "name": "Frostpunk"
+                                },
+                                "id": "28499006080",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_madduckranger-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "#4 Frostpunk \u0e24\u0e14\u0e39\u0e2b\u0e19\u0e32\u0e27\u0e01\u0e33\u0e25\u0e31\u0e07\u0e08\u0e30\u0e21\u0e32",
+                                "type": "live",
+                                "viewersCount": 48
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Mjg=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "Sponsorius",
+                                    "id": "28147105",
+                                    "login": "sponsorius",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/sponsorius-profile_image-edee1e2bf1e054c1-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Frostpunk-40x56.jpg",
+                                    "id": "493549",
+                                    "name": "Frostpunk"
+                                },
+                                "id": "28498914016",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sponsorius-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": ""
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "Hardest difficulty monkaS spoEZ",
+                                "type": "live",
+                                "viewersCount": 46
+                            }
+                        },
+                        {
+                            "__typename": "StreamEdge",
+                            "cursor": "Mjk=",
+                            "node": {
+                                "__typename": "Stream",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "OzzyInSpace",
+                                    "id": "91422562",
+                                    "login": "ozzyinspace",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/ozzyinspace-profile_image-483fcf9462d90f11-50x50.png",
+                                    "roles": {
+                                        "__typename": "UserRoles",
+                                        "isPartner": true
+                                    }
+                                },
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Frostpunk-40x56.jpg",
+                                    "id": "493549",
+                                    "name": "Frostpunk"
+                                },
+                                "id": "28500102320",
+                                "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ozzyinspace-320x180.jpg",
+                                "streamMetadata": {
+                                    "__typename": "StreamMetadata",
+                                    "counterStrikeGlobalOffensive": {
+                                        "__typename": "CounterStrikeGlobalOffensive",
+                                        "skill": 0
+                                    },
+                                    "hearthstone": {
+                                        "__typename": "Hearthstone",
+                                        "broadcasterHeroClass": null
+                                    },
+                                    "leagueOfLegends": {
+                                        "__typename": "LeagueOfLegends",
+                                        "championID": 0,
+                                        "summonerDivision": null,
+                                        "summonerID": 0,
+                                        "summonerName": null,
+                                        "summonerRank": null
+                                    },
+                                    "overwatch": {
+                                        "__typename": "Overwatch",
+                                        "broadcasterCharacter": null
+                                    }
+                                },
+                                "title": "[ENG] Stay Frosty my Friends!",
+                                "type": "live",
+                                "viewersCount": 36
+                            }
+                        }
+                    ],
+                    "pageInfo": {
+                        "__typename": "PageInfo",
+                        "hasNextPage": true
+                    }
+                }
+            }
+        },
+        "extensions": {
+            "durationMilliseconds": 98,
+            "operationName": "GamePage_Game"
+        }
+    }
+]
