@@ -17,7 +17,7 @@ curl 'https://gql.twitch.tv/gql' -H 'Origin: https://www.twitch.tv' -H 'Accept-E
 cmd = cmd.replace("\\\n", "")
 
 
-def fuck_room(game_name, cursor=None):
+def fuck_room(game_name, cursor, queue, pool):
     if cursor is not None:
         c = cmd.replace('XHINLIANG_CURSOR', ',"cursor":"%s"' % cursor)
     else:
@@ -30,28 +30,21 @@ def fuck_room(game_name, cursor=None):
     json_object = json.loads(output)
     edges = json_object[0]['data']['directory']['streams']['edges']
     if len(edges) == 0:
-        return json.loads("{}"), "xx", False, 0
+        queue.put([game_name, -1])
+        return
     last_object = edges[-1]
     last_cursor = last_object['cursor']
     has_next_page = json_object[0]['data']['directory']['streams']['pageInfo']['hasNextPage']
-    return json_object, last_cursor, has_next_page, len(edges)
+    queue.put([game_name, len(edges)])
+    if not has_next_page:
+        queue.put([game_name, -1])
+        return
+    pool.submit(fuck_room, game_name, last_cursor, queue, pool)
 
 
-def fuck_game(name, queue):
+def fuck_game(name, queue, pool):
     name = name.replace("'", "\\'")
-    should_continue = True
-    page = 1
-    cursor = None
-    count = 0
-    sys.stdout.write(name)
-    while should_continue:
-        sys.stdout.write(".")
-        sys.stdout.flush()
-        j, cursor, should_continue, current_count = fuck_room(name, cursor)
-        page = page + 1
-        count = count + current_count
-    sys.stdout.write("\n %s done\n" % name)
-    queue.put("%s, %d\n" % (name, count))
+    pool.submit(fuck_room, name, None, queue, pool)
 
 
 def main():
@@ -61,12 +54,24 @@ def main():
     queue = Queue()
 
     def write_count(q):
+        m = {}
         with open("game_rooms_count.csv", "w", encoding='utf-8') as f:
             while True:
                 d = q.get()
-                print(d)
-                f.write(d)
-                f.flush()
+                n, c = d[0], d[1]
+                sys.stdout.write(".")
+                sys.stdout.flush()
+                if c != -1:
+                    if n not in m:
+                        m[n] = d[1]
+                    else:
+                        m[n] = m[n] + c
+                else:
+                    if n not in m:
+                        m[n] = 0
+                    sys.stdout.write("%s, %d\n" % (n, m[n]))
+                    f.write("%s, %d\n" % (n, m[n]))
+                    f.flush()
 
     write_thread = Thread(target=write_count, args=(queue,))
     write_thread.setDaemon(True)
@@ -79,7 +84,7 @@ def main():
             data = json.load(f)
             for edge in data[0]['data']['directories']['edges']:
                 name = edge['node']['name']
-                pool.submit(fuck_game, name, queue)
+                fuck_game(name, queue, pool)
 
 
 if __name__ == '__main__':
