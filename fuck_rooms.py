@@ -61,7 +61,7 @@ def main():
     queue = Queue()
 
     def write_count(q):
-        with open("game_rooms_count.csv", "a", encoding='utf-8') as f:
+        with open("game_rooms_count.csv", "w", encoding='utf-8') as f:
             while True:
                 d = q.get()
                 print(d)
