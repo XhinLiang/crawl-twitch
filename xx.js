@@ -5,6 +5,9 @@ curl 'https://gql.twitch.tv/gql' -H 'Origin: https://www.twitch.tv' -H 'Accept-E
 var fs = require('fs');
 
 
+
+
+
 let fuckRoom = function (gameName, cursor, callback) {
   let c = constCmd.replace("XHINLIANG_CURSOR", '');
   if (cursor != null) {
@@ -15,7 +18,7 @@ let fuckRoom = function (gameName, cursor, callback) {
 
   exec(c, (err, stdout, stderr) => {
     if (err) {
-      // node couldn't execute the command
+      // node couldn't execute the com地方地方mand
       console.log("error" + err);
       return;
     }
