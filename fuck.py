@@ -31,6 +31,6 @@ page = 1
 cursor = None
 while should_continue:
     j, cursor, should_continue = xx(cursor)
-    with open(str(page) + ".json", 'w') as f:
+    with open("games/" + str(page) + ".json", 'w') as f:
         f.write(json.dumps(j, indent=4, sort_keys=True))
     page = page + 1

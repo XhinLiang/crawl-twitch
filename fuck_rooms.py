@@ -17,7 +17,8 @@ curl 'https://gql.twitch.tv/gql' -H 'Origin: https://www.twitch.tv' -H 'Accept-E
 cmd = cmd.replace("\\\n", "")
 
 
-def fuck_room(game_name, cursor, queue, pool):
+def fuck_room(game, cursor, queue, pool):
+    game_name = game['name']
     if cursor is not None:
         c = cmd.replace('XHINLIANG_CURSOR', ',"cursor":"%s"' % cursor)
     else:
@@ -30,21 +31,21 @@ def fuck_room(game_name, cursor, queue, pool):
     json_object = json.loads(output)
     edges = json_object[0]['data']['directory']['streams']['edges']
     if len(edges) == 0:
-        queue.put([game_name, -1])
+        queue.put([game_name, -1, game['viewCount']])
         return
     last_object = edges[-1]
     last_cursor = last_object['cursor']
     has_next_page = json_object[0]['data']['directory']['streams']['pageInfo']['hasNextPage']
     queue.put([game_name, len(edges)])
     if not has_next_page:
-        queue.put([game_name, -1])
+        queue.put([game_name, -1, game['viewCount']])
         return
-    pool.submit(fuck_room, game_name, last_cursor, queue, pool)
+    pool.submit(fuck_room, game, last_cursor, queue, pool)
 
 
-def fuck_game(name, queue, pool):
-    name = name.replace("'", "\\'")
-    pool.submit(fuck_room, name, None, queue, pool)
+def fuck_game(game, queue, pool):
+    game['name'] = game['name'].replace("'", "\\'")
+    pool.submit(fuck_room, game, None, queue, pool)
 
 
 def main():
@@ -70,11 +71,10 @@ def main():
                     if n not in m:
                         m[n] = 0
                     sys.stdout.write("%s, %d\n" % (n, m[n]))
-                    f.write("%s, %d\n" % (n, m[n]))
+                    f.write("%s, %d, %d\n" % (n, m[n], d[2]))
                     f.flush()
 
     write_thread = Thread(target=write_count, args=(queue,))
-    write_thread.setDaemon(True)
     write_thread.start()
 
     json_files = [f for f in listdir(games_path) if isfile(join(games_path, f))]
@@ -84,7 +84,7 @@ def main():
             data = json.load(f)
             for edge in data[0]['data']['directories']['edges']:
                 name = edge['node']['name']
-                fuck_game(name, queue, pool)
+                fuck_game({'name': name, 'viewCount': edge['node']['viewersCount']}, queue, pool)
 
 
 if __name__ == '__main__':

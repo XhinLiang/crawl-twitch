@@ -9,13 +9,18 @@
                         "cursor": "ODg=",
                         "node": {
                             "__typename": "Game",
-                            "activeDropCampaigns": [],
-                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/SOMA-285x380.jpg",
+                            "activeDropCampaigns": [
+                                {
+                                    "__typename": "DropCampaign",
+                                    "applicableChannels": []
+                                }
+                            ],
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Quake%20Champions-285x380.jpg",
                             "directoryType": "GAME",
-                            "displayName": "SOMA",
-                            "id": "458224",
-                            "name": "SOMA",
-                            "viewersCount": 614
+                            "displayName": "Quake Champions",
+                            "id": "496253",
+                            "name": "Quake Champions",
+                            "viewersCount": 396
                         }
                     },
                     {
@@ -24,12 +29,12 @@
                         "node": {
                             "__typename": "Game",
                             "activeDropCampaigns": [],
-                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/H1Z1-285x380.jpg",
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Paper%20Mario:%20The%20Thousand-Year%20Door-285x380.jpg",
                             "directoryType": "GAME",
-                            "displayName": "H1Z1",
-                            "id": "417892",
-                            "name": "H1Z1",
-                            "viewersCount": 611
+                            "displayName": "Paper Mario: The Thousand-Year Door",
+                            "id": "6855",
+                            "name": "Paper Mario: The Thousand-Year Door",
+                            "viewersCount": 388
                         }
                     },
                     {
@@ -38,12 +43,12 @@
                         "node": {
                             "__typename": "Game",
                             "activeDropCampaigns": [],
-                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Diablo%20III:%20Reaper%20of%20Souls-285x380.jpg",
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Heroes%20of%20Newerth-285x380.jpg",
                             "directoryType": "GAME",
-                            "displayName": "Diablo III: Reaper of Souls",
-                            "id": "313558",
-                            "name": "Diablo III: Reaper of Souls",
-                            "viewersCount": 589
+                            "displayName": "Heroes of Newerth",
+                            "id": "24664",
+                            "name": "Heroes of Newerth",
+                            "viewersCount": 387
                         }
                     },
                     {
@@ -52,12 +57,12 @@
                         "node": {
                             "__typename": "Game",
                             "activeDropCampaigns": [],
-                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/DayZ-285x380.jpg",
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/7%20Days%20to%20Die-285x380.jpg",
                             "directoryType": "GAME",
-                            "displayName": "DayZ",
-                            "id": "65632",
-                            "name": "DayZ",
-                            "viewersCount": 589
+                            "displayName": "7 Days to Die",
+                            "id": "271304",
+                            "name": "7 Days to Die",
+                            "viewersCount": 379
                         }
                     },
                     {
@@ -66,12 +71,12 @@
                         "node": {
                             "__typename": "Game",
                             "activeDropCampaigns": [],
-                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Beholder-285x380.jpg",
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/System%20Shock%202-285x380.jpg",
                             "directoryType": "GAME",
-                            "displayName": "Beholder",
-                            "id": "493890",
-                            "name": "Beholder",
-                            "viewersCount": 588
+                            "displayName": "System Shock 2",
+                            "id": "8135",
+                            "name": "System Shock 2",
+                            "viewersCount": 371
                         }
                     },
                     {
@@ -80,12 +85,12 @@
                         "node": {
                             "__typename": "Game",
                             "activeDropCampaigns": [],
-                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Chess-285x380.jpg",
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Elder%20Scrolls%20Online-285x380.jpg",
                             "directoryType": "GAME",
-                            "displayName": "Chess",
-                            "id": "743",
-                            "name": "Chess",
-                            "viewersCount": 584
+                            "displayName": "The Elder Scrolls Online",
+                            "id": "65654",
+                            "name": "The Elder Scrolls Online",
+                            "viewersCount": 366
                         }
                     },
                     {
@@ -94,12 +99,12 @@
                         "node": {
                             "__typename": "Game",
                             "activeDropCampaigns": [],
-                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Arma%203-285x380.jpg",
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Terraria-285x380.jpg",
                             "directoryType": "GAME",
-                            "displayName": "Arma 3",
-                            "id": "31750",
-                            "name": "Arma 3",
-                            "viewersCount": 580
+                            "displayName": "Terraria",
+                            "id": "31376",
+                            "name": "Terraria",
+                            "viewersCount": 360
                         }
                     },
                     {
@@ -108,12 +113,12 @@
                         "node": {
                             "__typename": "Game",
                             "activeDropCampaigns": [],
-                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Legend%20of%20Zelda:%20Breath%20of%20the%20Wild-285x380.jpg",
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fatal%20Frame-285x380.jpg",
                             "directoryType": "GAME",
-                            "displayName": "The Legend of Zelda: Breath of the Wild",
-                            "id": "110758",
-                            "name": "The Legend of Zelda: Breath of the Wild",
-                            "viewersCount": 577
+                            "displayName": "Fatal Frame",
+                            "id": "16570",
+                            "name": "Fatal Frame",
+                            "viewersCount": 358
                         }
                     },
                     {
@@ -122,12 +127,12 @@
                         "node": {
                             "__typename": "Game",
                             "activeDropCampaigns": [],
-                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Business%20Tour-285x380.jpg",
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Surge-285x380.jpg",
                             "directoryType": "GAME",
-                            "displayName": "Business Tour",
-                            "id": "497852",
-                            "name": "Business Tour",
-                            "viewersCount": 574
+                            "displayName": "The Surge",
+                            "id": "496233",
+                            "name": "The Surge",
+                            "viewersCount": 336
                         }
                     },
                     {
@@ -136,12 +141,12 @@
                         "node": {
                             "__typename": "Game",
                             "activeDropCampaigns": [],
-                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/MapleStory-285x380.jpg",
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dungeons%20&%20Dragons-285x380.jpg",
                             "directoryType": "GAME",
-                            "displayName": "MapleStory",
-                            "id": "19976",
-                            "name": "MapleStory",
-                            "viewersCount": 571
+                            "displayName": "Dungeons & Dragons",
+                            "id": "31621",
+                            "name": "Dungeons & Dragons",
+                            "viewersCount": 329
                         }
                     },
                     {
@@ -150,12 +155,12 @@
                         "node": {
                             "__typename": "Game",
                             "activeDropCampaigns": [],
-                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Point%20Blank-285x380.jpg",
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Battle%20Brothers-285x380.jpg",
                             "directoryType": "GAME",
-                            "displayName": "Point Blank",
-                            "id": "8510",
-                            "name": "Point Blank",
-                            "viewersCount": 542
+                            "displayName": "Battle Brothers",
+                            "id": "490771",
+                            "name": "Battle Brothers",
+                            "viewersCount": 326
                         }
                     },
                     {
@@ -164,12 +169,12 @@
                         "node": {
                             "__typename": "Game",
                             "activeDropCampaigns": [],
-                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/7%20Days%20to%20Die-285x380.jpg",
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Diablo%20III:%20Reaper%20of%20Souls-285x380.jpg",
                             "directoryType": "GAME",
-                            "displayName": "7 Days to Die",
-                            "id": "271304",
-                            "name": "7 Days to Die",
-                            "viewersCount": 508
+                            "displayName": "Diablo III: Reaper of Souls",
+                            "id": "313558",
+                            "name": "Diablo III: Reaper of Souls",
+                            "viewersCount": 322
                         }
                     },
                     {
@@ -178,12 +183,12 @@
                         "node": {
                             "__typename": "Game",
                             "activeDropCampaigns": [],
-                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Clash%20Royale-285x380.jpg",
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Jikkyou%20Powerful%20Pro%20Yakyuu%202018-285x380.jpg",
                             "directoryType": "GAME",
-                            "displayName": "Clash Royale",
-                            "id": "491168",
-                            "name": "Clash Royale",
-                            "viewersCount": 506
+                            "displayName": "Jikkyou Powerful Pro Yakyuu 2018",
+                            "id": "503076",
+                            "name": "Jikkyou Powerful Pro Yakyuu 2018",
+                            "viewersCount": 319
                         }
                     },
                     {
@@ -192,12 +197,12 @@
                         "node": {
                             "__typename": "Game",
                             "activeDropCampaigns": [],
-                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Super%20Mario%20Maker-285x380.jpg",
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Legend%20of%20Zelda:%20Link%27s%20Awakening%20DX-285x380.jpg",
                             "directoryType": "GAME",
-                            "displayName": "Super Mario Maker",
-                            "id": "490608",
-                            "name": "Super Mario Maker",
-                            "viewersCount": 506
+                            "displayName": "The Legend of Zelda: Link's Awakening DX",
+                            "id": "8144",
+                            "name": "The Legend of Zelda: Link's Awakening DX",
+                            "viewersCount": 318
                         }
                     },
                     {
@@ -206,12 +211,12 @@
                         "node": {
                             "__typename": "Game",
                             "activeDropCampaigns": [],
-                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Girls%20Frontline-285x380.jpg",
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Tom%20Clancy%27s%20The%20Division-285x380.jpg",
                             "directoryType": "GAME",
-                            "displayName": "Girls Frontline",
-                            "id": "494030",
-                            "name": "Girls Frontline",
-                            "viewersCount": 490
+                            "displayName": "Tom Clancy's The Division",
+                            "id": "369579",
+                            "name": "Tom Clancy's The Division",
+                            "viewersCount": 316
                         }
                     },
                     {
@@ -220,12 +225,12 @@
                         "node": {
                             "__typename": "Game",
                             "activeDropCampaigns": [],
-                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Silent%20Hill-285x380.jpg",
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/MapleStory-285x380.jpg",
                             "directoryType": "GAME",
-                            "displayName": "Silent Hill",
-                            "id": "3947",
-                            "name": "Silent Hill",
-                            "viewersCount": 468
+                            "displayName": "MapleStory",
+                            "id": "19976",
+                            "name": "MapleStory",
+                            "viewersCount": 296
                         }
                     },
                     {
@@ -234,12 +239,12 @@
                         "node": {
                             "__typename": "Game",
                             "activeDropCampaigns": [],
-                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Divinity:%20Original%20Sin%20II-285x380.jpg",
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fallout%204-285x380.jpg",
                             "directoryType": "GAME",
-                            "displayName": "Divinity: Original Sin II",
-                            "id": "490644",
-                            "name": "Divinity: Original Sin II",
-                            "viewersCount": 463
+                            "displayName": "Fallout 4",
+                            "id": "489776",
+                            "name": "Fallout 4",
+                            "viewersCount": 287
                         }
                     },
                     {
@@ -248,12 +253,12 @@
                         "node": {
                             "__typename": "Game",
                             "activeDropCampaigns": [],
-                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Risk%20of%20Rain-285x380.jpg",
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/NBA%202K18-285x380.jpg",
                             "directoryType": "GAME",
-                            "displayName": "Risk of Rain",
-                            "id": "263489",
-                            "name": "Risk of Rain",
-                            "viewersCount": 446
+                            "displayName": "NBA 2K18",
+                            "id": "495056",
+                            "name": "NBA 2K18",
+                            "viewersCount": 283
                         }
                     },
                     {
@@ -262,12 +267,12 @@
                         "node": {
                             "__typename": "Game",
                             "activeDropCampaigns": [],
-                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Elder%20Scrolls%20Online-285x380.jpg",
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Arma%203-285x380.jpg",
                             "directoryType": "GAME",
-                            "displayName": "The Elder Scrolls Online",
-                            "id": "65654",
-                            "name": "The Elder Scrolls Online",
-                            "viewersCount": 439
+                            "displayName": "Arma 3",
+                            "id": "31750",
+                            "name": "Arma 3",
+                            "viewersCount": 283
                         }
                     },
                     {
@@ -276,12 +281,12 @@
                         "node": {
                             "__typename": "Game",
                             "activeDropCampaigns": [],
-                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Battlerite-285x380.jpg",
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/osu%21-285x380.jpg",
                             "directoryType": "GAME",
-                            "displayName": "Battlerite",
-                            "id": "493277",
-                            "name": "Battlerite",
-                            "viewersCount": 438
+                            "displayName": "osu!",
+                            "id": "21465",
+                            "name": "osu!",
+                            "viewersCount": 282
                         }
                     },
                     {
@@ -290,12 +295,12 @@
                         "node": {
                             "__typename": "Game",
                             "activeDropCampaigns": [],
-                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Guild%20Wars%202-285x380.jpg",
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Super%20Mario%2064-285x380.jpg",
                             "directoryType": "GAME",
-                            "displayName": "Guild Wars 2",
-                            "id": "19357",
-                            "name": "Guild Wars 2",
-                            "viewersCount": 430
+                            "displayName": "Super Mario 64",
+                            "id": "2692",
+                            "name": "Super Mario 64",
+                            "viewersCount": 280
                         }
                     },
                     {
@@ -304,12 +309,12 @@
                         "node": {
                             "__typename": "Game",
                             "activeDropCampaigns": [],
-                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Blade%20and%20Soul-285x380.jpg",
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fallout:%20New%20Vegas-285x380.jpg",
                             "directoryType": "GAME",
-                            "displayName": "Blade and Soul",
-                            "id": "20423",
-                            "name": "Blade and Soul",
-                            "viewersCount": 428
+                            "displayName": "Fallout: New Vegas",
+                            "id": "23453",
+                            "name": "Fallout: New Vegas",
+                            "viewersCount": 278
                         }
                     },
                     {
@@ -318,12 +323,12 @@
                         "node": {
                             "__typename": "Game",
                             "activeDropCampaigns": [],
-                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Elder%20Scrolls%20V:%20Skyrim-285x380.jpg",
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/GetAmped-285x380.jpg",
                             "directoryType": "GAME",
-                            "displayName": "The Elder Scrolls V: Skyrim",
-                            "id": "30028",
-                            "name": "The Elder Scrolls V: Skyrim",
-                            "viewersCount": 420
+                            "displayName": "GetAmped",
+                            "id": "67972",
+                            "name": "GetAmped",
+                            "viewersCount": 267
                         }
                     },
                     {
@@ -332,12 +337,12 @@
                         "node": {
                             "__typename": "Game",
                             "activeDropCampaigns": [],
-                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Battlefield%201-285x380.jpg",
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Warhammer:%20Vermintide%202-285x380.jpg",
                             "directoryType": "GAME",
-                            "displayName": "Battlefield 1",
-                            "id": "488500",
-                            "name": "Battlefield 1",
-                            "viewersCount": 391
+                            "displayName": "Warhammer: Vermintide 2",
+                            "id": "498668",
+                            "name": "Warhammer: Vermintide 2",
+                            "viewersCount": 264
                         }
                     },
                     {
@@ -346,12 +351,12 @@
                         "node": {
                             "__typename": "Game",
                             "activeDropCampaigns": [],
-                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Tekken%207-285x380.jpg",
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Legend%20of%20Zelda:%20Majora%27s%20Mask-285x380.jpg",
                             "directoryType": "GAME",
-                            "displayName": "Tekken 7",
-                            "id": "461067",
-                            "name": "Tekken 7",
-                            "viewersCount": 391
+                            "displayName": "The Legend of Zelda: Majora's Mask",
+                            "id": "12482",
+                            "name": "The Legend of Zelda: Majora's Mask",
+                            "viewersCount": 260
                         }
                     },
                     {
@@ -360,12 +365,12 @@
                         "node": {
                             "__typename": "Game",
                             "activeDropCampaigns": [],
-                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Heroes%20of%20Might%20and%20Magic%20III:%20The%20Shadow%20of%20Death-285x380.jpg",
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Guild%20Wars%202-285x380.jpg",
                             "directoryType": "GAME",
-                            "displayName": "Heroes of Might and Magic III: The Shadow of Death",
-                            "id": "2798",
-                            "name": "Heroes of Might and Magic III: The Shadow of Death",
-                            "viewersCount": 378
+                            "displayName": "Guild Wars 2",
+                            "id": "19357",
+                            "name": "Guild Wars 2",
+                            "viewersCount": 258
                         }
                     },
                     {
@@ -374,12 +379,12 @@
                         "node": {
                             "__typename": "Game",
                             "activeDropCampaigns": [],
-                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Mount%20&%20Blade:%20Warband-285x380.jpg",
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Evil%20Within%202-285x380.jpg",
                             "directoryType": "GAME",
-                            "displayName": "Mount & Blade: Warband",
-                            "id": "23166",
-                            "name": "Mount & Blade: Warband",
-                            "viewersCount": 370
+                            "displayName": "The Evil Within 2",
+                            "id": "497437",
+                            "name": "The Evil Within 2",
+                            "viewersCount": 250
                         }
                     },
                     {
@@ -388,12 +393,12 @@
                         "node": {
                             "__typename": "Game",
                             "activeDropCampaigns": [],
-                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Muffled%20Warfare-285x380.jpg",
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Surviving%20Mars-285x380.jpg",
                             "directoryType": "GAME",
-                            "displayName": "Muffled Warfare",
-                            "id": "505536",
-                            "name": "Muffled Warfare",
-                            "viewersCount": 370
+                            "displayName": "Surviving Mars",
+                            "id": "501930",
+                            "name": "Surviving Mars",
+                            "viewersCount": 247
                         }
                     },
                     {
@@ -402,12 +407,12 @@
                         "node": {
                             "__typename": "Game",
                             "activeDropCampaigns": [],
-                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Walking%20Dead:%20A%20New%20Frontier-285x380.jpg",
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Splatoon%202-285x380.jpg",
                             "directoryType": "GAME",
-                            "displayName": "The Walking Dead: A New Frontier",
-                            "id": "461246",
-                            "name": "The Walking Dead: A New Frontier",
-                            "viewersCount": 369
+                            "displayName": "Splatoon 2",
+                            "id": "495064",
+                            "name": "Splatoon 2",
+                            "viewersCount": 244
                         }
                     },
                     {
@@ -416,12 +421,12 @@
                         "node": {
                             "__typename": "Game",
                             "activeDropCampaigns": [],
-                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Arena%20of%20Valor-285x380.jpg",
+                            "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Subnautica-285x380.jpg",
                             "directoryType": "GAME",
-                            "displayName": "Arena of Valor",
-                            "id": "498302",
-                            "name": "Arena of Valor",
-                            "viewersCount": 369
+                            "displayName": "Subnautica",
+                            "id": "460090",
+                            "name": "Subnautica",
+                            "viewersCount": 241
                         }
                     }
                 ],
@@ -432,7 +437,7 @@
             }
         },
         "extensions": {
-            "durationMilliseconds": 44,
+            "durationMilliseconds": 61,
             "operationName": "BrowsePage_AllDirectories"
         }
     }
